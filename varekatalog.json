@@ -19,6 +19,15 @@
       ]
     },
     {
+      "Navn": "Be-kind bar caramel almond\u0026seasalt 40g",
+      "Priser": [
+        {
+          "Pris": 27.90,
+          "Dato": "2026-03-18"
+        }
+      ]
+    },
+    {
       "Navn": "Burger big beef 2x180g",
       "Priser": [
         {
@@ -284,6 +293,15 @@
         {
           "Pris": 29.90,
           "Dato": "2025-06-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Smoothie bringeb\u00E6r\u0026jordb\u00E6r 250ml",
+      "Priser": [
+        {
+          "Pris": 27.90,
+          "Dato": "2026-02-03"
         }
       ]
     },
