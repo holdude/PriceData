@@ -3810,6 +3810,15 @@
       ]
     },
     {
+      "Navn": "Roser 10pk",
+      "Priser": [
+        {
+          "Pris": 99.00,
+          "Dato": "2026-04-10"
+        }
+      ]
+    },
+    {
       "Navn": "Ruccula 65g",
       "Priser": [
         {
@@ -7206,6 +7215,15 @@
         {
           "Pris": 15.90,
           "Dato": "2025-07-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Pinnekj\u00F8tt kokt pr kg",
+      "Priser": [
+        {
+          "Pris": 198.84,
+          "Dato": "2026-04-10"
         }
       ]
     },
