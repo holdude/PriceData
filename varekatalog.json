@@ -1,2 +1,9598 @@
 {
+  "Joker": [
+    {
+      "Navn": "Agurk hel import",
+      "Priser": [
+        {
+          "Pris": 15.90,
+          "Dato": "2025-05-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Agurk hel norsk",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-06-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Battery energy 0,5l",
+      "Priser": [
+        {
+          "Pris": 30.90,
+          "Dato": "2025-05-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Be-kind bar caramel almond\u0026seasalt 40g",
+      "Priser": [
+        {
+          "Pris": 27.90,
+          "Dato": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "Navn": "Burger big beef 2x180g",
+      "Priser": [
+        {
+          "Pris": 79.90,
+          "Dato": "2025-10-05"
+        }
+      ]
+    },
+    {
+      "Navn": "Burgerbr\u00F8d hurra 6stk 480g",
+      "Priser": [
+        {
+          "Pris": 35.90,
+          "Dato": "2025-10-05"
+        }
+      ]
+    },
+    {
+      "Navn": "B\u00E6repose pr stk",
+      "Priser": [
+        {
+          "Pris": 6.75,
+          "Dato": "2025-09-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Cheddar norsk skivet 100g",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-10-05"
+        }
+      ]
+    },
+    {
+      "Navn": "Coca cola 0,33l",
+      "Priser": [
+        {
+          "Pris": 26.90,
+          "Dato": "2025-04-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Coca-cola 0,5l",
+      "Priser": [
+        {
+          "Pris": 30.90,
+          "Dato": "2025-11-23"
+        }
+      ]
+    },
+    {
+      "Navn": "Cola free 1,5l",
+      "Priser": [
+        {
+          "Pris": 18.90,
+          "Dato": "2025-06-22"
+        }
+      ]
+    },
+    {
+      "Navn": "Crispi salat 150g",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-10-05"
+        }
+      ]
+    },
+    {
+      "Navn": "Delt agurk",
+      "Priser": [
+        {
+          "Pris": 16.90,
+          "Dato": "2025-09-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Ekte revet ost original 300g",
+      "Priser": [
+        {
+          "Pris": 61.90,
+          "Dato": "2025-09-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Epok no1 ice blue 4 15,4g",
+      "Priser": [
+        {
+          "Pris": 99.90,
+          "Dato": "2025-05-29"
+        },
+        {
+          "Pris": 101.90,
+          "Dato": "2025-09-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Frokostegg frittg\u00E5ende l 12stk",
+      "Priser": [
+        {
+          "Pris": 59.90,
+          "Dato": "2025-04-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Grove familiebriks 420g",
+      "Priser": [
+        {
+          "Pris": 43.90,
+          "Dato": "2025-04-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Hansa radler grapefrukt 0,5l",
+      "Priser": [
+        {
+          "Pris": 26.90,
+          "Dato": "2025-04-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Helmelk 1l",
+      "Priser": [
+        {
+          "Pris": 26.90,
+          "Dato": "2025-10-05"
+        }
+      ]
+    },
+    {
+      "Navn": "Imsdal 1,5l",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-10-26"
+        }
+      ]
+    },
+    {
+      "Navn": "Isberg mix 250g",
+      "Priser": [
+        {
+          "Pris": 36.90,
+          "Dato": "2025-09-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Isbergsalat stk",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-06-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Kj\u00F8ttdeig storfe 14% u/salt\u0026vann 400g",
+      "Priser": [
+        {
+          "Pris": 50.00,
+          "Dato": "2025-05-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Laban seigmenn 160g",
+      "Priser": [
+        {
+          "Pris": 33.90,
+          "Dato": "2025-06-22"
+        }
+      ]
+    },
+    {
+      "Navn": "Lettmelk 1,0% 1l",
+      "Priser": [
+        {
+          "Pris": 24.90,
+          "Dato": "2025-05-29"
+        }
+      ]
+    },
+    {
+      "Navn": "Lettr\u00F8mme 17% 300g",
+      "Priser": [
+        {
+          "Pris": 24.90,
+          "Dato": "2025-09-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Libresse string truseinnlegg 30stk",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-05-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Maiskorn extra crispy 3x160g",
+      "Priser": [
+        {
+          "Pris": 49.90,
+          "Dato": "2025-09-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Majones ekte 2pk 330g",
+      "Priser": [
+        {
+          "Pris": 44.90,
+          "Dato": "2025-05-29"
+        }
+      ]
+    },
+    {
+      "Navn": "Muffins carrot 100g",
+      "Priser": [
+        {
+          "Pris": 17.90,
+          "Dato": "2025-10-26"
+        }
+      ]
+    },
+    {
+      "Navn": "Myk\u0026rund havre 12stk 450g",
+      "Priser": [
+        {
+          "Pris": 34.90,
+          "Dato": "2025-04-14"
+        }
+      ]
+    },
+    {
+      "Navn": "New energy 45g",
+      "Priser": [
+        {
+          "Pris": 21.90,
+          "Dato": "2025-10-26"
+        }
+      ]
+    },
+    {
+      "Navn": "Oreo kjeks original 154g",
+      "Priser": [
+        {
+          "Pris": 35.90,
+          "Dato": "2025-10-05"
+        }
+      ]
+    },
+    {
+      "Navn": "Pepsi max 0,5l",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-10-05"
+        }
+      ]
+    },
+    {
+      "Navn": "Pizza big one meat lover 555g",
+      "Priser": [
+        {
+          "Pris": 112.90,
+          "Dato": "2025-06-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Premium fl\u00F8teis ekte vanilje 0,85l",
+      "Priser": [
+        {
+          "Pris": 99.00,
+          "Dato": "2025-10-05"
+        }
+      ]
+    },
+    {
+      "Navn": "Red bull regular 250ml",
+      "Priser": [
+        {
+          "Pris": 25.90,
+          "Dato": "2025-10-26"
+        }
+      ]
+    },
+    {
+      "Navn": "Red bull sukkerfri pink edition 250ml",
+      "Priser": [
+        {
+          "Pris": 24.90,
+          "Dato": "2025-04-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Red bull yellow edition 250ml",
+      "Priser": [
+        {
+          "Pris": 15.00,
+          "Dato": "2025-05-01"
+        },
+        {
+          "Pris": 25.90,
+          "Dato": "2025-10-26"
+        }
+      ]
+    },
+    {
+      "Navn": "R\u00F8mmedressing original 125g",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-06-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Smoothie bringeb\u00E6r\u0026jordb\u00E6r 250ml",
+      "Priser": [
+        {
+          "Pris": 27.90,
+          "Dato": "2026-02-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Solo 0,5l",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-05-29"
+        }
+      ]
+    },
+    {
+      "Navn": "Solo super 0,33l",
+      "Priser": [
+        {
+          "Pris": 21.90,
+          "Dato": "2025-05-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Stjernebacon skivet 140g",
+      "Priser": [
+        {
+          "Pris": 27.93,
+          "Dato": "2025-10-05"
+        }
+      ]
+    },
+    {
+      "Navn": "S\u00F8rlandsis vaniljesmak 2l",
+      "Priser": [
+        {
+          "Pris": 54.90,
+          "Dato": "2025-05-29"
+        }
+      ]
+    },
+    {
+      "Navn": "Taco spice mix 25g",
+      "Priser": [
+        {
+          "Pris": 12.90,
+          "Dato": "2025-09-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Tast pant utg\u00E5ende salg av emb",
+      "Priser": [
+        {
+          "Pris": 3.00,
+          "Dato": "2025-06-22"
+        },
+        {
+          "Pris": 2.00,
+          "Dato": "2025-10-05"
+        },
+        {
+          "Pris": 2.33,
+          "Dato": "2025-10-26"
+        }
+      ]
+    },
+    {
+      "Navn": "Tomat s\u00F8t 175g",
+      "Priser": [
+        {
+          "Pris": 24.90,
+          "Dato": "2025-05-31"
+        },
+        {
+          "Pris": 36.90,
+          "Dato": "2025-09-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Tomater kg",
+      "Priser": [
+        {
+          "Pris": 7.53,
+          "Dato": "2025-10-05"
+        }
+      ]
+    },
+    {
+      "Navn": "Tortilla original large 6stk 371g",
+      "Priser": [
+        {
+          "Pris": 36.90,
+          "Dato": "2025-09-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Tortillachips cheese 185g",
+      "Priser": [
+        {
+          "Pris": 44.90,
+          "Dato": "2025-09-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Twix xtra 75g",
+      "Priser": [
+        {
+          "Pris": 34.90,
+          "Dato": "2025-10-26"
+        }
+      ]
+    },
+    {
+      "Navn": "T\u00F8rkerull 4pk",
+      "Priser": [
+        {
+          "Pris": 59.90,
+          "Dato": "2025-10-26"
+        }
+      ]
+    },
+    {
+      "Navn": "Vestlandslefsa m/kanel 4pk 230g",
+      "Priser": [
+        {
+          "Pris": 26.90,
+          "Dato": "2025-10-26"
+        }
+      ]
+    }
+  ],
+  "Kiwi": [
+    {
+      "Navn": "4-korn 675g",
+      "Priser": [
+        {
+          "Pris": 18.40,
+          "Dato": "2025-08-29"
+        }
+      ]
+    },
+    {
+      "Navn": "7fjell juan moore cerveza mexicana 0,33l",
+      "Priser": [
+        {
+          "Pris": 42.90,
+          "Dato": "2025-04-12"
+        }
+      ]
+    },
+    {
+      "Navn": "Accessoirer prisgruppe 4 basic",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-06-16"
+        }
+      ]
+    },
+    {
+      "Navn": "Agave\u0026honning topping 330g",
+      "Priser": [
+        {
+          "Pris": 49.90,
+          "Dato": "2026-01-17"
+        }
+      ]
+    },
+    {
+      "Navn": "Agurk hel norsk",
+      "Priser": [
+        {
+          "Pris": 24.90,
+          "Dato": "2025-04-15"
+        },
+        {
+          "Pris": 26.90,
+          "Dato": "2025-06-07"
+        },
+        {
+          "Pris": 27.90,
+          "Dato": "2026-04-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Aioli 130ml",
+      "Priser": [
+        {
+          "Pris": 16.90,
+          "Dato": "2025-08-18"
+        },
+        {
+          "Pris": 17.40,
+          "Dato": "2025-12-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Akasiehonning flytende 350g",
+      "Priser": [
+        {
+          "Pris": 69.90,
+          "Dato": "2026-01-24"
+        }
+      ]
+    },
+    {
+      "Navn": "Ananas i biter m/juice 3x230g",
+      "Priser": [
+        {
+          "Pris": 43.90,
+          "Dato": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "Navn": "Ananas t\u00F8rket 70g",
+      "Priser": [
+        {
+          "Pris": 22.90,
+          "Dato": "2025-05-10"
+        }
+      ]
+    },
+    {
+      "Navn": "Apetina original white cheese 200g",
+      "Priser": [
+        {
+          "Pris": 37.90,
+          "Dato": "2026-04-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Apetina snack chili 100g",
+      "Priser": [
+        {
+          "Pris": 23.90,
+          "Dato": "2025-08-18"
+        }
+      ]
+    },
+    {
+      "Navn": "Appelsinjuice 1l",
+      "Priser": [
+        {
+          "Pris": 32.40,
+          "Dato": "2025-06-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Appelsinjuice premium 1l",
+      "Priser": [
+        {
+          "Pris": 36.90,
+          "Dato": "2026-02-24"
+        }
+      ]
+    },
+    {
+      "Navn": "Aromasopp 150g",
+      "Priser": [
+        {
+          "Pris": 22.90,
+          "Dato": "2025-05-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Asan intimvask original 400ml",
+      "Priser": [
+        {
+          "Pris": 52.90,
+          "Dato": "2025-07-28"
+        },
+        {
+          "Pris": 55.40,
+          "Dato": "2026-02-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Askim cider m/fersken 0,7l",
+      "Priser": [
+        {
+          "Pris": 39.40,
+          "Dato": "2025-05-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Avfallsposer 30l 20stk",
+      "Priser": [
+        {
+          "Pris": 15.90,
+          "Dato": "2025-10-18"
+        },
+        {
+          "Pris": 14.90,
+          "Dato": "2026-03-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Avfallssekk transparent 120l 10stk",
+      "Priser": [
+        {
+          "Pris": 27.40,
+          "Dato": "2026-01-16"
+        }
+      ]
+    },
+    {
+      "Navn": "Avocado 2pk",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-04-28"
+        },
+        {
+          "Pris": 44.90,
+          "Dato": "2025-11-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Babyspinat 65g",
+      "Priser": [
+        {
+          "Pris": 22.90,
+          "Dato": "2026-01-17"
+        }
+      ]
+    },
+    {
+      "Navn": "Bacon original 120g",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-05-10"
+        }
+      ]
+    },
+    {
+      "Navn": "Bacon skivet 140g",
+      "Priser": [
+        {
+          "Pris": 31.40,
+          "Dato": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Bacon ternet r\u00F8kt p\u00E5 b\u00F8keflis 2x125g",
+      "Priser": [
+        {
+          "Pris": 43.90,
+          "Dato": "2025-07-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Baguette fin steinovnsbakt 2x125g",
+      "Priser": [
+        {
+          "Pris": 22.90,
+          "Dato": "2025-12-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Baguetter fine 2x150g",
+      "Priser": [
+        {
+          "Pris": 16.90,
+          "Dato": "2025-06-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Baguetter fine 6x50g",
+      "Priser": [
+        {
+          "Pris": 16.90,
+          "Dato": "2025-10-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Bakeark 18ark vilje",
+      "Priser": [
+        {
+          "Pris": 12.90,
+          "Dato": "2026-02-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Bakverk, lt-holdbar",
+      "Priser": [
+        {
+          "Pris": 9.90,
+          "Dato": "2025-10-03"
+        },
+        {
+          "Pris": 14.40,
+          "Dato": "2025-11-10"
+        },
+        {
+          "Pris": 14.90,
+          "Dato": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Bananer bama",
+      "Priser": [
+        {
+          "Pris": 4.47,
+          "Dato": "2025-04-24"
+        },
+        {
+          "Pris": 21.65,
+          "Dato": "2025-05-06"
+        },
+        {
+          "Pris": 20.20,
+          "Dato": "2025-05-26"
+        },
+        {
+          "Pris": 24.29,
+          "Dato": "2025-06-24"
+        },
+        {
+          "Pris": 24.16,
+          "Dato": "2025-06-27"
+        },
+        {
+          "Pris": 29.96,
+          "Dato": "2026-01-24"
+        },
+        {
+          "Pris": 28,
+          "Dato": "2026-01-24"
+        },
+        {
+          "Pris": 10.06,
+          "Dato": "2026-02-05"
+        },
+        {
+          "Pris": 28.91,
+          "Dato": "2026-02-05"
+        },
+        {
+          "Pris": 12.16,
+          "Dato": "2026-04-15"
+        },
+        {
+          "Pris": 27.89,
+          "Dato": "2026-04-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Bananer i klase first price",
+      "Priser": [
+        {
+          "Pris": 14.90,
+          "Dato": "2025-04-15"
+        },
+        {
+          "Pris": 30.57,
+          "Dato": "2025-04-23"
+        },
+        {
+          "Pris": 13.10,
+          "Dato": "2025-05-14"
+        },
+        {
+          "Pris": 18.18,
+          "Dato": "2025-05-15"
+        },
+        {
+          "Pris": 18.62,
+          "Dato": "2025-05-28"
+        },
+        {
+          "Pris": 22.21,
+          "Dato": "2025-07-02"
+        },
+        {
+          "Pris": 16.99,
+          "Dato": "2025-11-24"
+        },
+        {
+          "Pris": 17.92,
+          "Dato": "2026-01-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Barbergel sc sens.skin 200 gillette",
+      "Priser": [
+        {
+          "Pris": 52.90,
+          "Dato": "2025-07-29"
+        }
+      ]
+    },
+    {
+      "Navn": "Barneplaster sonic 20stk",
+      "Priser": [
+        {
+          "Pris": 27.40,
+          "Dato": "2026-02-24"
+        }
+      ]
+    },
+    {
+      "Navn": "Basilikum 9cm potte gartner",
+      "Priser": [
+        {
+          "Pris": 19.90,
+          "Dato": "2025-05-10"
+        }
+      ]
+    },
+    {
+      "Navn": "Basmatiris boil in bag 960g",
+      "Priser": [
+        {
+          "Pris": 75.90,
+          "Dato": "2026-04-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Batteri alkaline power aa energizer",
+      "Priser": [
+        {
+          "Pris": 59.90,
+          "Dato": "2025-04-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Batteri max alk aaa 6stk",
+      "Priser": [
+        {
+          "Pris": 45.90,
+          "Dato": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Battery energy 0,5l",
+      "Priser": [
+        {
+          "Pris": 27.40,
+          "Dato": "2025-05-10"
+        }
+      ]
+    },
+    {
+      "Navn": "Biola syrnet melk bl\u00E5b\u00E6r 1000g",
+      "Priser": [
+        {
+          "Pris": 32.40,
+          "Dato": "2025-08-02"
+        }
+      ]
+    },
+    {
+      "Navn": "Biola syrnet melk bringeb\u00E6r 1000g",
+      "Priser": [
+        {
+          "Pris": 33.90,
+          "Dato": "2025-08-29"
+        }
+      ]
+    },
+    {
+      "Navn": "Biola syrnet melk melon/pasjon 1000g",
+      "Priser": [
+        {
+          "Pris": 34.90,
+          "Dato": "2025-04-15"
+        },
+        {
+          "Pris": 35.40,
+          "Dato": "2026-02-19"
+        }
+      ]
+    },
+    {
+      "Navn": "Blenda sensitive farger pulver 950g",
+      "Priser": [
+        {
+          "Pris": 54.90,
+          "Dato": "2025-06-16"
+        },
+        {
+          "Pris": 59.90,
+          "Dato": "2026-04-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Bliw h\u00E5nds\u00E5pe hvitveis 300ml",
+      "Priser": [
+        {
+          "Pris": 19.90,
+          "Dato": "2025-12-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Bliw h\u00E5nds\u00E5pe r\u00F8dkl\u00F8ver 300ml",
+      "Priser": [
+        {
+          "Pris": 20.90,
+          "Dato": "2025-04-15"
+        },
+        {
+          "Pris": 21.40,
+          "Dato": "2025-11-01"
+        },
+        {
+          "Pris": 21.90,
+          "Dato": "2026-03-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Bl\u00E5b\u00E6r 125g",
+      "Priser": [
+        {
+          "Pris": 16.90,
+          "Dato": "2025-04-15"
+        },
+        {
+          "Pris": 24.90,
+          "Dato": "2025-04-26"
+        },
+        {
+          "Pris": 29.90,
+          "Dato": "2025-07-31"
+        },
+        {
+          "Pris": 19.90,
+          "Dato": "2025-08-20"
+        },
+        {
+          "Pris": 26.90,
+          "Dato": "2025-08-29"
+        }
+      ]
+    },
+    {
+      "Navn": "Boble vann eple\u0026p\u00E6re 0,33l",
+      "Priser": [
+        {
+          "Pris": 7.90,
+          "Dato": "2025-06-16"
+        }
+      ]
+    },
+    {
+      "Navn": "Boble vann eple\u0026p\u00E6re 0,33lx6 bx eldorado",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-07-29"
+        }
+      ]
+    },
+    {
+      "Navn": "Boble vann fersken 1,5l",
+      "Priser": [
+        {
+          "Pris": 14.90,
+          "Dato": "2025-08-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Boble vann granateple 0,33lx6bx eldorad",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-05-23"
+        }
+      ]
+    },
+    {
+      "Navn": "Boble vann lime 0,33lx6 bx eldorado",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-08-25"
+        },
+        {
+          "Pris": 39.90,
+          "Dato": "2026-02-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Boble vann lime 1,5l",
+      "Priser": [
+        {
+          "Pris": 14.90,
+          "Dato": "2026-03-31"
+        },
+        {
+          "Pris": 7.50,
+          "Dato": "2026-04-04"
+        },
+        {
+          "Pris": 15.90,
+          "Dato": "2026-04-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Bomullspinner \u00F8kologisk 200stk",
+      "Priser": [
+        {
+          "Pris": 26.90,
+          "Dato": "2025-07-29"
+        }
+      ]
+    },
+    {
+      "Navn": "Bremykt 500g",
+      "Priser": [
+        {
+          "Pris": 52.90,
+          "Dato": "2025-07-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Bringeb\u00E6r 125g",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-04-24"
+        },
+        {
+          "Pris": 49.90,
+          "Dato": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Bringeb\u00E6rsyltet\u00F8y 800g",
+      "Priser": [
+        {
+          "Pris": 69.90,
+          "Dato": "2026-02-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Brokkoli 400g",
+      "Priser": [
+        {
+          "Pris": 19.90,
+          "Dato": "2025-12-06"
+        },
+        {
+          "Pris": 26.90,
+          "Dato": "2025-12-31"
+        },
+        {
+          "Pris": 14.90,
+          "Dato": "2026-01-17"
+        }
+      ]
+    },
+    {
+      "Navn": "Brokkolini 200g",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-11-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Brownies chocolate 200g",
+      "Priser": [
+        {
+          "Pris": 37.90,
+          "Dato": "2025-05-28"
+        },
+        {
+          "Pris": 39.90,
+          "Dato": "2025-11-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Brus appelsinsmak light 1,5l",
+      "Priser": [
+        {
+          "Pris": 14.90,
+          "Dato": "2026-01-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Bulmers cider original 0,5l",
+      "Priser": [
+        {
+          "Pris": 58.90,
+          "Dato": "2025-07-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Burger big beef 2x180g",
+      "Priser": [
+        {
+          "Pris": 65.90,
+          "Dato": "2025-12-09"
+        }
+      ]
+    },
+    {
+      "Navn": "Burger big juicy 2x180g",
+      "Priser": [
+        {
+          "Pris": 66.90,
+          "Dato": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Burgerbr\u00F8d brioche 6stk 450g",
+      "Priser": [
+        {
+          "Pris": 42.90,
+          "Dato": "2025-12-09"
+        }
+      ]
+    },
+    {
+      "Navn": "Burgerost m/cheddarsmak 200g",
+      "Priser": [
+        {
+          "Pris": 34.40,
+          "Dato": "2025-12-09"
+        }
+      ]
+    },
+    {
+      "Navn": "B\u00E6repose plast kiwi",
+      "Priser": [
+        {
+          "Pris": 6.75,
+          "Dato": "2026-04-04"
+        }
+      ]
+    },
+    {
+      "Navn": "B\u00F8nner sorte \u00F8kologisk 380g",
+      "Priser": [
+        {
+          "Pris": 13.40,
+          "Dato": "2026-04-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Camel blue 20pk",
+      "Priser": [
+        {
+          "Pris": 155.40,
+          "Dato": "2025-11-24"
+        }
+      ]
+    },
+    {
+      "Navn": "Candy sour cola u/sukker 50g",
+      "Priser": [
+        {
+          "Pris": 19.90,
+          "Dato": "2025-12-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Casa di mama pizza salame 390g",
+      "Priser": [
+        {
+          "Pris": 44.90,
+          "Dato": "2025-12-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Champignon 250g",
+      "Priser": [
+        {
+          "Pris": 16.90,
+          "Dato": "2025-05-15"
+        },
+        {
+          "Pris": 18.40,
+          "Dato": "2025-06-24"
+        }
+      ]
+    },
+    {
+      "Navn": "Champignon bama",
+      "Priser": [
+        {
+          "Pris": 6.71,
+          "Dato": "2025-04-25"
+        },
+        {
+          "Pris": 8.25,
+          "Dato": "2025-05-14"
+        },
+        {
+          "Pris": 7.19,
+          "Dato": "2025-10-18"
+        },
+        {
+          "Pris": 5.49,
+          "Dato": "2025-11-10"
+        }
+      ]
+    },
+    {
+      "Navn": "Cheddar norsk 250g",
+      "Priser": [
+        {
+          "Pris": 52.90,
+          "Dato": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Cheez doodles 120g",
+      "Priser": [
+        {
+          "Pris": 25.90,
+          "Dato": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Chili powder 43g",
+      "Priser": [
+        {
+          "Pris": 30.40,
+          "Dato": "2025-09-22"
+        }
+      ]
+    },
+    {
+      "Navn": "Chilipepper r\u00F8d pk",
+      "Priser": [
+        {
+          "Pris": 23.90,
+          "Dato": "2025-05-10"
+        },
+        {
+          "Pris": 17.90,
+          "Dato": "2025-11-08"
+        },
+        {
+          "Pris": 19.90,
+          "Dato": "2026-04-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Chipotle aioli 130ml",
+      "Priser": [
+        {
+          "Pris": 15.90,
+          "Dato": "2025-08-02"
+        }
+      ]
+    },
+    {
+      "Navn": "Ciabatta steinovnsbakt 4x62g",
+      "Priser": [
+        {
+          "Pris": 19.90,
+          "Dato": "2026-01-17"
+        }
+      ]
+    },
+    {
+      "Navn": "Coca-cola 0,33l",
+      "Priser": [
+        {
+          "Pris": 17.90,
+          "Dato": "2025-08-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Coca-cola 0,33lx10 bx sleek",
+      "Priser": [
+        {
+          "Pris": 46.90,
+          "Dato": "2025-07-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Coca-cola 0,5l",
+      "Priser": [
+        {
+          "Pris": 25.40,
+          "Dato": "2025-06-27"
+        },
+        {
+          "Pris": 26.90,
+          "Dato": "2025-12-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Coca-cola 1,5l",
+      "Priser": [
+        {
+          "Pris": 28.90,
+          "Dato": "2025-05-23"
+        },
+        {
+          "Pris": 34.90,
+          "Dato": "2025-11-15"
+        },
+        {
+          "Pris": 31.90,
+          "Dato": "2026-04-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Cola free 1,5l",
+      "Priser": [
+        {
+          "Pris": 15.40,
+          "Dato": "2025-05-23"
+        },
+        {
+          "Pris": 15.90,
+          "Dato": "2025-11-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Cookies milk choco 4x45g",
+      "Priser": [
+        {
+          "Pris": 19.90,
+          "Dato": "2026-04-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Cottage cheese mager 2% 400g",
+      "Priser": [
+        {
+          "Pris": 24.90,
+          "Dato": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "Navn": "Crispi salat 150g",
+      "Priser": [
+        {
+          "Pris": 32.90,
+          "Dato": "2025-06-07"
+        },
+        {
+          "Pris": 36.90,
+          "Dato": "2025-12-09"
+        },
+        {
+          "Pris": 37.90,
+          "Dato": "2026-01-16"
+        },
+        {
+          "Pris": 33.90,
+          "Dato": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Croissant 6stk 360g",
+      "Priser": [
+        {
+          "Pris": 37.90,
+          "Dato": "2026-02-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Define balsam moroccan argan oil 200ml",
+      "Priser": [
+        {
+          "Pris": 56.90,
+          "Dato": "2025-07-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Define dry shampoo original 200ml",
+      "Priser": [
+        {
+          "Pris": 66.40,
+          "Dato": "2025-08-22"
+        }
+      ]
+    },
+    {
+      "Navn": "Dipmix holiday 22g",
+      "Priser": [
+        {
+          "Pris": 15.90,
+          "Dato": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "Navn": "Doc original 50g",
+      "Priser": [
+        {
+          "Pris": 28.40,
+          "Dato": "2026-02-19"
+        }
+      ]
+    },
+    {
+      "Navn": "Dr.greve lotion aloe vera 200ml",
+      "Priser": [
+        {
+          "Pris": 59.90,
+          "Dato": "2025-07-29"
+        }
+      ]
+    },
+    {
+      "Navn": "Druer gr\u00F8nne beger",
+      "Priser": [
+        {
+          "Pris": 36.90,
+          "Dato": "2025-04-25"
+        }
+      ]
+    },
+    {
+      "Navn": "Druer gr\u00F8nne beger cevita",
+      "Priser": [
+        {
+          "Pris": 36.90,
+          "Dato": "2025-05-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Druer r\u00F8de 500g",
+      "Priser": [
+        {
+          "Pris": 42.90,
+          "Dato": "2026-01-16"
+        }
+      ]
+    },
+    {
+      "Navn": "Egg frittg\u00E5ende m/l 6pk",
+      "Priser": [
+        {
+          "Pris": 25.00,
+          "Dato": "2025-10-18"
+        }
+      ]
+    },
+    {
+      "Navn": "Egg \u00F8kologisk m/l/xl 6stk",
+      "Priser": [
+        {
+          "Pris": 25.90,
+          "Dato": "2025-04-16"
+        }
+      ]
+    },
+    {
+      "Navn": "Ekte revet ost original 300g",
+      "Priser": [
+        {
+          "Pris": 49.90,
+          "Dato": "2025-09-22"
+        },
+        {
+          "Pris": 34.90,
+          "Dato": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "Navn": "Engangshansker food safe vileda",
+      "Priser": [
+        {
+          "Pris": 99.00,
+          "Dato": "2025-06-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Epok no1 ice blue 4 15,4g",
+      "Priser": [
+        {
+          "Pris": 99.00,
+          "Dato": "2025-12-09"
+        },
+        {
+          "Pris": 103.90,
+          "Dato": "2026-02-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Falukorv snabb 400g",
+      "Priser": [
+        {
+          "Pris": 51.90,
+          "Dato": "2025-08-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Farin brun 500g",
+      "Priser": [
+        {
+          "Pris": 23.40,
+          "Dato": "2025-08-13"
+        }
+      ]
+    },
+    {
+      "Navn": "Farris frus eple\u0026kiwi 0,33lx6 bx",
+      "Priser": [
+        {
+          "Pris": 69.90,
+          "Dato": "2026-04-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Farris frus eple\u0026kiwi 1,5l",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2026-01-16"
+        },
+        {
+          "Pris": 31.90,
+          "Dato": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Fiberbr\u00F8d funkygine 700g",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-11-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Fish\u0026crisp gourmet 480g",
+      "Priser": [
+        {
+          "Pris": 69.90,
+          "Dato": "2025-08-11"
+        },
+        {
+          "Pris": 48.90,
+          "Dato": "2025-08-18"
+        }
+      ]
+    },
+    {
+      "Navn": "Formloff m/valmue s\u00E5 godt 600g",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-07-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Fox karamell sitron 2bit 14,5g",
+      "Priser": [
+        {
+          "Pris": 5.90,
+          "Dato": "2026-02-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Fresh discs marine 36ml",
+      "Priser": [
+        {
+          "Pris": 48.90,
+          "Dato": "2025-07-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Friele cafe noir filtermalt 250g",
+      "Priser": [
+        {
+          "Pris": 79.90,
+          "Dato": "2025-12-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Friele frokost filtermalt 250g",
+      "Priser": [
+        {
+          "Pris": 69.90,
+          "Dato": "2025-08-13"
+        },
+        {
+          "Pris": 69.40,
+          "Dato": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Frokostegg frittg\u00E5ende l 12stk",
+      "Priser": [
+        {
+          "Pris": 51.90,
+          "Dato": "2025-06-06"
+        },
+        {
+          "Pris": 54.90,
+          "Dato": "2025-08-02"
+        },
+        {
+          "Pris": 56.40,
+          "Dato": "2025-11-01"
+        },
+        {
+          "Pris": 56.90,
+          "Dato": "2026-01-09"
+        },
+        {
+          "Pris": 60.40,
+          "Dato": "2026-04-04"
+        }
+      ]
+    },
+    {
+      "Navn": "Frukost knekkebr\u00F8d 240g",
+      "Priser": [
+        {
+          "Pris": 17.90,
+          "Dato": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "Navn": "Fryseposer 2l 50stk",
+      "Priser": [
+        {
+          "Pris": 16.90,
+          "Dato": "2025-10-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Fusion blader 4stk",
+      "Priser": [
+        {
+          "Pris": 156.00,
+          "Dato": "2025-04-12"
+        }
+      ]
+    },
+    {
+      "Navn": "F\u00E5rep\u00F8lse skivet 150g",
+      "Priser": [
+        {
+          "Pris": 41.90,
+          "Dato": "2025-05-05"
+        }
+      ]
+    },
+    {
+      "Navn": "Gj\u00E6r fersk s\u00F8te deiger 50g",
+      "Priser": [
+        {
+          "Pris": 5.40,
+          "Dato": "2026-02-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Go morgen yoghurt vanilje/n\u00F8tter 190g",
+      "Priser": [
+        {
+          "Pris": 16.40,
+          "Dato": "2025-08-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Grana padano revet 80g",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-09-01"
+        },
+        {
+          "Pris": 33.90,
+          "Dato": "2025-11-10"
+        }
+      ]
+    },
+    {
+      "Navn": "Granateple stk eat me",
+      "Priser": [
+        {
+          "Pris": 19.90,
+          "Dato": "2025-11-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Grevens cider p\u00E6re u/sukker 0,5l",
+      "Priser": [
+        {
+          "Pris": 41.40,
+          "Dato": "2025-11-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Grevens hard seltzer peach rasp 0,5l",
+      "Priser": [
+        {
+          "Pris": 39.40,
+          "Dato": "2025-05-09"
+        }
+      ]
+    },
+    {
+      "Navn": "Grilled ribs tasty bbq 110g",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-04-26"
+        }
+      ]
+    },
+    {
+      "Navn": "Guacamole 150g",
+      "Priser": [
+        {
+          "Pris": 36.90,
+          "Dato": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Guacamole hot 150g",
+      "Priser": [
+        {
+          "Pris": 36.90,
+          "Dato": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "Navn": "Gulost\u0026cheddar revet 170g",
+      "Priser": [
+        {
+          "Pris": 33.90,
+          "Dato": "2025-05-21"
+        },
+        {
+          "Pris": 35.90,
+          "Dato": "2025-10-25"
+        }
+      ]
+    },
+    {
+      "Navn": "Gulrot 400g",
+      "Priser": [
+        {
+          "Pris": 7.40,
+          "Dato": "2025-04-22"
+        },
+        {
+          "Pris": 21.90,
+          "Dato": "2025-08-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Gulrot 750g",
+      "Priser": [
+        {
+          "Pris": 36.90,
+          "Dato": "2025-08-13"
+        }
+      ]
+    },
+    {
+      "Navn": "G\u00E5rdsegg m/l 12stk",
+      "Priser": [
+        {
+          "Pris": 46.40,
+          "Dato": "2025-04-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Handlenett kiwi gjenbruk",
+      "Priser": [
+        {
+          "Pris": 15.00,
+          "Dato": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Hansa chili blonde 0,5l",
+      "Priser": [
+        {
+          "Pris": 42.90,
+          "Dato": "2025-04-12"
+        }
+      ]
+    },
+    {
+      "Navn": "Hansa julebrus 0,33l",
+      "Priser": [
+        {
+          "Pris": 19.90,
+          "Dato": "2025-12-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Hansa pilsner 0,33lx10 bx",
+      "Priser": [
+        {
+          "Pris": 244.00,
+          "Dato": "2025-12-22"
+        }
+      ]
+    },
+    {
+      "Navn": "Hansa pilsner lite 0,5l",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-06-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Havre knekkebr\u00F8d 300g",
+      "Priser": [
+        {
+          "Pris": 27.90,
+          "Dato": "2025-08-22"
+        }
+      ]
+    },
+    {
+      "Navn": "Havregryn lettkokte 1,1kg",
+      "Priser": [
+        {
+          "Pris": 18.90,
+          "Dato": "2025-08-12"
+        }
+      ]
+    },
+    {
+      "Navn": "Havrekjeks m/sjokolade 150g",
+      "Priser": [
+        {
+          "Pris": 24.90,
+          "Dato": "2025-11-08"
+        },
+        {
+          "Pris": 25.40,
+          "Dato": "2026-04-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Head\u0026shoulder shampoo apple fresh 400ml",
+      "Priser": [
+        {
+          "Pris": 69.90,
+          "Dato": "2026-02-24"
+        }
+      ]
+    },
+    {
+      "Navn": "Helmelk 1l",
+      "Priser": [
+        {
+          "Pris": 23.50,
+          "Dato": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Honning ekte sm\u00F8rmyk 400g",
+      "Priser": [
+        {
+          "Pris": 67.90,
+          "Dato": "2025-05-13"
+        }
+      ]
+    },
+    {
+      "Navn": "Honningmelon hel gul",
+      "Priser": [
+        {
+          "Pris": 64.40,
+          "Dato": "2025-05-10"
+        }
+      ]
+    },
+    {
+      "Navn": "Hvetebriks fine mini steinovnsbakte 6stk",
+      "Priser": [
+        {
+          "Pris": 27.90,
+          "Dato": "2026-04-04"
+        }
+      ]
+    },
+    {
+      "Navn": "Hvit sjokolade 90g",
+      "Priser": [
+        {
+          "Pris": 36.90,
+          "Dato": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Hvitl\u00F8k 100g",
+      "Priser": [
+        {
+          "Pris": 16.90,
+          "Dato": "2025-09-22"
+        },
+        {
+          "Pris": 9.90,
+          "Dato": "2025-11-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Imsdal 0,65l",
+      "Priser": [
+        {
+          "Pris": 21.40,
+          "Dato": "2025-08-22"
+        }
+      ]
+    },
+    {
+      "Navn": "Intimservietter 12stk",
+      "Priser": [
+        {
+          "Pris": 10.90,
+          "Dato": "2025-08-22"
+        },
+        {
+          "Pris": 12.90,
+          "Dato": "2026-04-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Isbergsalat stk",
+      "Priser": [
+        {
+          "Pris": 24.90,
+          "Dato": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "Navn": "Isbiter 2kg",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-12-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Iste fersken u/sukker 0,33lx6 bx eldorad",
+      "Priser": [
+        {
+          "Pris": 50.40,
+          "Dato": "2026-03-11"
+        },
+        {
+          "Pris": 49.90,
+          "Dato": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "Navn": "Iste fersken u/sukker 1,5l",
+      "Priser": [
+        {
+          "Pris": 16.90,
+          "Dato": "2025-05-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Jalapenos 250g",
+      "Priser": [
+        {
+          "Pris": 25.90,
+          "Dato": "2025-10-24"
+        }
+      ]
+    },
+    {
+      "Navn": "Jasminris boil in bag 1kg",
+      "Priser": [
+        {
+          "Pris": 36.90,
+          "Dato": "2025-11-10"
+        }
+      ]
+    },
+    {
+      "Navn": "Jasminris boil in bag 960g",
+      "Priser": [
+        {
+          "Pris": 38.90,
+          "Dato": "2025-04-24"
+        },
+        {
+          "Pris": 43.90,
+          "Dato": "2025-09-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Jif engangsv\u00E5tmopp krystal original",
+      "Priser": [
+        {
+          "Pris": 81.90,
+          "Dato": "2025-11-01"
+        },
+        {
+          "Pris": 85.40,
+          "Dato": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Jif universal spray 500ml",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-06-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Jif wc gel fresh gooseberry 750ml",
+      "Priser": [
+        {
+          "Pris": 37.40,
+          "Dato": "2025-07-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Jordan tannb\u00F8rste individual clean soft",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Jordan tannb\u00F8rste individual precision",
+      "Priser": [
+        {
+          "Pris": 27.90,
+          "Dato": "2025-12-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Jordan tannb\u00F8rste individual precision m",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-12-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Jordb\u00E6r 400g",
+      "Priser": [
+        {
+          "Pris": 89.00,
+          "Dato": "2025-06-06"
+        },
+        {
+          "Pris": 23.90,
+          "Dato": "2025-06-27"
+        },
+        {
+          "Pris": 25.90,
+          "Dato": "2025-12-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Jordb\u00E6r 500g",
+      "Priser": [
+        {
+          "Pris": 59.90,
+          "Dato": "2025-04-15"
+        },
+        {
+          "Pris": 49.90,
+          "Dato": "2025-04-24"
+        }
+      ]
+    },
+    {
+      "Navn": "Jordb\u00E6r norsk 500g",
+      "Priser": [
+        {
+          "Pris": 59.90,
+          "Dato": "2025-08-20"
+        }
+      ]
+    },
+    {
+      "Navn": "Jordb\u00E6rsyltet\u00F8y klem 410g",
+      "Priser": [
+        {
+          "Pris": 29.60,
+          "Dato": "2025-11-10"
+        },
+        {
+          "Pris": 27.20,
+          "Dato": "2026-01-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Jordb\u00E6rsyltet\u00F8y klem mindre sukker 380g",
+      "Priser": [
+        {
+          "Pris": 24.90,
+          "Dato": "2025-05-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Jordb\u00E6rsyltet\u00F8y u/sukker 330g",
+      "Priser": [
+        {
+          "Pris": 32.90,
+          "Dato": "2025-06-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Julius favorittbr\u00F8d 750g",
+      "Priser": [
+        {
+          "Pris": 27.90,
+          "Dato": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Kakemenn 5stk",
+      "Priser": [
+        {
+          "Pris": 32.90,
+          "Dato": "2025-12-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Karbonadedeig 5% u/salt og vann 400g",
+      "Priser": [
+        {
+          "Pris": 79.90,
+          "Dato": "2025-06-27"
+        },
+        {
+          "Pris": 63.90,
+          "Dato": "2025-08-15"
+        },
+        {
+          "Pris": 86.40,
+          "Dato": "2026-04-01"
+        },
+        {
+          "Pris": 89.90,
+          "Dato": "2026-04-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Karbonadedeig u/salt og vann 400g",
+      "Priser": [
+        {
+          "Pris": 86.90,
+          "Dato": "2025-07-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Kesam mager 300g",
+      "Priser": [
+        {
+          "Pris": 22.90,
+          "Dato": "2025-04-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Kims potetgull mexican fiesta 200g",
+      "Priser": [
+        {
+          "Pris": 33.90,
+          "Dato": "2025-05-10"
+        }
+      ]
+    },
+    {
+      "Navn": "Kinak\u00E5l stk",
+      "Priser": [
+        {
+          "Pris": 32.90,
+          "Dato": "2025-05-02"
+        },
+        {
+          "Pris": 34.90,
+          "Dato": "2025-07-02"
+        }
+      ]
+    },
+    {
+      "Navn": "Kinder bueno 43g",
+      "Priser": [
+        {
+          "Pris": 19.40,
+          "Dato": "2026-01-24"
+        },
+        {
+          "Pris": 19.90,
+          "Dato": "2026-04-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Kinder maxi sjokolade 21g",
+      "Priser": [
+        {
+          "Pris": 9.90,
+          "Dato": "2025-08-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Kiwi stk",
+      "Priser": [
+        {
+          "Pris": 6.90,
+          "Dato": "2025-04-24"
+        }
+      ]
+    },
+    {
+      "Navn": "Kj\u00F8ttboller italiensk 400g",
+      "Priser": [
+        {
+          "Pris": 77.90,
+          "Dato": "2025-10-18"
+        }
+      ]
+    },
+    {
+      "Navn": "Kj\u00F8ttboller r\u00E5 italia 20stk 360g",
+      "Priser": [
+        {
+          "Pris": 57.90,
+          "Dato": "2025-06-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Kj\u00F8ttdeig svin 20% 300g",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2026-01-16"
+        }
+      ]
+    },
+    {
+      "Navn": "Kj\u00F8ttdeig svin 9% u/salt og vann 400g",
+      "Priser": [
+        {
+          "Pris": 46.90,
+          "Dato": "2025-08-19"
+        },
+        {
+          "Pris": 47.90,
+          "Dato": "2026-03-31"
+        },
+        {
+          "Pris": 49.90,
+          "Dato": "2026-04-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Kj\u00F8ttp\u00F8lse skinnfri 450g",
+      "Priser": [
+        {
+          "Pris": 34.90,
+          "Dato": "2025-10-03"
+        },
+        {
+          "Pris": 52.40,
+          "Dato": "2025-12-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Klar h\u00E5nds\u00E5pe p\u00E5fyll 500ml",
+      "Priser": [
+        {
+          "Pris": 43.90,
+          "Dato": "2025-04-12"
+        }
+      ]
+    },
+    {
+      "Navn": "Kokesjokolade 70% 100g",
+      "Priser": [
+        {
+          "Pris": 17.90,
+          "Dato": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Kokt skinke ekte 110g",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-06-06"
+        },
+        {
+          "Pris": 33.90,
+          "Dato": "2025-07-28"
+        },
+        {
+          "Pris": 31.90,
+          "Dato": "2026-02-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Koriander 9cm potte gartner",
+      "Priser": [
+        {
+          "Pris": 24.90,
+          "Dato": "2025-11-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Kornbr\u00F8d grovt 750g",
+      "Priser": [
+        {
+          "Pris": 42.90,
+          "Dato": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Kremfl\u00F8te 0,3l",
+      "Priser": [
+        {
+          "Pris": 24.40,
+          "Dato": "2025-11-15"
+        },
+        {
+          "Pris": 17.90,
+          "Dato": "2025-12-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Kremfl\u00F8te 37% 3dl",
+      "Priser": [
+        {
+          "Pris": 18.90,
+          "Dato": "2025-05-10"
+        },
+        {
+          "Pris": 21.90,
+          "Dato": "2025-06-06"
+        },
+        {
+          "Pris": 23.90,
+          "Dato": "2025-07-08"
+        },
+        {
+          "Pris": 24.40,
+          "Dato": "2026-02-14"
+        },
+        {
+          "Pris": 17.90,
+          "Dato": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Kremfl\u00F8te laktosefri 3dl",
+      "Priser": [
+        {
+          "Pris": 27.40,
+          "Dato": "2025-11-10"
+        }
+      ]
+    },
+    {
+      "Navn": "Kremgo krydder 125g",
+      "Priser": [
+        {
+          "Pris": 19.90,
+          "Dato": "2025-08-12"
+        }
+      ]
+    },
+    {
+      "Navn": "Krokanrull 71g",
+      "Priser": [
+        {
+          "Pris": 35.90,
+          "Dato": "2025-10-03"
+        },
+        {
+          "Pris": 32.90,
+          "Dato": "2026-04-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Kvikk lunsj 47g",
+      "Priser": [
+        {
+          "Pris": 20.90,
+          "Dato": "2025-10-18"
+        },
+        {
+          "Pris": 19.40,
+          "Dato": "2026-02-21"
+        },
+        {
+          "Pris": 12.90,
+          "Dato": "2026-03-18"
+        },
+        {
+          "Pris": 11.90,
+          "Dato": "2026-04-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Kvikk lunsj biter 130g",
+      "Priser": [
+        {
+          "Pris": 49.90,
+          "Dato": "2025-10-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Kylling tikka 480g",
+      "Priser": [
+        {
+          "Pris": 75.40,
+          "Dato": "2025-07-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Kyllingbuljong klar 80g",
+      "Priser": [
+        {
+          "Pris": 17.40,
+          "Dato": "2025-09-22"
+        }
+      ]
+    },
+    {
+      "Navn": "Kyllingfilet 425g",
+      "Priser": [
+        {
+          "Pris": 79.00,
+          "Dato": "2025-06-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Kyllingfilet 460g",
+      "Priser": [
+        {
+          "Pris": 79.90,
+          "Dato": "2025-11-11"
+        },
+        {
+          "Pris": 66.90,
+          "Dato": "2025-12-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Kyllingfilet 700g",
+      "Priser": [
+        {
+          "Pris": 126.80,
+          "Dato": "2025-11-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Kyllingfilet biter 600g",
+      "Priser": [
+        {
+          "Pris": 115.00,
+          "Dato": "2025-08-13"
+        }
+      ]
+    },
+    {
+      "Navn": "Kyllingfilet strimler 400g",
+      "Priser": [
+        {
+          "Pris": 62.10,
+          "Dato": "2025-04-15"
+        },
+        {
+          "Pris": 49.60,
+          "Dato": "2025-09-22"
+        },
+        {
+          "Pris": 65.50,
+          "Dato": "2026-01-17"
+        },
+        {
+          "Pris": 79.90,
+          "Dato": "2026-03-30"
+        },
+        {
+          "Pris": 81.90,
+          "Dato": "2026-04-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Kyllingl\u00E5r grillet 1,4kg",
+      "Priser": [
+        {
+          "Pris": 123.00,
+          "Dato": "2025-07-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Kyllingsuppe 500g",
+      "Priser": [
+        {
+          "Pris": 77.90,
+          "Dato": "2025-11-10"
+        }
+      ]
+    },
+    {
+      "Navn": "Lakrisb\u00E5ter 200g",
+      "Priser": [
+        {
+          "Pris": 49.40,
+          "Dato": "2025-11-15"
+        },
+        {
+          "Pris": 52.40,
+          "Dato": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Lettmelk 1,0% 1,75l",
+      "Priser": [
+        {
+          "Pris": 34.90,
+          "Dato": "2025-06-07"
+        },
+        {
+          "Pris": 35.90,
+          "Dato": "2025-07-29"
+        },
+        {
+          "Pris": 36.40,
+          "Dato": "2025-11-01"
+        },
+        {
+          "Pris": 35.80,
+          "Dato": "2025-12-06"
+        },
+        {
+          "Pris": 35.70,
+          "Dato": "2026-04-01"
+        },
+        {
+          "Pris": 36.70,
+          "Dato": "2026-04-04"
+        }
+      ]
+    },
+    {
+      "Navn": "Lettmelk 1,0% 1l",
+      "Priser": [
+        {
+          "Pris": 19.90,
+          "Dato": "2025-05-30"
+        },
+        {
+          "Pris": 20.60,
+          "Dato": "2026-01-09"
+        },
+        {
+          "Pris": 20.40,
+          "Dato": "2026-03-31"
+        },
+        {
+          "Pris": 21.40,
+          "Dato": "2026-04-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Lettr\u00F8mme 17% 300g",
+      "Priser": [
+        {
+          "Pris": 16.40,
+          "Dato": "2025-04-15"
+        },
+        {
+          "Pris": 19.90,
+          "Dato": "2025-06-07"
+        },
+        {
+          "Pris": 20.90,
+          "Dato": "2025-06-27"
+        },
+        {
+          "Pris": 21.90,
+          "Dato": "2025-11-11"
+        },
+        {
+          "Pris": 22.10,
+          "Dato": "2026-01-16"
+        },
+        {
+          "Pris": 17.90,
+          "Dato": "2026-03-31"
+        },
+        {
+          "Pris": 23.90,
+          "Dato": "2026-04-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Lettr\u00F8mme 17% laktosefri 300g",
+      "Priser": [
+        {
+          "Pris": 23.40,
+          "Dato": "2025-06-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Lettr\u00F8mme laktosefri 300g",
+      "Priser": [
+        {
+          "Pris": 23.90,
+          "Dato": "2025-05-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Libresse normal bind 16stk",
+      "Priser": [
+        {
+          "Pris": 24.90,
+          "Dato": "2026-04-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Libresse string truseinnlegg 30stk",
+      "Priser": [
+        {
+          "Pris": 28.90,
+          "Dato": "2025-07-28"
+        },
+        {
+          "Pris": 29.90,
+          "Dato": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Lighter kiwi cricket",
+      "Priser": [
+        {
+          "Pris": 10.90,
+          "Dato": "2025-09-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Lime kg",
+      "Priser": [
+        {
+          "Pris": 4.10,
+          "Dato": "2025-10-18"
+        },
+        {
+          "Pris": 9.58,
+          "Dato": "2025-11-08"
+        },
+        {
+          "Pris": 4.81,
+          "Dato": "2026-01-24"
+        },
+        {
+          "Pris": 72.88,
+          "Dato": "2026-01-24"
+        }
+      ]
+    },
+    {
+      "Navn": "Lysp\u00E6re led spot par16 50 dim gu10 osram",
+      "Priser": [
+        {
+          "Pris": 99.40,
+          "Dato": "2025-08-15"
+        }
+      ]
+    },
+    {
+      "Navn": "L\u00F8k gul 2stk 450g",
+      "Priser": [
+        {
+          "Pris": 19.90,
+          "Dato": "2025-06-07"
+        },
+        {
+          "Pris": 9.90,
+          "Dato": "2025-09-22"
+        },
+        {
+          "Pris": 17.90,
+          "Dato": "2026-01-17"
+        }
+      ]
+    },
+    {
+      "Navn": "Maiskorn 3x198g",
+      "Priser": [
+        {
+          "Pris": 31.40,
+          "Dato": "2025-06-27"
+        },
+        {
+          "Pris": 33.90,
+          "Dato": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Maiskorn extra crispy 3x160g",
+      "Priser": [
+        {
+          "Pris": 41.90,
+          "Dato": "2025-08-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Maizena maisstivelse 400g",
+      "Priser": [
+        {
+          "Pris": 34.90,
+          "Dato": "2025-11-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Majones ekte 2pk 330g",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Mandler kvernede 250g",
+      "Priser": [
+        {
+          "Pris": 41.90,
+          "Dato": "2025-11-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Mango m/sjokolade fruit dips",
+      "Priser": [
+        {
+          "Pris": 41.90,
+          "Dato": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Mango snack cup 4x113g",
+      "Priser": [
+        {
+          "Pris": 62.90,
+          "Dato": "2025-05-23"
+        }
+      ]
+    },
+    {
+      "Navn": "Mango stk cevita",
+      "Priser": [
+        {
+          "Pris": 42.90,
+          "Dato": "2025-08-13"
+        },
+        {
+          "Pris": 23.90,
+          "Dato": "2025-11-08"
+        },
+        {
+          "Pris": 19.90,
+          "Dato": "2025-11-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Mango stk first price",
+      "Priser": [
+        {
+          "Pris": 21.90,
+          "Dato": "2025-06-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Mango t\u00F8rket 60g",
+      "Priser": [
+        {
+          "Pris": 22.90,
+          "Dato": "2025-04-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Mega roulette fruit 45g",
+      "Priser": [
+        {
+          "Pris": 14.90,
+          "Dato": "2025-10-25"
+        }
+      ]
+    },
+    {
+      "Navn": "Meierism\u00F8r 500g",
+      "Priser": [
+        {
+          "Pris": 63.90,
+          "Dato": "2025-07-28"
+        },
+        {
+          "Pris": 59.90,
+          "Dato": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Melis 500g",
+      "Priser": [
+        {
+          "Pris": 22.40,
+          "Dato": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Melkesjoko kjeks 184g",
+      "Priser": [
+        {
+          "Pris": 56.40,
+          "Dato": "2026-04-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Melkesjokolade 200g",
+      "Priser": [
+        {
+          "Pris": 56.90,
+          "Dato": "2025-05-10"
+        },
+        {
+          "Pris": 39.90,
+          "Dato": "2025-08-22"
+        },
+        {
+          "Pris": 59.90,
+          "Dato": "2025-11-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Mentos frukt 37,5g",
+      "Priser": [
+        {
+          "Pris": 19.90,
+          "Dato": "2025-10-18"
+        }
+      ]
+    },
+    {
+      "Navn": "Milky way twin 43g milky way twin 43g",
+      "Priser": [
+        {
+          "Pris": 22.90,
+          "Dato": "2026-02-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Moomin biscuit 175g",
+      "Priser": [
+        {
+          "Pris": 25.40,
+          "Dato": "2025-11-08"
+        },
+        {
+          "Pris": 25.90,
+          "Dato": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Mozzarella revet 200g",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2026-01-17"
+        }
+      ]
+    },
+    {
+      "Navn": "Muffins double chocolate 95g",
+      "Priser": [
+        {
+          "Pris": 9.90,
+          "Dato": "2025-10-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Muffins raspberry 280g",
+      "Priser": [
+        {
+          "Pris": 49.90,
+          "Dato": "2025-05-02"
+        }
+      ]
+    },
+    {
+      "Navn": "Munkholm radler mango/pasjon 0,33l",
+      "Priser": [
+        {
+          "Pris": 11.80,
+          "Dato": "2025-05-06"
+        },
+        {
+          "Pris": 9.90,
+          "Dato": "2025-06-24"
+        },
+        {
+          "Pris": 16.90,
+          "Dato": "2025-10-25"
+        }
+      ]
+    },
+    {
+      "Navn": "Nektarin 1kg",
+      "Priser": [
+        {
+          "Pris": 34.90,
+          "Dato": "2025-06-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Nescafe brasero 100g",
+      "Priser": [
+        {
+          "Pris": 36.00,
+          "Dato": "2025-04-15"
+        },
+        {
+          "Pris": 49.90,
+          "Dato": "2025-06-23"
+        },
+        {
+          "Pris": 56.90,
+          "Dato": "2025-11-20"
+        }
+      ]
+    },
+    {
+      "Navn": "Non stop melkesjokolade 150g",
+      "Priser": [
+        {
+          "Pris": 48.90,
+          "Dato": "2025-07-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Norvegia 26% skivet 150g",
+      "Priser": [
+        {
+          "Pris": 34.10,
+          "Dato": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "Navn": "Norvegia 26% skorpefri 500g",
+      "Priser": [
+        {
+          "Pris": 76.90,
+          "Dato": "2025-11-11"
+        },
+        {
+          "Pris": 77.50,
+          "Dato": "2026-03-31"
+        },
+        {
+          "Pris": 78.90,
+          "Dato": "2026-04-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Norvegia 26% skorpefri ca1kg",
+      "Priser": [
+        {
+          "Pris": 104.75,
+          "Dato": "2026-02-14"
+        },
+        {
+          "Pris": 102.70,
+          "Dato": "2026-02-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Norvegia smaksrik skiver 250g",
+      "Priser": [
+        {
+          "Pris": 49.90,
+          "Dato": "2025-06-26"
+        },
+        {
+          "Pris": 51.40,
+          "Dato": "2025-11-20"
+        },
+        {
+          "Pris": 51.80,
+          "Dato": "2026-01-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Nude strawberry 80% frukt 500ml",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2026-01-16"
+        },
+        {
+          "Pris": 49.90,
+          "Dato": "2026-04-04"
+        }
+      ]
+    },
+    {
+      "Navn": "Nypotet r\u00F8de 1,5kg",
+      "Priser": [
+        {
+          "Pris": 44.90,
+          "Dato": "2025-08-11"
+        }
+      ]
+    },
+    {
+      "Navn": "N\u00F8ttemix 600g",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-09-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Naan br\u00F8d original 260g",
+      "Priser": [
+        {
+          "Pris": 32.40,
+          "Dato": "2025-08-25"
+        },
+        {
+          "Pris": 32.90,
+          "Dato": "2026-04-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Naan h\u00E5ndlagde 260g",
+      "Priser": [
+        {
+          "Pris": 31.90,
+          "Dato": "2025-04-24"
+        }
+      ]
+    },
+    {
+      "Navn": "Oliven sort u/sten 330g",
+      "Priser": [
+        {
+          "Pris": 17.90,
+          "Dato": "2025-05-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Opph\u00F8gde potteter m/krydder 450g",
+      "Priser": [
+        {
+          "Pris": 47.90,
+          "Dato": "2025-12-09"
+        },
+        {
+          "Pris": 48.90,
+          "Dato": "2026-04-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Opptenningsposer 100stk",
+      "Priser": [
+        {
+          "Pris": 69.90,
+          "Dato": "2026-02-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Oppvaskb\u00F8rste trend 1stk",
+      "Priser": [
+        {
+          "Pris": 34.40,
+          "Dato": "2025-04-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Oregano 22g",
+      "Priser": [
+        {
+          "Pris": 32.90,
+          "Dato": "2025-09-22"
+        }
+      ]
+    },
+    {
+      "Navn": "Oreo kjeks original 154g",
+      "Priser": [
+        {
+          "Pris": 31.40,
+          "Dato": "2025-08-20"
+        }
+      ]
+    },
+    {
+      "Navn": "Ost\u0026chiligrill 270g",
+      "Priser": [
+        {
+          "Pris": 29.40,
+          "Dato": "2025-08-02"
+        }
+      ]
+    },
+    {
+      "Navn": "Ostegrill m/bacon 330g",
+      "Priser": [
+        {
+          "Pris": 59.90,
+          "Dato": "2025-08-02"
+        }
+      ]
+    },
+    {
+      "Navn": "Ostemix revet kongsg\u00E5rd/mozarella 170g",
+      "Priser": [
+        {
+          "Pris": 33.20,
+          "Dato": "2026-01-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Paprika r\u00F8d",
+      "Priser": [
+        {
+          "Pris": 15.69,
+          "Dato": "2025-07-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Paprika r\u00F8d s\u00F8t spiss 300g",
+      "Priser": [
+        {
+          "Pris": 34.90,
+          "Dato": "2025-07-28"
+        },
+        {
+          "Pris": 14.90,
+          "Dato": "2025-08-15"
+        },
+        {
+          "Pris": 18.90,
+          "Dato": "2025-11-11"
+        },
+        {
+          "Pris": 23.90,
+          "Dato": "2026-04-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Paprika r\u00F8d s\u00F8t spiss pk \u00F8kologisk",
+      "Priser": [
+        {
+          "Pris": 49.90,
+          "Dato": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "Navn": "Paracet tablett rund 500mg 20stk",
+      "Priser": [
+        {
+          "Pris": 43.90,
+          "Dato": "2025-08-29"
+        },
+        {
+          "Pris": 44.90,
+          "Dato": "2026-04-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Parmesan revet 12mnd 60g",
+      "Priser": [
+        {
+          "Pris": 34.40,
+          "Dato": "2025-09-22"
+        }
+      ]
+    },
+    {
+      "Navn": "Parmesan stick 12mnd 125g",
+      "Priser": [
+        {
+          "Pris": 65.90,
+          "Dato": "2026-02-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Parmigiano reggiano 24mnd 150g",
+      "Priser": [
+        {
+          "Pris": 89.00,
+          "Dato": "2025-07-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Pasta fusilli 1kg",
+      "Priser": [
+        {
+          "Pris": 26.90,
+          "Dato": "2025-05-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Pasta linguine 500g",
+      "Priser": [
+        {
+          "Pris": 27.90,
+          "Dato": "2025-06-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Pasta penne 500g",
+      "Priser": [
+        {
+          "Pris": 19.90,
+          "Dato": "2026-01-17"
+        }
+      ]
+    },
+    {
+      "Navn": "Pastasaus classico 420g",
+      "Priser": [
+        {
+          "Pris": 22.90,
+          "Dato": "2025-10-18"
+        }
+      ]
+    },
+    {
+      "Navn": "Peanutbutter 350g",
+      "Priser": [
+        {
+          "Pris": 37.90,
+          "Dato": "2025-08-13"
+        }
+      ]
+    },
+    {
+      "Navn": "Pepper sort hel refill 70g",
+      "Priser": [
+        {
+          "Pris": 23.90,
+          "Dato": "2025-04-25"
+        }
+      ]
+    },
+    {
+      "Navn": "Pepperbaconpostei 185g",
+      "Priser": [
+        {
+          "Pris": 37.40,
+          "Dato": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Pepperoni 70g",
+      "Priser": [
+        {
+          "Pris": 27.90,
+          "Dato": "2025-10-18"
+        }
+      ]
+    },
+    {
+      "Navn": "Pepperoni skivet 130g",
+      "Priser": [
+        {
+          "Pris": 46.40,
+          "Dato": "2025-04-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Pepsi max 0,33lx10 bx",
+      "Priser": [
+        {
+          "Pris": 99.00,
+          "Dato": "2026-01-16"
+        }
+      ]
+    },
+    {
+      "Navn": "Pepsi max 0,5l",
+      "Priser": [
+        {
+          "Pris": 27.40,
+          "Dato": "2025-06-07"
+        },
+        {
+          "Pris": 27.90,
+          "Dato": "2025-06-27"
+        },
+        {
+          "Pris": 28.90,
+          "Dato": "2025-11-11"
+        },
+        {
+          "Pris": 29.00,
+          "Dato": "2026-01-24"
+        }
+      ]
+    },
+    {
+      "Navn": "Pepsi max 1,5l",
+      "Priser": [
+        {
+          "Pris": 34.90,
+          "Dato": "2025-04-28"
+        },
+        {
+          "Pris": 35.40,
+          "Dato": "2025-08-22"
+        },
+        {
+          "Pris": 36.40,
+          "Dato": "2026-02-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Pesto genovese 190g",
+      "Priser": [
+        {
+          "Pris": 28.90,
+          "Dato": "2026-01-17"
+        }
+      ]
+    },
+    {
+      "Navn": "Pesto rosso 135g",
+      "Priser": [
+        {
+          "Pris": 34.90,
+          "Dato": "2025-10-18"
+        }
+      ]
+    },
+    {
+      "Navn": "Pesto r\u00F8d m/chili 185g",
+      "Priser": [
+        {
+          "Pris": 21.90,
+          "Dato": "2025-11-10"
+        }
+      ]
+    },
+    {
+      "Navn": "Pinsa 2x230g",
+      "Priser": [
+        {
+          "Pris": 59.90,
+          "Dato": "2026-01-17"
+        },
+        {
+          "Pris": 49.90,
+          "Dato": "2026-02-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Pistasj n\u00F8tter salte m/skall 150g",
+      "Priser": [
+        {
+          "Pris": 49.90,
+          "Dato": "2025-09-26"
+        }
+      ]
+    },
+    {
+      "Navn": "Pitabr\u00F8d fine 6stk",
+      "Priser": [
+        {
+          "Pris": 34.40,
+          "Dato": "2026-04-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Pizza big one meat lover 555g",
+      "Priser": [
+        {
+          "Pris": 99.00,
+          "Dato": "2026-04-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Pizza casa di mama trio di carne 405g",
+      "Priser": [
+        {
+          "Pris": 59.90,
+          "Dato": "2025-05-23"
+        },
+        {
+          "Pris": 62.90,
+          "Dato": "2025-12-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Pizza ristorante mozzarella 2pk 710g",
+      "Priser": [
+        {
+          "Pris": 89.00,
+          "Dato": "2025-10-18"
+        }
+      ]
+    },
+    {
+      "Navn": "Pizza rustica double pepperoni 565g",
+      "Priser": [
+        {
+          "Pris": 79.90,
+          "Dato": "2025-08-20"
+        },
+        {
+          "Pris": 55.90,
+          "Dato": "2025-12-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Pizzabunn original 550g",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-08-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Pizzasaus hvit 170ml",
+      "Priser": [
+        {
+          "Pris": 23.90,
+          "Dato": "2026-01-17"
+        }
+      ]
+    },
+    {
+      "Navn": "Pizzasaus original 180g",
+      "Priser": [
+        {
+          "Pris": 18.90,
+          "Dato": "2025-08-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Plaster gnags\u00E5r medium 5stk",
+      "Priser": [
+        {
+          "Pris": 99.00,
+          "Dato": "2025-07-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Plaster pokemon 20stk",
+      "Priser": [
+        {
+          "Pris": 26.40,
+          "Dato": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "Navn": "Plumbo pulver 630g",
+      "Priser": [
+        {
+          "Pris": 67.90,
+          "Dato": "2025-06-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Poppa chips spansk paprika 80g",
+      "Priser": [
+        {
+          "Pris": 31.40,
+          "Dato": "2025-06-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Potet mandel 1,5kg",
+      "Priser": [
+        {
+          "Pris": 24.90,
+          "Dato": "2025-12-31"
+        },
+        {
+          "Pris": 39.90,
+          "Dato": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Poteter l\u00F8svekt",
+      "Priser": [
+        {
+          "Pris": 10.71,
+          "Dato": "2025-04-22"
+        }
+      ]
+    },
+    {
+      "Navn": "Potetstappe 450g",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-10-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Purre pr kg",
+      "Priser": [
+        {
+          "Pris": 57.89,
+          "Dato": "2025-07-31"
+        }
+      ]
+    },
+    {
+      "Navn": "P\u00F8lse chorizo 270g",
+      "Priser": [
+        {
+          "Pris": 29.40,
+          "Dato": "2025-08-02"
+        }
+      ]
+    },
+    {
+      "Navn": "P\u00F8lsebr\u00F8d sesam 8stk 400g",
+      "Priser": [
+        {
+          "Pris": 28.90,
+          "Dato": "2025-08-02"
+        }
+      ]
+    },
+    {
+      "Navn": "Rapsolje steking 0,45l",
+      "Priser": [
+        {
+          "Pris": 76.50,
+          "Dato": "2025-11-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Red bull regular 250ml",
+      "Priser": [
+        {
+          "Pris": 21.40,
+          "Dato": "2025-08-22"
+        }
+      ]
+    },
+    {
+      "Navn": "Red bull regular 355ml",
+      "Priser": [
+        {
+          "Pris": 28.40,
+          "Dato": "2025-07-31"
+        },
+        {
+          "Pris": 28.50,
+          "Dato": "2026-02-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Red bull regular 473ml",
+      "Priser": [
+        {
+          "Pris": 37.90,
+          "Dato": "2025-07-28"
+        },
+        {
+          "Pris": 37.40,
+          "Dato": "2025-12-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Red bull sukkerfri 250ml",
+      "Priser": [
+        {
+          "Pris": 20.40,
+          "Dato": "2026-01-16"
+        }
+      ]
+    },
+    {
+      "Navn": "Red bull sukkerfri pink edition 473ml",
+      "Priser": [
+        {
+          "Pris": 36.40,
+          "Dato": "2025-06-25"
+        }
+      ]
+    },
+    {
+      "Navn": "Red bull yellow edition 250ml",
+      "Priser": [
+        {
+          "Pris": 21.40,
+          "Dato": "2025-12-31"
+        },
+        {
+          "Pris": 21.50,
+          "Dato": "2026-04-08"
+        },
+        {
+          "Pris": 22.40,
+          "Dato": "2026-04-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Red bull yellow edition 250mlx4 bx",
+      "Priser": [
+        {
+          "Pris": 59.90,
+          "Dato": "2025-08-22"
+        }
+      ]
+    },
+    {
+      "Navn": "Reker frosne 70/90",
+      "Priser": [
+        {
+          "Pris": 280.53,
+          "Dato": "2025-07-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Remulade 165g",
+      "Priser": [
+        {
+          "Pris": 27.40,
+          "Dato": "2025-08-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Repsils honning\u0026sitron sukkerfri 24stk",
+      "Priser": [
+        {
+          "Pris": 60.40,
+          "Dato": "2026-02-19"
+        }
+      ]
+    },
+    {
+      "Navn": "Rice noodles 180g",
+      "Priser": [
+        {
+          "Pris": 29.40,
+          "Dato": "2025-08-13"
+        }
+      ]
+    },
+    {
+      "Navn": "Roser 10pk",
+      "Priser": [
+        {
+          "Pris": 99.00,
+          "Dato": "2026-04-10"
+        }
+      ]
+    },
+    {
+      "Navn": "Ruccula 65g",
+      "Priser": [
+        {
+          "Pris": 19.90,
+          "Dato": "2025-08-12"
+        },
+        {
+          "Pris": 16.90,
+          "Dato": "2026-02-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Ruccula salat 75g",
+      "Priser": [
+        {
+          "Pris": 23.90,
+          "Dato": "2026-01-17"
+        }
+      ]
+    },
+    {
+      "Navn": "R\u00F8dl\u00F8k 2stk",
+      "Priser": [
+        {
+          "Pris": 19.90,
+          "Dato": "2025-11-08"
+        }
+      ]
+    },
+    {
+      "Navn": "R\u00F8dl\u00F8k syltet 235g",
+      "Priser": [
+        {
+          "Pris": 22.90,
+          "Dato": "2025-08-02"
+        }
+      ]
+    },
+    {
+      "Navn": "R\u00F8mmedressing original 125g",
+      "Priser": [
+        {
+          "Pris": 18.90,
+          "Dato": "2025-07-28"
+        },
+        {
+          "Pris": 23.40,
+          "Dato": "2026-03-26"
+        },
+        {
+          "Pris": 23.90,
+          "Dato": "2026-04-01"
+        }
+      ]
+    },
+    {
+      "Navn": "R\u00F8rsukker str\u00F8 demerara 500g",
+      "Priser": [
+        {
+          "Pris": 29.40,
+          "Dato": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Salsa chunky hot 230g",
+      "Priser": [
+        {
+          "Pris": 21.90,
+          "Dato": "2025-06-02"
+        },
+        {
+          "Pris": 22.40,
+          "Dato": "2025-08-19"
+        }
+      ]
+    },
+    {
+      "Navn": "Schous pilsner 0,5l",
+      "Priser": [
+        {
+          "Pris": 36.90,
+          "Dato": "2025-08-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Seigmenn 200g",
+      "Priser": [
+        {
+          "Pris": 19.90,
+          "Dato": "2026-01-10"
+        }
+      ]
+    },
+    {
+      "Navn": "Sennep s\u00F8t 510g",
+      "Priser": [
+        {
+          "Pris": 23.40,
+          "Dato": "2025-11-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Siktabr\u00F8d 750g",
+      "Priser": [
+        {
+          "Pris": 48.90,
+          "Dato": "2025-07-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Simple wipes facial cleansing 25stk",
+      "Priser": [
+        {
+          "Pris": 21.90,
+          "Dato": "2025-04-15"
+        },
+        {
+          "Pris": 22.90,
+          "Dato": "2025-07-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Sitron pr kg",
+      "Priser": [
+        {
+          "Pris": 24.90,
+          "Dato": "2025-05-10"
+        },
+        {
+          "Pris": 56.89,
+          "Dato": "2025-08-11"
+        },
+        {
+          "Pris": 59.90,
+          "Dato": "2025-08-18"
+        },
+        {
+          "Pris": 59.92,
+          "Dato": "2025-11-15"
+        },
+        {
+          "Pris": 49.91,
+          "Dato": "2026-03-30"
+        },
+        {
+          "Pris": 54.90,
+          "Dato": "2026-04-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Sjalottl\u00F8k 350g",
+      "Priser": [
+        {
+          "Pris": 34.90,
+          "Dato": "2025-11-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Sjoko-lakris m/lakrispulver 120g",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2026-02-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Sjoko-lakris m/salt karamell 120g",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2026-02-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Sjokohassel n\u00F8tter 210g",
+      "Priser": [
+        {
+          "Pris": 76.90,
+          "Dato": "2025-08-22"
+        },
+        {
+          "Pris": 78.90,
+          "Dato": "2025-09-26"
+        }
+      ]
+    },
+    {
+      "Navn": "Sjokoladedrikk 10x32g",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Sjokolademousse u/sukker 85g",
+      "Priser": [
+        {
+          "Pris": 33.90,
+          "Dato": "2025-08-20"
+        }
+      ]
+    },
+    {
+      "Navn": "Sjokomelk 250ml",
+      "Priser": [
+        {
+          "Pris": 9.90,
+          "Dato": "2025-08-18"
+        }
+      ]
+    },
+    {
+      "Navn": "Sjokon\u00F8tt 350g",
+      "Priser": [
+        {
+          "Pris": 48.40,
+          "Dato": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Skuresvamp 10stk",
+      "Priser": [
+        {
+          "Pris": 9.40,
+          "Dato": "2025-07-11"
+        },
+        {
+          "Pris": 8.90,
+          "Dato": "2026-04-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Skyr mini banan 90g",
+      "Priser": [
+        {
+          "Pris": 15.40,
+          "Dato": "2026-01-16"
+        }
+      ]
+    },
+    {
+      "Navn": "Smash! 200g",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-12-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Smoothie bl\u00E5b\u00E6r\u0026eple 250ml",
+      "Priser": [
+        {
+          "Pris": 21.40,
+          "Dato": "2025-11-10"
+        }
+      ]
+    },
+    {
+      "Navn": "Smoothie bringeb\u00E6r\u0026jordb\u00E6r 250ml",
+      "Priser": [
+        {
+          "Pris": 14.90,
+          "Dato": "2025-09-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Sm\u00F8r laktosefritt 250g",
+      "Priser": [
+        {
+          "Pris": 36.90,
+          "Dato": "2025-05-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Sm\u00E5godt pr kg",
+      "Priser": [
+        {
+          "Pris": 129,
+          "Dato": "2025-05-30"
+        },
+        {
+          "Pris": 169.01,
+          "Dato": "2025-07-31"
+        },
+        {
+          "Pris": 169.00,
+          "Dato": "2025-12-06"
+        },
+        {
+          "Pris": 168.99,
+          "Dato": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Snickers 2pk 75g",
+      "Priser": [
+        {
+          "Pris": 25.40,
+          "Dato": "2025-05-10"
+        },
+        {
+          "Pris": 26.90,
+          "Dato": "2025-12-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Soft shake sjokolade 210ml",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2026-02-24"
+        }
+      ]
+    },
+    {
+      "Navn": "Solo 0,5l",
+      "Priser": [
+        {
+          "Pris": 27.40,
+          "Dato": "2025-07-11"
+        },
+        {
+          "Pris": 28.40,
+          "Dato": "2026-02-19"
+        }
+      ]
+    },
+    {
+      "Navn": "Solo 1,5l",
+      "Priser": [
+        {
+          "Pris": 32.40,
+          "Dato": "2026-02-14"
+        },
+        {
+          "Pris": 31.90,
+          "Dato": "2026-02-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Solo super 0,33l",
+      "Priser": [
+        {
+          "Pris": 18.40,
+          "Dato": "2025-04-24"
+        },
+        {
+          "Pris": 17.90,
+          "Dato": "2026-04-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Solo super 0,33lx10 bx",
+      "Priser": [
+        {
+          "Pris": 56.70,
+          "Dato": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Solsikkeolje 1l",
+      "Priser": [
+        {
+          "Pris": 35.90,
+          "Dato": "2025-06-23"
+        }
+      ]
+    },
+    {
+      "Navn": "Sommerhonning 750g",
+      "Priser": [
+        {
+          "Pris": 89.90,
+          "Dato": "2025-10-18"
+        }
+      ]
+    },
+    {
+      "Navn": "Spaghetti fersk 250g",
+      "Priser": [
+        {
+          "Pris": 22.40,
+          "Dato": "2025-10-18"
+        }
+      ]
+    },
+    {
+      "Navn": "Spice mix fajita 30g",
+      "Priser": [
+        {
+          "Pris": 11.90,
+          "Dato": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "Navn": "Spylerv\u00E6ske -15c 4l",
+      "Priser": [
+        {
+          "Pris": 61.40,
+          "Dato": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Stjerne mix 220g",
+      "Priser": [
+        {
+          "Pris": 37.90,
+          "Dato": "2025-09-26"
+        }
+      ]
+    },
+    {
+      "Navn": "Stjernebacon skivet 140g",
+      "Priser": [
+        {
+          "Pris": 32.90,
+          "Dato": "2025-12-06"
+        },
+        {
+          "Pris": 32.50,
+          "Dato": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Storfe entrecote skivet ca350g",
+      "Priser": [
+        {
+          "Pris": 231.88,
+          "Dato": "2025-11-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Strandaskinke rensk\u00E5ret 120g",
+      "Priser": [
+        {
+          "Pris": 81.90,
+          "Dato": "2025-08-12"
+        }
+      ]
+    },
+    {
+      "Navn": "St\u00E5lskrubb 1stk",
+      "Priser": [
+        {
+          "Pris": 6.90,
+          "Dato": "2026-04-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Sukker 1kg",
+      "Priser": [
+        {
+          "Pris": 35.40,
+          "Dato": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Sun alt i 1 maxpower 25tab",
+      "Priser": [
+        {
+          "Pris": 48.40,
+          "Dato": "2026-02-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Sweet chilisaus 350g",
+      "Priser": [
+        {
+          "Pris": 19.90,
+          "Dato": "2025-07-31"
+        }
+      ]
+    },
+    {
+      "Navn": "S\u00F8rlandschips jul m/ribbe 150g",
+      "Priser": [
+        {
+          "Pris": 37.90,
+          "Dato": "2025-11-08"
+        }
+      ]
+    },
+    {
+      "Navn": "S\u00F8rlandschips spansk paprika 200g",
+      "Priser": [
+        {
+          "Pris": 24.90,
+          "Dato": "2025-07-31"
+        },
+        {
+          "Pris": 31.90,
+          "Dato": "2025-08-22"
+        }
+      ]
+    },
+    {
+      "Navn": "S\u00F8rlandskomper 2pk 700g",
+      "Priser": [
+        {
+          "Pris": 71.90,
+          "Dato": "2025-08-29"
+        }
+      ]
+    },
+    {
+      "Navn": "Taco kryddermix 28g",
+      "Priser": [
+        {
+          "Pris": 2.00,
+          "Dato": "2025-05-13"
+        },
+        {
+          "Pris": 3.40,
+          "Dato": "2025-08-11"
+        },
+        {
+          "Pris": 2.60,
+          "Dato": "2026-01-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Taco kryddermx 30g",
+      "Priser": [
+        {
+          "Pris": 7.90,
+          "Dato": "2025-10-24"
+        }
+      ]
+    },
+    {
+      "Navn": "Taco sauce hot 230g",
+      "Priser": [
+        {
+          "Pris": 19.90,
+          "Dato": "2025-04-15"
+        },
+        {
+          "Pris": 21.40,
+          "Dato": "2026-03-09"
+        },
+        {
+          "Pris": 20.40,
+          "Dato": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Taco saus medium 230g",
+      "Priser": [
+        {
+          "Pris": 5.90,
+          "Dato": "2025-08-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Taco spice mix 25g",
+      "Priser": [
+        {
+          "Pris": 9.90,
+          "Dato": "2025-07-29"
+        }
+      ]
+    },
+    {
+      "Navn": "Taco spice mix 3x25g",
+      "Priser": [
+        {
+          "Pris": 22.90,
+          "Dato": "2026-01-16"
+        },
+        {
+          "Pris": 23.40,
+          "Dato": "2026-03-31"
+        },
+        {
+          "Pris": 14.00,
+          "Dato": "2026-04-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Tacosaus hot 230g",
+      "Priser": [
+        {
+          "Pris": 11.90,
+          "Dato": "2026-01-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Tacotopping lime\u0026avokado 150ml",
+      "Priser": [
+        {
+          "Pris": 27.40,
+          "Dato": "2025-04-23"
+        }
+      ]
+    },
+    {
+      "Navn": "Tagliatelle 500g",
+      "Priser": [
+        {
+          "Pris": 43.40,
+          "Dato": "2025-07-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Tandoori saus 360g",
+      "Priser": [
+        {
+          "Pris": 44.40,
+          "Dato": "2026-04-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Tast mat 15% mva \u00E5pen plu",
+      "Priser": [
+        {
+          "Pris": 119.90,
+          "Dato": "2025-12-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Tast pant utg\u00E5ende salg av emb",
+      "Priser": [
+        {
+          "Pris": 4.50,
+          "Dato": "2025-06-16"
+        },
+        {
+          "Pris": 6.50,
+          "Dato": "2025-07-11"
+        },
+        {
+          "Pris": 7.00,
+          "Dato": "2025-07-29"
+        },
+        {
+          "Pris": 4.71,
+          "Dato": "2025-07-31"
+        },
+        {
+          "Pris": 2.50,
+          "Dato": "2025-08-06"
+        },
+        {
+          "Pris": 8.67,
+          "Dato": "2025-08-20"
+        },
+        {
+          "Pris": 3.60,
+          "Dato": "2025-08-22"
+        },
+        {
+          "Pris": 8.00,
+          "Dato": "2025-11-01"
+        },
+        {
+          "Pris": 20.00,
+          "Dato": "2025-12-22"
+        },
+        {
+          "Pris": 5.80,
+          "Dato": "2026-01-16"
+        },
+        {
+          "Pris": 4.75,
+          "Dato": "2026-02-14"
+        },
+        {
+          "Pris": 3.00,
+          "Dato": "2026-02-21"
+        },
+        {
+          "Pris": 5.00,
+          "Dato": "2026-03-11"
+        },
+        {
+          "Pris": 7.50,
+          "Dato": "2026-03-14"
+        },
+        {
+          "Pris": 12.00,
+          "Dato": "2026-03-18"
+        },
+        {
+          "Pris": 5.75,
+          "Dato": "2026-03-31"
+        },
+        {
+          "Pris": 5.67,
+          "Dato": "2026-04-01"
+        },
+        {
+          "Pris": 2.67,
+          "Dato": "2026-04-04"
+        },
+        {
+          "Pris": 2.00,
+          "Dato": "2026-04-07"
+        },
+        {
+          "Pris": 2.33,
+          "Dato": "2026-04-08"
+        },
+        {
+          "Pris": 4.00,
+          "Dato": "2026-04-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Tellicherry pepper m/kvern 70g",
+      "Priser": [
+        {
+          "Pris": 67.90,
+          "Dato": "2025-06-06"
+        },
+        {
+          "Pris": 71.40,
+          "Dato": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Tennbriketter hvite 32stk",
+      "Priser": [
+        {
+          "Pris": 16.90,
+          "Dato": "2025-11-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Thousand island 450g",
+      "Priser": [
+        {
+          "Pris": 30.40,
+          "Dato": "2025-04-23"
+        }
+      ]
+    },
+    {
+      "Navn": "Tikka masala 360g",
+      "Priser": [
+        {
+          "Pris": 36.90,
+          "Dato": "2025-08-25"
+        },
+        {
+          "Pris": 37.90,
+          "Dato": "2026-04-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Toalettpapir 20pk",
+      "Priser": [
+        {
+          "Pris": 139.00,
+          "Dato": "2025-05-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Toalettpapir hvit lambi 1/1pl",
+      "Priser": [
+        {
+          "Pris": 69.90,
+          "Dato": "2025-05-10"
+        }
+      ]
+    },
+    {
+      "Navn": "Toalettpapir soft 8rl",
+      "Priser": [
+        {
+          "Pris": 42.90,
+          "Dato": "2025-04-24"
+        },
+        {
+          "Pris": 39.90,
+          "Dato": "2026-02-21"
+        },
+        {
+          "Pris": 41.90,
+          "Dato": "2026-04-04"
+        }
+      ]
+    },
+    {
+      "Navn": "Toast kneipp skivet 660g",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-12-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Tomat cherry 250g",
+      "Priser": [
+        {
+          "Pris": 22.90,
+          "Dato": "2025-09-22"
+        },
+        {
+          "Pris": 21.90,
+          "Dato": "2025-10-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Tomat juanitas 300g",
+      "Priser": [
+        {
+          "Pris": 47.90,
+          "Dato": "2025-06-02"
+        },
+        {
+          "Pris": 56.90,
+          "Dato": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Tomat klasetomat kg",
+      "Priser": [
+        {
+          "Pris": 42.36,
+          "Dato": "2026-03-27"
+        },
+        {
+          "Pris": 69.90,
+          "Dato": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Tomat s\u00F8t 175g",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-06-27"
+        },
+        {
+          "Pris": 19.90,
+          "Dato": "2025-08-19"
+        },
+        {
+          "Pris": 32.90,
+          "Dato": "2025-11-11"
+        },
+        {
+          "Pris": 26.90,
+          "Dato": "2026-01-16"
+        }
+      ]
+    },
+    {
+      "Navn": "Tomater hakkede 390g",
+      "Priser": [
+        {
+          "Pris": 6.30,
+          "Dato": "2025-06-07"
+        },
+        {
+          "Pris": 6.90,
+          "Dato": "2025-09-22"
+        },
+        {
+          "Pris": 7.20,
+          "Dato": "2026-04-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Tomater hakkede chili 390g",
+      "Priser": [
+        {
+          "Pris": 14.90,
+          "Dato": "2026-04-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Tomater kg",
+      "Priser": [
+        {
+          "Pris": 9.02,
+          "Dato": "2025-04-15"
+        },
+        {
+          "Pris": 8.62,
+          "Dato": "2025-04-25"
+        },
+        {
+          "Pris": 7.98,
+          "Dato": "2025-05-02"
+        },
+        {
+          "Pris": 10.85,
+          "Dato": "2025-05-06"
+        },
+        {
+          "Pris": 15.57,
+          "Dato": "2025-06-20"
+        },
+        {
+          "Pris": 20.42,
+          "Dato": "2025-11-08"
+        },
+        {
+          "Pris": 9.34,
+          "Dato": "2025-12-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Tomater solt\u00F8rkede 190g",
+      "Priser": [
+        {
+          "Pris": 24.90,
+          "Dato": "2026-01-17"
+        }
+      ]
+    },
+    {
+      "Navn": "Tortelloni kylling\u0026bacon 250g",
+      "Priser": [
+        {
+          "Pris": 38.90,
+          "Dato": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "Navn": "Tortelloni ost\u0026skinke 250g",
+      "Priser": [
+        {
+          "Pris": 38.90,
+          "Dato": "2026-02-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Tortilla 8pk 320g",
+      "Priser": [
+        {
+          "Pris": 12.40,
+          "Dato": "2025-05-03"
+        },
+        {
+          "Pris": 11.90,
+          "Dato": "2026-01-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Tortilla cheese 175g",
+      "Priser": [
+        {
+          "Pris": 27.90,
+          "Dato": "2026-04-01"
+        },
+        {
+          "Pris": 34.90,
+          "Dato": "2026-04-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Tortilla chips salt 200g",
+      "Priser": [
+        {
+          "Pris": 19.40,
+          "Dato": "2025-10-24"
+        }
+      ]
+    },
+    {
+      "Navn": "Tortilla original large 6stk 371g",
+      "Priser": [
+        {
+          "Pris": 20.50,
+          "Dato": "2025-04-28"
+        },
+        {
+          "Pris": 29.40,
+          "Dato": "2025-06-27"
+        },
+        {
+          "Pris": 29.90,
+          "Dato": "2025-08-19"
+        },
+        {
+          "Pris": 30.40,
+          "Dato": "2026-03-09"
+        },
+        {
+          "Pris": 31.90,
+          "Dato": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Tortilla soft hvete 25cm 12stk 740g",
+      "Priser": [
+        {
+          "Pris": 24.90,
+          "Dato": "2025-05-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Tortilla soft hvete 25cm 6stk 370g",
+      "Priser": [
+        {
+          "Pris": 17.90,
+          "Dato": "2025-10-24"
+        }
+      ]
+    },
+    {
+      "Navn": "Tortillachips cheese 185g",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-04-15"
+        },
+        {
+          "Pris": 36.90,
+          "Dato": "2025-06-27"
+        },
+        {
+          "Pris": 37.90,
+          "Dato": "2025-08-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Tortillas 100% mais gl.fri 208g",
+      "Priser": [
+        {
+          "Pris": 24.20,
+          "Dato": "2025-11-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Tortillas large ex.thin 6stk 192g",
+      "Priser": [
+        {
+          "Pris": 23.60,
+          "Dato": "2025-08-12"
+        }
+      ]
+    },
+    {
+      "Navn": "Twix xtra 75g",
+      "Priser": [
+        {
+          "Pris": 29.40,
+          "Dato": "2026-01-24"
+        },
+        {
+          "Pris": 30.90,
+          "Dato": "2026-04-01"
+        }
+      ]
+    },
+    {
+      "Navn": "T\u00F8rkerull hvit lambi 1/1pl",
+      "Priser": [
+        {
+          "Pris": 49.90,
+          "Dato": "2025-05-10"
+        }
+      ]
+    },
+    {
+      "Navn": "T\u00F8rkerull kj\u00F8kken 4rl",
+      "Priser": [
+        {
+          "Pris": 27.90,
+          "Dato": "2025-06-07"
+        },
+        {
+          "Pris": 34.90,
+          "Dato": "2026-01-24"
+        },
+        {
+          "Pris": 36.90,
+          "Dato": "2026-03-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Universalklut 9stk",
+      "Priser": [
+        {
+          "Pris": 15.90,
+          "Dato": "2025-04-15"
+        },
+        {
+          "Pris": 17.90,
+          "Dato": "2025-06-07"
+        },
+        {
+          "Pris": 18.40,
+          "Dato": "2025-12-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Valn\u00F8ttkjerner 200g",
+      "Priser": [
+        {
+          "Pris": 38.50,
+          "Dato": "2025-12-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Vaniljekrem 500ml",
+      "Priser": [
+        {
+          "Pris": 31.90,
+          "Dato": "2025-04-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Vaniljesaus uten 0,5l",
+      "Priser": [
+        {
+          "Pris": 24.90,
+          "Dato": "2025-04-24"
+        }
+      ]
+    },
+    {
+      "Navn": "Vedsekk 40l",
+      "Priser": [
+        {
+          "Pris": 119.90,
+          "Dato": "2025-12-22"
+        }
+      ]
+    },
+    {
+      "Navn": "Veggen spelt 420g",
+      "Priser": [
+        {
+          "Pris": 48.60,
+          "Dato": "2025-04-15"
+        },
+        {
+          "Pris": 39.90,
+          "Dato": "2025-07-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Vestlandslefsa m/sukker\u0026kanel 5pk 230g",
+      "Priser": [
+        {
+          "Pris": 34.90,
+          "Dato": "2026-04-04"
+        }
+      ]
+    },
+    {
+      "Navn": "Vilje balsam parfymefri 275ml",
+      "Priser": [
+        {
+          "Pris": 25.90,
+          "Dato": "2025-08-29"
+        }
+      ]
+    },
+    {
+      "Navn": "Vilje mango\u0026pasjonsfrukt 0,33l",
+      "Priser": [
+        {
+          "Pris": 18.90,
+          "Dato": "2025-05-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Vilje sitron\u0026lime 0,33l",
+      "Priser": [
+        {
+          "Pris": 18.90,
+          "Dato": "2025-11-10"
+        }
+      ]
+    },
+    {
+      "Navn": "Villa lett 1,5l",
+      "Priser": [
+        {
+          "Pris": 36.90,
+          "Dato": "2026-01-10"
+        }
+      ]
+    },
+    {
+      "Navn": "V\u00E5rl\u00F8k bunt 125g",
+      "Priser": [
+        {
+          "Pris": 19.90,
+          "Dato": "2025-04-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Yoghurt gresk naturell 350g",
+      "Priser": [
+        {
+          "Pris": 32.90,
+          "Dato": "2026-01-24"
+        }
+      ]
+    },
+    {
+      "Navn": "Yoghurt gresk type naturell 850g",
+      "Priser": [
+        {
+          "Pris": 48.90,
+          "Dato": "2026-03-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Yoghurt melon 4x150g",
+      "Priser": [
+        {
+          "Pris": 25.90,
+          "Dato": "2025-08-29"
+        },
+        {
+          "Pris": 15.90,
+          "Dato": "2026-04-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Yoghurt naturell 800g",
+      "Priser": [
+        {
+          "Pris": 30.40,
+          "Dato": "2025-05-10"
+        }
+      ]
+    },
+    {
+      "Navn": "Yoghurt skogsb\u00E6r 800g",
+      "Priser": [
+        {
+          "Pris": 39.70,
+          "Dato": "2026-01-16"
+        }
+      ]
+    },
+    {
+      "Navn": "Yt proteinshake sjokolade 300ml",
+      "Priser": [
+        {
+          "Pris": 26.90,
+          "Dato": "2026-03-31"
+        },
+        {
+          "Pris": 27.40,
+          "Dato": "2026-04-13"
+        }
+      ]
+    },
+    {
+      "Navn": "Yt proteinyoghurt vanilje 730g",
+      "Priser": [
+        {
+          "Pris": 49.90,
+          "Dato": "2025-06-27"
+        },
+        {
+          "Pris": 51.90,
+          "Dato": "2025-08-20"
+        }
+      ]
+    },
+    {
+      "Navn": "Zendium tannkrem fresh\u0026white 75ml",
+      "Priser": [
+        {
+          "Pris": 28.40,
+          "Dato": "2025-08-22"
+        }
+      ]
+    }
+  ],
+  "Meny": [
+    {
+      "Navn": "Agurk hel norsk",
+      "Priser": [
+        {
+          "Pris": 26.90,
+          "Dato": "2025-05-03"
+        },
+        {
+          "Pris": 27.90,
+          "Dato": "2025-11-22"
+        },
+        {
+          "Pris": 30.90,
+          "Dato": "2025-12-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Aioli 130ml",
+      "Priser": [
+        {
+          "Pris": 19.90,
+          "Dato": "2025-12-04"
+        }
+      ]
+    },
+    {
+      "Navn": "Aioli 250g",
+      "Priser": [
+        {
+          "Pris": 32.90,
+          "Dato": "2025-05-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Ajax allrengj\u00F8ring original 1l",
+      "Priser": [
+        {
+          "Pris": 49.90,
+          "Dato": "2025-09-17"
+        }
+      ]
+    },
+    {
+      "Navn": "Ananas i skiver m/juice 3x220g",
+      "Priser": [
+        {
+          "Pris": 69.90,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Andebryst ca350g",
+      "Priser": [
+        {
+          "Pris": 427.61,
+          "Dato": "2026-03-14"
+        },
+        {
+          "Pris": 588.99,
+          "Dato": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Apetina original white cheese 200g",
+      "Priser": [
+        {
+          "Pris": 44.90,
+          "Dato": "2025-07-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Apetina snack chili 100g",
+      "Priser": [
+        {
+          "Pris": 23.90,
+          "Dato": "2025-07-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Appelsinjuice nypresset i butikk 1,0l",
+      "Priser": [
+        {
+          "Pris": 89.00,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Asan intimvask original 400ml",
+      "Priser": [
+        {
+          "Pris": 61.80,
+          "Dato": "2025-09-24"
+        }
+      ]
+    },
+    {
+      "Navn": "Asian wok oyster\u0026garlic 150g",
+      "Priser": [
+        {
+          "Pris": 19.90,
+          "Dato": "2025-11-19"
+        },
+        {
+          "Pris": 26.90,
+          "Dato": "2025-12-02"
+        }
+      ]
+    },
+    {
+      "Navn": "Asparges gr\u00F8nn bunt 250g",
+      "Priser": [
+        {
+          "Pris": 69.90,
+          "Dato": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Avfallsposer 30l 20stk",
+      "Priser": [
+        {
+          "Pris": 14.90,
+          "Dato": "2025-09-13"
+        },
+        {
+          "Pris": 16.90,
+          "Dato": "2025-11-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Avfallsposer baderom 5l 45stk",
+      "Priser": [
+        {
+          "Pris": 17.90,
+          "Dato": "2025-04-29"
+        },
+        {
+          "Pris": 18.90,
+          "Dato": "2025-12-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Avfallsposer m/sn\u00F8relukking 30l 15stk",
+      "Priser": [
+        {
+          "Pris": 19.90,
+          "Dato": "2025-05-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Avfallssekk transparent 120l 10stk",
+      "Priser": [
+        {
+          "Pris": 32.50,
+          "Dato": "2025-09-23"
+        }
+      ]
+    },
+    {
+      "Navn": "Bacon ternet r\u00F8kt p\u00E5 b\u00F8keflis 2x125g",
+      "Priser": [
+        {
+          "Pris": 52.50,
+          "Dato": "2025-10-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Baconburger varm pr stk",
+      "Priser": [
+        {
+          "Pris": 15.00,
+          "Dato": "2025-10-29"
+        }
+      ]
+    },
+    {
+      "Navn": "Baconp\u00F8lse 80% 240g",
+      "Priser": [
+        {
+          "Pris": 59.90,
+          "Dato": "2025-11-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Baguette 650g",
+      "Priser": [
+        {
+          "Pris": 45.90,
+          "Dato": "2025-08-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Baguette fin 140g",
+      "Priser": [
+        {
+          "Pris": 12.90,
+          "Dato": "2025-09-10"
+        }
+      ]
+    },
+    {
+      "Navn": "Baguette fransk",
+      "Priser": [
+        {
+          "Pris": 17.90,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Bakeark 18ark vilje",
+      "Priser": [
+        {
+          "Pris": 15.50,
+          "Dato": "2025-05-14"
+        },
+        {
+          "Pris": 14.90,
+          "Dato": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Bakepotet bama",
+      "Priser": [
+        {
+          "Pris": 40.24,
+          "Dato": "2026-03-28"
+        },
+        {
+          "Pris": 64.90,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Balsamico \u00F8kologisk 250ml",
+      "Priser": [
+        {
+          "Pris": 74.50,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Barmix sweet\u0026sour 450g",
+      "Priser": [
+        {
+          "Pris": 125.00,
+          "Dato": "2025-07-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Basilikum 12cm stor potte",
+      "Priser": [
+        {
+          "Pris": 35.90,
+          "Dato": "2025-10-11"
+        },
+        {
+          "Pris": 36.90,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Biffsm\u00F8r pepper og hvitl\u00F8k 65g",
+      "Priser": [
+        {
+          "Pris": 25.90,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Biola syrnet melk jordb\u00E6r 1000g",
+      "Priser": [
+        {
+          "Pris": 36.90,
+          "Dato": "2025-12-20"
+        }
+      ]
+    },
+    {
+      "Navn": "Bl\u00E5b\u00E6r 125g",
+      "Priser": [
+        {
+          "Pris": 19.90,
+          "Dato": "2025-05-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Bl\u00E5b\u00E6r 400g",
+      "Priser": [
+        {
+          "Pris": 69.90,
+          "Dato": "2025-05-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Boble vann lime 0,33l",
+      "Priser": [
+        {
+          "Pris": 10.90,
+          "Dato": "2025-09-25"
+        }
+      ]
+    },
+    {
+      "Navn": "Bomullspads rund 80stk",
+      "Priser": [
+        {
+          "Pris": 14.40,
+          "Dato": "2025-12-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Bomullspinner 300stk",
+      "Priser": [
+        {
+          "Pris": 10.90,
+          "Dato": "2025-04-29"
+        },
+        {
+          "Pris": 11.90,
+          "Dato": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "Navn": "Bringeb\u00E6r 125g",
+      "Priser": [
+        {
+          "Pris": 38.43,
+          "Dato": "2025-12-20"
+        },
+        {
+          "Pris": 87.84,
+          "Dato": "2025-12-20"
+        },
+        {
+          "Pris": 54.90,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Brokkolini 200g",
+      "Priser": [
+        {
+          "Pris": 34.90,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Br\u00F8dposer 6l 65stk",
+      "Priser": [
+        {
+          "Pris": 21.90,
+          "Dato": "2025-09-13"
+        }
+      ]
+    },
+    {
+      "Navn": "Budweiser budvar 0,5l",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-11-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Bulmers cider original 0,5l",
+      "Priser": [
+        {
+          "Pris": 59.90,
+          "Dato": "2025-12-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Burger big beef 2x180g",
+      "Priser": [
+        {
+          "Pris": 59.90,
+          "Dato": "2025-05-13"
+        }
+      ]
+    },
+    {
+      "Navn": "Burgerbr\u00F8d store m/sesam 6stk 540g",
+      "Priser": [
+        {
+          "Pris": 35.90,
+          "Dato": "2025-05-13"
+        }
+      ]
+    },
+    {
+      "Navn": "Butter chicken 460g",
+      "Priser": [
+        {
+          "Pris": 89.00,
+          "Dato": "2025-08-27"
+        }
+      ]
+    },
+    {
+      "Navn": "B\u00E6repose pr stk",
+      "Priser": [
+        {
+          "Pris": 6.75,
+          "Dato": "2025-12-30"
+        }
+      ]
+    },
+    {
+      "Navn": "B\u00F8nner sorte \u00F8kologisk 380g",
+      "Priser": [
+        {
+          "Pris": 15.90,
+          "Dato": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Champignon bama",
+      "Priser": [
+        {
+          "Pris": 10.79,
+          "Dato": "2025-05-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Cheddar norsk skivet 100g",
+      "Priser": [
+        {
+          "Pris": 24.90,
+          "Dato": "2025-05-13"
+        }
+      ]
+    },
+    {
+      "Navn": "Chicken tandoori 450g",
+      "Priser": [
+        {
+          "Pris": 89.00,
+          "Dato": "2025-07-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Chilimajones 150g",
+      "Priser": [
+        {
+          "Pris": 26.90,
+          "Dato": "2025-05-13"
+        }
+      ]
+    },
+    {
+      "Navn": "Chilipepper r\u00F8d pk",
+      "Priser": [
+        {
+          "Pris": 19.90,
+          "Dato": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Chorizo 130g",
+      "Priser": [
+        {
+          "Pris": 48.50,
+          "Dato": "2025-10-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Chorizo 80% 240g",
+      "Priser": [
+        {
+          "Pris": 59.90,
+          "Dato": "2025-11-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Ciabatta steinovnsbakt 4x62g",
+      "Priser": [
+        {
+          "Pris": 21.50,
+          "Dato": "2025-10-21"
+        },
+        {
+          "Pris": 21.90,
+          "Dato": "2025-12-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Coca cola 0,33l",
+      "Priser": [
+        {
+          "Pris": 25.90,
+          "Dato": "2025-05-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Coca cola vanilla 355ml",
+      "Priser": [
+        {
+          "Pris": 27.90,
+          "Dato": "2025-12-20"
+        }
+      ]
+    },
+    {
+      "Navn": "Coca-cola 0,33l",
+      "Priser": [
+        {
+          "Pris": 21.90,
+          "Dato": "2025-09-24"
+        }
+      ]
+    },
+    {
+      "Navn": "Coca-cola 0,33lx10 bx sleek",
+      "Priser": [
+        {
+          "Pris": 107.00,
+          "Dato": "2025-12-20"
+        }
+      ]
+    },
+    {
+      "Navn": "Coca-cola 0,5l",
+      "Priser": [
+        {
+          "Pris": 30.90,
+          "Dato": "2025-12-04"
+        }
+      ]
+    },
+    {
+      "Navn": "Coca-cola 1,5l",
+      "Priser": [
+        {
+          "Pris": 37.90,
+          "Dato": "2025-11-07"
+        },
+        {
+          "Pris": 34.90,
+          "Dato": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Coca-cola zero koffeinfri 0,5l",
+      "Priser": [
+        {
+          "Pris": 29.50,
+          "Dato": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Cookie brownie 54g",
+      "Priser": [
+        {
+          "Pris": 10.00,
+          "Dato": "2025-10-29"
+        },
+        {
+          "Pris": 30.70,
+          "Dato": "2025-10-29"
+        }
+      ]
+    },
+    {
+      "Navn": "Crispi salat 150g",
+      "Priser": [
+        {
+          "Pris": 24.90,
+          "Dato": "2025-11-22"
+        },
+        {
+          "Pris": 39.90,
+          "Dato": "2025-11-22"
+        },
+        {
+          "Pris": 41.90,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Croissant m/sjokolade",
+      "Priser": [
+        {
+          "Pris": 24.90,
+          "Dato": "2025-09-25"
+        }
+      ]
+    },
+    {
+      "Navn": "Croissanter 6stk 360g",
+      "Priser": [
+        {
+          "Pris": 39.26,
+          "Dato": "2025-06-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Dalen julebrus 330ml",
+      "Priser": [
+        {
+          "Pris": 34.90,
+          "Dato": "2025-11-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Define balsam moroccan argan oil 200ml",
+      "Priser": [
+        {
+          "Pris": 67.90,
+          "Dato": "2025-10-18"
+        }
+      ]
+    },
+    {
+      "Navn": "Demae ramen miso 100g",
+      "Priser": [
+        {
+          "Pris": 17.90,
+          "Dato": "2025-07-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Demae ramen spicy 100g",
+      "Priser": [
+        {
+          "Pris": 18.90,
+          "Dato": "2025-07-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Doc honning\u0026lakris 50g",
+      "Priser": [
+        {
+          "Pris": 31.90,
+          "Dato": "2026-01-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Dronningsjokolade 100g",
+      "Priser": [
+        {
+          "Pris": 38.50,
+          "Dato": "2025-12-20"
+        }
+      ]
+    },
+    {
+      "Navn": "Ekte revet ost 4 oster 250g",
+      "Priser": [
+        {
+          "Pris": 55.90,
+          "Dato": "2025-05-27"
+        },
+        {
+          "Pris": 57.90,
+          "Dato": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "Navn": "Eple/bringeb.juice presset 1l",
+      "Priser": [
+        {
+          "Pris": 49.90,
+          "Dato": "2025-09-24"
+        }
+      ]
+    },
+    {
+      "Navn": "Eplejuice original 1l",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-10-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Eplejuice premium 1l",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-05-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Epok no1 ice blue 4 15,4g",
+      "Priser": [
+        {
+          "Pris": 103.00,
+          "Dato": "2025-12-04"
+        },
+        {
+          "Pris": 107.00,
+          "Dato": "2026-01-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Farris frus eple\u0026kiwi 1,5l",
+      "Priser": [
+        {
+          "Pris": 36.90,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Fazermint 150g",
+      "Priser": [
+        {
+          "Pris": 73.40,
+          "Dato": "2025-05-16"
+        }
+      ]
+    },
+    {
+      "Navn": "Fiberbr\u00F8d funkygine 700g",
+      "Priser": [
+        {
+          "Pris": 47.50,
+          "Dato": "2025-12-20"
+        }
+      ]
+    },
+    {
+      "Navn": "Fish\u0026crisp gourmet 480g",
+      "Priser": [
+        {
+          "Pris": 83.00,
+          "Dato": "2025-12-04"
+        }
+      ]
+    },
+    {
+      "Navn": "Formloff sk\u00E5ret 600g",
+      "Priser": [
+        {
+          "Pris": 46.50,
+          "Dato": "2026-04-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Fresh discs lavender 36ml",
+      "Priser": [
+        {
+          "Pris": 51.00,
+          "Dato": "2025-05-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Friele cafe noir filtermalt 250g",
+      "Priser": [
+        {
+          "Pris": 89.00,
+          "Dato": "2025-12-20"
+        }
+      ]
+    },
+    {
+      "Navn": "Frokostbriks steinovnsbakt 4x75g",
+      "Priser": [
+        {
+          "Pris": 32.90,
+          "Dato": "2025-05-15"
+        },
+        {
+          "Pris": 33.50,
+          "Dato": "2025-11-27"
+        },
+        {
+          "Pris": 34.50,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Frokostegg frittg\u00E5ende l 12stk",
+      "Priser": [
+        {
+          "Pris": 56.90,
+          "Dato": "2025-05-14"
+        },
+        {
+          "Pris": 62.90,
+          "Dato": "2025-11-27"
+        },
+        {
+          "Pris": 66.50,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Fusion blader power 4stk",
+      "Priser": [
+        {
+          "Pris": 239.00,
+          "Dato": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Ghost pasta husets pr kg",
+      "Priser": [
+        {
+          "Pris": 198.99,
+          "Dato": "2025-10-18"
+        },
+        {
+          "Pris": 199.36,
+          "Dato": "2025-10-21"
+        },
+        {
+          "Pris": 268.88,
+          "Dato": "2025-11-27"
+        },
+        {
+          "Pris": 268.85,
+          "Dato": "2025-12-20"
+        }
+      ]
+    },
+    {
+      "Navn": "Gigant-mais ristede\u0026saltet 400g",
+      "Priser": [
+        {
+          "Pris": 72.90,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Grillp\u00F8lse 600g",
+      "Priser": [
+        {
+          "Pris": 49.90,
+          "Dato": "2025-04-29"
+        }
+      ]
+    },
+    {
+      "Navn": "Grillskinke ca150g",
+      "Priser": [
+        {
+          "Pris": 97.64,
+          "Dato": "2025-08-07"
+        },
+        {
+          "Pris": 90.95,
+          "Dato": "2025-10-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Grilstad hot chorizo 100g",
+      "Priser": [
+        {
+          "Pris": 49.90,
+          "Dato": "2025-12-20"
+        }
+      ]
+    },
+    {
+      "Navn": "Guacamole 150g",
+      "Priser": [
+        {
+          "Pris": 42.90,
+          "Dato": "2025-08-27"
+        },
+        {
+          "Pris": 39.90,
+          "Dato": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Guacamole hot 150g",
+      "Priser": [
+        {
+          "Pris": 42.90,
+          "Dato": "2025-10-11"
+        },
+        {
+          "Pris": 39.90,
+          "Dato": "2025-12-19"
+        }
+      ]
+    },
+    {
+      "Navn": "Gullsalami 80g",
+      "Priser": [
+        {
+          "Pris": 40.90,
+          "Dato": "2025-12-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Gulrot 400g",
+      "Priser": [
+        {
+          "Pris": 18.90,
+          "Dato": "2025-05-03"
+        },
+        {
+          "Pris": 16.90,
+          "Dato": "2025-12-02"
+        }
+      ]
+    },
+    {
+      "Navn": "Gummihansker l 2par first price",
+      "Priser": [
+        {
+          "Pris": 15.90,
+          "Dato": "2025-05-03"
+        }
+      ]
+    },
+    {
+      "Navn": "G\u00E5rdsegg m/l 12stk",
+      "Priser": [
+        {
+          "Pris": 53.90,
+          "Dato": "2025-05-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Hamburgerlomme brun 24stk",
+      "Priser": [
+        {
+          "Pris": 23.90,
+          "Dato": "2025-12-02"
+        }
+      ]
+    },
+    {
+      "Navn": "Handlenett meny gjenbruk",
+      "Priser": [
+        {
+          "Pris": 15.00,
+          "Dato": "2025-09-23"
+        }
+      ]
+    },
+    {
+      "Navn": "Hansa hard seltzer eple 0,33l",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-08-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Hansa hard seltzer grapefrukt 0,33l",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-08-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Hansa julebrus 0,33l",
+      "Priser": [
+        {
+          "Pris": 21.90,
+          "Dato": "2025-12-02"
+        }
+      ]
+    },
+    {
+      "Navn": "Hansa julebrus 0,33lx6 fl",
+      "Priser": [
+        {
+          "Pris": 131.40,
+          "Dato": "2025-12-19"
+        }
+      ]
+    },
+    {
+      "Navn": "Hansa pilsner 0,33lx10 bx",
+      "Priser": [
+        {
+          "Pris": 283.00,
+          "Dato": "2025-09-13"
+        },
+        {
+          "Pris": 279.00,
+          "Dato": "2025-12-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Hansa pilsner 0,33lx12 bx",
+      "Priser": [
+        {
+          "Pris": 334.80,
+          "Dato": "2025-05-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Hansa sommerbrus 0,33l",
+      "Priser": [
+        {
+          "Pris": 16.90,
+          "Dato": "2025-05-13"
+        }
+      ]
+    },
+    {
+      "Navn": "Head\u0026shoulder shampoo apple fresh 400ml",
+      "Priser": [
+        {
+          "Pris": 74.90,
+          "Dato": "2025-09-24"
+        }
+      ]
+    },
+    {
+      "Navn": "Honning m/chili 180g",
+      "Priser": [
+        {
+          "Pris": 135.00,
+          "Dato": "2026-01-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Hvetemel 1kg",
+      "Priser": [
+        {
+          "Pris": 16.90,
+          "Dato": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Hvit sjokolade 90g",
+      "Priser": [
+        {
+          "Pris": 49.50,
+          "Dato": "2025-12-20"
+        }
+      ]
+    },
+    {
+      "Navn": "Hvitl\u00F8k 100g",
+      "Priser": [
+        {
+          "Pris": 18.90,
+          "Dato": "2025-05-03"
+        },
+        {
+          "Pris": 19.90,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Hvitl\u00F8kssm\u00F8r 65g",
+      "Priser": [
+        {
+          "Pris": 25.90,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Isbergsalat stk",
+      "Priser": [
+        {
+          "Pris": 27.90,
+          "Dato": "2025-05-09"
+        },
+        {
+          "Pris": 29.90,
+          "Dato": "2025-07-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Isbiter 2kg",
+      "Priser": [
+        {
+          "Pris": 35.50,
+          "Dato": "2025-05-16"
+        },
+        {
+          "Pris": 35.90,
+          "Dato": "2025-12-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Isklar sparkling lime 1,5l",
+      "Priser": [
+        {
+          "Pris": 20.50,
+          "Dato": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Jasminris boil in bag 960g",
+      "Priser": [
+        {
+          "Pris": 44.50,
+          "Dato": "2025-07-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Jif universal spray 500ml",
+      "Priser": [
+        {
+          "Pris": 51.50,
+          "Dato": "2025-12-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Jordan tannb\u00F8rste individual precision",
+      "Priser": [
+        {
+          "Pris": 33.90,
+          "Dato": "2025-05-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Jordb\u00E6r 500g",
+      "Priser": [
+        {
+          "Pris": 59.90,
+          "Dato": "2025-05-03"
+        },
+        {
+          "Pris": 39.90,
+          "Dato": "2025-05-16"
+        }
+      ]
+    },
+    {
+      "Navn": "Jordb\u00E6r norsk 500g",
+      "Priser": [
+        {
+          "Pris": 49.90,
+          "Dato": "2025-05-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Julestjerne flergrenet",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-12-20"
+        }
+      ]
+    },
+    {
+      "Navn": "Kanel malt 30g",
+      "Priser": [
+        {
+          "Pris": 49.90,
+          "Dato": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Karbonadedeig 400g",
+      "Priser": [
+        {
+          "Pris": 72.90,
+          "Dato": "2025-05-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Karbonadedeig 5% u/salt og vann 400g",
+      "Priser": [
+        {
+          "Pris": 93.00,
+          "Dato": "2025-10-11"
+        },
+        {
+          "Pris": 97.00,
+          "Dato": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Karbonadedeig u/salt og vann 400g",
+      "Priser": [
+        {
+          "Pris": 93.00,
+          "Dato": "2025-09-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Kidneyb\u00F8nner 380g",
+      "Priser": [
+        {
+          "Pris": 9.90,
+          "Dato": "2025-09-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Kinder maxi sjokolade 21g",
+      "Priser": [
+        {
+          "Pris": 11.90,
+          "Dato": "2025-12-22"
+        }
+      ]
+    },
+    {
+      "Navn": "Kj\u00F8ttboller spicy 120g",
+      "Priser": [
+        {
+          "Pris": 44.90,
+          "Dato": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "Navn": "Kj\u00F8ttdeig svin 9% u/salt og vann 300g",
+      "Priser": [
+        {
+          "Pris": 43.33,
+          "Dato": "2026-03-28"
+        },
+        {
+          "Pris": 61.90,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Kj\u00F8ttdeig svin 9% u/salt og vann 400g",
+      "Priser": [
+        {
+          "Pris": 65.90,
+          "Dato": "2025-05-09"
+        },
+        {
+          "Pris": 69.90,
+          "Dato": "2025-12-19"
+        }
+      ]
+    },
+    {
+      "Navn": "Klassisk potetsalat 500g",
+      "Priser": [
+        {
+          "Pris": 32.90,
+          "Dato": "2025-05-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Klor 750ml",
+      "Priser": [
+        {
+          "Pris": 18.90,
+          "Dato": "2025-12-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Kokesjokolade 70% 100g",
+      "Priser": [
+        {
+          "Pris": 47.90,
+          "Dato": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Kokosolje ex virgin \u00F8kol 220ml",
+      "Priser": [
+        {
+          "Pris": 81.00,
+          "Dato": "2025-12-20"
+        }
+      ]
+    },
+    {
+      "Navn": "Kokt skinke ekte 110g",
+      "Priser": [
+        {
+          "Pris": 32.50,
+          "Dato": "2025-05-03"
+        },
+        {
+          "Pris": 33.50,
+          "Dato": "2025-06-14"
+        },
+        {
+          "Pris": 35.90,
+          "Dato": "2025-12-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Kolibriegg 58g",
+      "Priser": [
+        {
+          "Pris": 21.90,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Kolibristenger 3stk",
+      "Priser": [
+        {
+          "Pris": 46.90,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Komler/raspeballer 570g",
+      "Priser": [
+        {
+          "Pris": 115.00,
+          "Dato": "2025-07-07"
+        },
+        {
+          "Pris": 69.90,
+          "Dato": "2025-08-07"
+        },
+        {
+          "Pris": 112.00,
+          "Dato": "2025-09-17"
+        }
+      ]
+    },
+    {
+      "Navn": "Koriander 12cm stor",
+      "Priser": [
+        {
+          "Pris": 35.90,
+          "Dato": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "Navn": "Kremfl\u00F8te 37% 3dl",
+      "Priser": [
+        {
+          "Pris": 25.50,
+          "Dato": "2025-05-15"
+        },
+        {
+          "Pris": 25.90,
+          "Dato": "2025-10-11"
+        },
+        {
+          "Pris": 22.90,
+          "Dato": "2025-12-20"
+        },
+        {
+          "Pris": 21.50,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Kremgo krydder 125g",
+      "Priser": [
+        {
+          "Pris": 21.90,
+          "Dato": "2025-12-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Kvikk lunsj 47g",
+      "Priser": [
+        {
+          "Pris": 22.90,
+          "Dato": "2025-10-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Kyllingfilet 460g",
+      "Priser": [
+        {
+          "Pris": 109.00,
+          "Dato": "2025-10-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Kyllingfilet strimler 400g",
+      "Priser": [
+        {
+          "Pris": 92.00,
+          "Dato": "2025-05-03"
+        },
+        {
+          "Pris": 99.00,
+          "Dato": "2025-11-19"
+        },
+        {
+          "Pris": 89.00,
+          "Dato": "2025-12-02"
+        }
+      ]
+    },
+    {
+      "Navn": "Kyllingklubbe grillet pr kg",
+      "Priser": [
+        {
+          "Pris": 178.99,
+          "Dato": "2025-08-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Kyllingl\u00E5r grillet 1120g",
+      "Priser": [
+        {
+          "Pris": 149.00,
+          "Dato": "2025-07-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Kyllingl\u00E5r grillet pr stk",
+      "Priser": [
+        {
+          "Pris": 36.90,
+          "Dato": "2025-09-10"
+        }
+      ]
+    },
+    {
+      "Navn": "Lettmelk 1,0% 1,75l",
+      "Priser": [
+        {
+          "Pris": 37.30,
+          "Dato": "2025-05-09"
+        },
+        {
+          "Pris": 38.90,
+          "Dato": "2025-06-28"
+        },
+        {
+          "Pris": 38.40,
+          "Dato": "2025-07-14"
+        },
+        {
+          "Pris": 38.60,
+          "Dato": "2025-12-30"
+        },
+        {
+          "Pris": 39.90,
+          "Dato": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Lettmelk 1,0% 1l",
+      "Priser": [
+        {
+          "Pris": 22.50,
+          "Dato": "2025-10-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Lettr\u00F8mme 17% 300g",
+      "Priser": [
+        {
+          "Pris": 23.70,
+          "Dato": "2025-12-19"
+        },
+        {
+          "Pris": 24.90,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Lettr\u00F8mme laktosefri 300g",
+      "Priser": [
+        {
+          "Pris": 27.90,
+          "Dato": "2025-11-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Lfc butter cookies 340g",
+      "Priser": [
+        {
+          "Pris": 99.00,
+          "Dato": "2025-10-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Lime kg",
+      "Priser": [
+        {
+          "Pris": 3.70,
+          "Dato": "2025-05-15"
+        },
+        {
+          "Pris": 6.29,
+          "Dato": "2025-12-02"
+        }
+      ]
+    },
+    {
+      "Navn": "Limesaft 115ml",
+      "Priser": [
+        {
+          "Pris": 25.20,
+          "Dato": "2025-07-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Limonade original 1l",
+      "Priser": [
+        {
+          "Pris": 51.90,
+          "Dato": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "Navn": "L\u00F8k spr\u00F8stekt 100g",
+      "Priser": [
+        {
+          "Pris": 8.90,
+          "Dato": "2025-04-29"
+        },
+        {
+          "Pris": 21.50,
+          "Dato": "2025-11-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Maiskorn extra crispy 3x160g",
+      "Priser": [
+        {
+          "Pris": 46.90,
+          "Dato": "2025-05-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Mango i biter 300g",
+      "Priser": [
+        {
+          "Pris": 23.90,
+          "Dato": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "Navn": "Mango m/sjokolade fruit dips",
+      "Priser": [
+        {
+          "Pris": 44.90,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Mango stk cevita",
+      "Priser": [
+        {
+          "Pris": 46.90,
+          "Dato": "2025-05-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Mango\u0026strawberry 20pos twinings",
+      "Priser": [
+        {
+          "Pris": 72.90,
+          "Dato": "2025-12-02"
+        }
+      ]
+    },
+    {
+      "Navn": "Meierism\u00F8r 250g",
+      "Priser": [
+        {
+          "Pris": 47.00,
+          "Dato": "2025-09-02"
+        },
+        {
+          "Pris": 43.90,
+          "Dato": "2025-09-10"
+        }
+      ]
+    },
+    {
+      "Navn": "Melange margarin 500g",
+      "Priser": [
+        {
+          "Pris": 41.90,
+          "Dato": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Melis 500g",
+      "Priser": [
+        {
+          "Pris": 25.90,
+          "Dato": "2025-05-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Melkehjerter 130g",
+      "Priser": [
+        {
+          "Pris": 76.90,
+          "Dato": "2025-12-22"
+        }
+      ]
+    },
+    {
+      "Navn": "Melkesjoko kjeks 184g",
+      "Priser": [
+        {
+          "Pris": 49.90,
+          "Dato": "2025-09-13"
+        }
+      ]
+    },
+    {
+      "Navn": "Melkesjokolade 200g",
+      "Priser": [
+        {
+          "Pris": 60.90,
+          "Dato": "2025-05-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Mentos fresh cola 37,5g",
+      "Priser": [
+        {
+          "Pris": 22.90,
+          "Dato": "2025-12-22"
+        }
+      ]
+    },
+    {
+      "Navn": "Mentos frukt 37,5g",
+      "Priser": [
+        {
+          "Pris": 22.90,
+          "Dato": "2025-12-22"
+        }
+      ]
+    },
+    {
+      "Navn": "Micropopcorn saltet 300g",
+      "Priser": [
+        {
+          "Pris": 18.90,
+          "Dato": "2025-12-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Mikrofiber klut mix 3pk",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-09-17"
+        }
+      ]
+    },
+    {
+      "Navn": "Mini berliner bringeb\u00E6r 5pk",
+      "Priser": [
+        {
+          "Pris": 35.00,
+          "Dato": "2025-08-26"
+        }
+      ]
+    },
+    {
+      "Navn": "Monster aussie lemonade 0,5l",
+      "Priser": [
+        {
+          "Pris": 17.90,
+          "Dato": "2025-08-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Monster juiced rio punch 0,5l",
+      "Priser": [
+        {
+          "Pris": 17.90,
+          "Dato": "2025-05-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Mozzarella 220g",
+      "Priser": [
+        {
+          "Pris": 41.90,
+          "Dato": "2025-11-22"
+        },
+        {
+          "Pris": 27.93,
+          "Dato": "2025-12-20"
+        },
+        {
+          "Pris": 32.59,
+          "Dato": "2026-01-30"
+        },
+        {
+          "Pris": 43.90,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Munns\u00E5rplaster 15stk",
+      "Priser": [
+        {
+          "Pris": 199.00,
+          "Dato": "2025-12-20"
+        }
+      ]
+    },
+    {
+      "Navn": "M\u00F8llehjul fullkorn 420g",
+      "Priser": [
+        {
+          "Pris": 36.20,
+          "Dato": "2025-06-13"
+        }
+      ]
+    },
+    {
+      "Navn": "Natreen tabletter borddispenser 500stk",
+      "Priser": [
+        {
+          "Pris": 35.90,
+          "Dato": "2025-12-02"
+        }
+      ]
+    },
+    {
+      "Navn": "Nduja 200g",
+      "Priser": [
+        {
+          "Pris": 133.00,
+          "Dato": "2025-12-20"
+        },
+        {
+          "Pris": 139.00,
+          "Dato": "2026-01-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Nduja extra hot 100g",
+      "Priser": [
+        {
+          "Pris": 41.90,
+          "Dato": "2025-10-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Non stop melkesjokolade 150g",
+      "Priser": [
+        {
+          "Pris": 49.90,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Norvegia 26% skivet 300g",
+      "Priser": [
+        {
+          "Pris": 51.90,
+          "Dato": "2025-08-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Norvegia 26% skorpefri 500g",
+      "Priser": [
+        {
+          "Pris": 79.90,
+          "Dato": "2025-05-09"
+        },
+        {
+          "Pris": 81.00,
+          "Dato": "2025-06-14"
+        },
+        {
+          "Pris": 85.00,
+          "Dato": "2025-11-22"
+        },
+        {
+          "Pris": 89.00,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Norvegia revet 400g",
+      "Priser": [
+        {
+          "Pris": 76.90,
+          "Dato": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Olivenolje ex.virgin 500ml",
+      "Priser": [
+        {
+          "Pris": 139.00,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Opph\u00F8gde potteter m/krydder 450g",
+      "Priser": [
+        {
+          "Pris": 54.50,
+          "Dato": "2025-07-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Oreo kjeks double 157g",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-12-22"
+        },
+        {
+          "Pris": 41.90,
+          "Dato": "2025-12-22"
+        }
+      ]
+    },
+    {
+      "Navn": "Ostehorn fint",
+      "Priser": [
+        {
+          "Pris": 22.90,
+          "Dato": "2025-12-20"
+        }
+      ]
+    },
+    {
+      "Navn": "Ostehorn husets pr stk",
+      "Priser": [
+        {
+          "Pris": 19.90,
+          "Dato": "2025-10-18"
+        }
+      ]
+    },
+    {
+      "Navn": "Paprika r\u00F8d s\u00F8t spiss 300g",
+      "Priser": [
+        {
+          "Pris": 49.90,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Paracet tablett rund 500mg 20stk",
+      "Priser": [
+        {
+          "Pris": 52.90,
+          "Dato": "2025-06-13"
+        }
+      ]
+    },
+    {
+      "Navn": "Parmaskinke 18mnd 70g",
+      "Priser": [
+        {
+          "Pris": 99.00,
+          "Dato": "2026-01-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Parmaskinke 40g",
+      "Priser": [
+        {
+          "Pris": 34.90,
+          "Dato": "2025-12-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Parmaskinke 70g",
+      "Priser": [
+        {
+          "Pris": 89.00,
+          "Dato": "2025-09-23"
+        }
+      ]
+    },
+    {
+      "Navn": "Parmesan stick 12mnd 125g",
+      "Priser": [
+        {
+          "Pris": 53.26,
+          "Dato": "2025-12-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Parmesan trekant 12mnd 150g",
+      "Priser": [
+        {
+          "Pris": 65.99,
+          "Dato": "2026-01-30"
+        },
+        {
+          "Pris": 99.00,
+          "Dato": "2026-01-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Parmesan trekant 30mnd 150g",
+      "Priser": [
+        {
+          "Pris": 149.00,
+          "Dato": "2025-09-02"
+        }
+      ]
+    },
+    {
+      "Navn": "Parmigiano reggiano 24mnd 150g",
+      "Priser": [
+        {
+          "Pris": 109.00,
+          "Dato": "2025-10-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Pasta m/ost\u0026skinkesaus 350g",
+      "Priser": [
+        {
+          "Pris": 60.90,
+          "Dato": "2025-08-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Pastasaus formaggio 200g",
+      "Priser": [
+        {
+          "Pris": 49.90,
+          "Dato": "2025-08-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Pastasaus tomat/mascarpone 200g",
+      "Priser": [
+        {
+          "Pris": 49.90,
+          "Dato": "2025-08-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Pastinakk \u00F8kologisk",
+      "Priser": [
+        {
+          "Pris": 82.68,
+          "Dato": "2026-03-14"
+        },
+        {
+          "Pris": 159,
+          "Dato": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Peacemerke jordb\u00E6r\u0026lakris 80g",
+      "Priser": [
+        {
+          "Pris": 27.90,
+          "Dato": "2025-10-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Pean\u00F8tter 275g",
+      "Priser": [
+        {
+          "Pris": 19.90,
+          "Dato": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "Navn": "Pean\u00F8tter ristet u/salt 250g",
+      "Priser": [
+        {
+          "Pris": 25.90,
+          "Dato": "2025-04-29"
+        }
+      ]
+    },
+    {
+      "Navn": "Pepsi max 0,5l",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-06-14"
+        },
+        {
+          "Pris": 31.90,
+          "Dato": "2025-11-19"
+        },
+        {
+          "Pris": 32.90,
+          "Dato": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Pepsi max 1,5l",
+      "Priser": [
+        {
+          "Pris": 37.90,
+          "Dato": "2025-11-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Pesto genovese 190g",
+      "Priser": [
+        {
+          "Pris": 33.50,
+          "Dato": "2025-09-17"
+        }
+      ]
+    },
+    {
+      "Navn": "Philadelphia original 200g",
+      "Priser": [
+        {
+          "Pris": 36.50,
+          "Dato": "2025-05-15"
+        },
+        {
+          "Pris": 32.90,
+          "Dato": "2025-12-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Pinballs 32g",
+      "Priser": [
+        {
+          "Pris": 15.90,
+          "Dato": "2025-07-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Pinnekj\u00F8tt kokt pr kg",
+      "Priser": [
+        {
+          "Pris": 198.84,
+          "Dato": "2026-04-10"
+        },
+        {
+          "Pris": 301.96,
+          "Dato": "2026-04-10"
+        }
+      ]
+    },
+    {
+      "Navn": "Pinsa 2x230g",
+      "Priser": [
+        {
+          "Pris": 71.90,
+          "Dato": "2025-11-21"
+        },
+        {
+          "Pris": 73.90,
+          "Dato": "2025-12-20"
+        }
+      ]
+    },
+    {
+      "Navn": "Pitabr\u00F8d fine 6stk",
+      "Priser": [
+        {
+          "Pris": 41.50,
+          "Dato": "2025-07-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Pizza big one meat lover 555g",
+      "Priser": [
+        {
+          "Pris": 105.00,
+          "Dato": "2025-06-13"
+        },
+        {
+          "Pris": 115.00,
+          "Dato": "2025-11-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Pizza grandiosa pepperoni 500g",
+      "Priser": [
+        {
+          "Pris": 49.90,
+          "Dato": "2025-05-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Pizza rustica double pepperoni 565g",
+      "Priser": [
+        {
+          "Pris": 96.00,
+          "Dato": "2025-06-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Pizzabunn original 550g",
+      "Priser": [
+        {
+          "Pris": 47.90,
+          "Dato": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "Navn": "Pizzasaus hvit 140g",
+      "Priser": [
+        {
+          "Pris": 36.90,
+          "Dato": "2026-01-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Pizzasaus hvit type 120g",
+      "Priser": [
+        {
+          "Pris": 35.90,
+          "Dato": "2025-11-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Pizzasaus original 180g",
+      "Priser": [
+        {
+          "Pris": 23.50,
+          "Dato": "2025-05-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Pizzasaus type r\u00F8d 120g",
+      "Priser": [
+        {
+          "Pris": 27.90,
+          "Dato": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "Navn": "Plumbo r\u00F8rvask 1l",
+      "Priser": [
+        {
+          "Pris": 119.00,
+          "Dato": "2025-05-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Pulled pork mini gyros tulip",
+      "Priser": [
+        {
+          "Pris": 74.90,
+          "Dato": "2025-07-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Purre pr kg",
+      "Priser": [
+        {
+          "Pris": 62.91,
+          "Dato": "2025-06-28"
+        }
+      ]
+    },
+    {
+      "Navn": "P\u00F8lsebr\u00F8d sesam 8stk 400g",
+      "Priser": [
+        {
+          "Pris": 31.50,
+          "Dato": "2025-04-29"
+        },
+        {
+          "Pris": 35.90,
+          "Dato": "2025-11-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Red bull peach 250ml",
+      "Priser": [
+        {
+          "Pris": 14.90,
+          "Dato": "2025-09-24"
+        }
+      ]
+    },
+    {
+      "Navn": "Red bull regular 250ml",
+      "Priser": [
+        {
+          "Pris": 24.90,
+          "Dato": "2025-12-22"
+        },
+        {
+          "Pris": 20.00,
+          "Dato": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Red bull regular 473ml",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-11-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Red bull sukkerfri 250ml",
+      "Priser": [
+        {
+          "Pris": 22.90,
+          "Dato": "2025-12-20"
+        }
+      ]
+    },
+    {
+      "Navn": "Red bull yellow edition 250ml",
+      "Priser": [
+        {
+          "Pris": 14.90,
+          "Dato": "2025-09-23"
+        },
+        {
+          "Pris": 24.90,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Rice noodles 180g",
+      "Priser": [
+        {
+          "Pris": 32.90,
+          "Dato": "2025-05-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Ridderost 285g",
+      "Priser": [
+        {
+          "Pris": 64.90,
+          "Dato": "2025-12-20"
+        }
+      ]
+    },
+    {
+      "Navn": "Ritz kjeks original 150g",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-12-20"
+        }
+      ]
+    },
+    {
+      "Navn": "Rock salt m/kvern 140g",
+      "Priser": [
+        {
+          "Pris": 57.90,
+          "Dato": "2025-05-16"
+        }
+      ]
+    },
+    {
+      "Navn": "Romano mix 175g",
+      "Priser": [
+        {
+          "Pris": 24.43,
+          "Dato": "2025-05-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Ruccula 65g",
+      "Priser": [
+        {
+          "Pris": 23.90,
+          "Dato": "2025-11-21"
+        },
+        {
+          "Pris": 24.90,
+          "Dato": "2026-01-30"
+        }
+      ]
+    },
+    {
+      "Navn": "R\u00F8dl\u00F8k 2stk",
+      "Priser": [
+        {
+          "Pris": 21.90,
+          "Dato": "2025-12-20"
+        }
+      ]
+    },
+    {
+      "Navn": "R\u00F8mmedressing original 125g",
+      "Priser": [
+        {
+          "Pris": 29.10,
+          "Dato": "2025-06-13"
+        },
+        {
+          "Pris": 29.50,
+          "Dato": "2025-09-13"
+        },
+        {
+          "Pris": 28.90,
+          "Dato": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "Navn": "R\u00E5ny pepperoni 60g",
+      "Priser": [
+        {
+          "Pris": 45.90,
+          "Dato": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "Navn": "R\u00E5ny pizzatopping pepperoni 60g",
+      "Priser": [
+        {
+          "Pris": 48.50,
+          "Dato": "2025-11-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Safari kjeks original 200g",
+      "Priser": [
+        {
+          "Pris": 33.90,
+          "Dato": "2025-05-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Salatbar plukk\u0026miks",
+      "Priser": [
+        {
+          "Pris": 60.87,
+          "Dato": "2025-04-09"
+        },
+        {
+          "Pris": 80.77,
+          "Dato": "2025-08-20"
+        },
+        {
+          "Pris": 74.80,
+          "Dato": "2025-09-01"
+        }
+      ]
+    },
+    {
+      "Navn": "San pellegrino aranciata rossa 0,33l",
+      "Priser": [
+        {
+          "Pris": 24.90,
+          "Dato": "2025-05-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Satesticks bambus 20cm 100stk",
+      "Priser": [
+        {
+          "Pris": 25.40,
+          "Dato": "2025-11-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Schous pilsner 0,5l",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-11-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Serrano skinke 80g",
+      "Priser": [
+        {
+          "Pris": 34.90,
+          "Dato": "2025-12-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Sitron pr kg",
+      "Priser": [
+        {
+          "Pris": 49.90,
+          "Dato": "2025-06-13"
+        },
+        {
+          "Pris": 62.88,
+          "Dato": "2025-10-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Sitron \u00F8kologisk pr kg",
+      "Priser": [
+        {
+          "Pris": 99,
+          "Dato": "2025-12-04"
+        }
+      ]
+    },
+    {
+      "Navn": "Sitronsaft 115ml",
+      "Priser": [
+        {
+          "Pris": 25.00,
+          "Dato": "2025-07-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Sjalottl\u00F8k 350g",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-10-11"
+        },
+        {
+          "Pris": 34.90,
+          "Dato": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Sjokohassel n\u00F8tter 210g",
+      "Priser": [
+        {
+          "Pris": 92.00,
+          "Dato": "2025-10-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Sjokoklem 180g",
+      "Priser": [
+        {
+          "Pris": 49.90,
+          "Dato": "2025-09-13"
+        }
+      ]
+    },
+    {
+      "Navn": "Sjokoladebolle stk",
+      "Priser": [
+        {
+          "Pris": 7.25,
+          "Dato": "2026-04-08"
+        },
+        {
+          "Pris": 17.85,
+          "Dato": "2026-04-08"
+        },
+        {
+          "Pris": 9.90,
+          "Dato": "2026-04-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Sjokoladekake 2pk 320g",
+      "Priser": [
+        {
+          "Pris": 84.90,
+          "Dato": "2025-11-22"
+        }
+      ]
+    },
+    {
+      "Navn": "Sjokomelk 0,5l",
+      "Priser": [
+        {
+          "Pris": 20.90,
+          "Dato": "2025-10-18"
+        },
+        {
+          "Pris": 15.00,
+          "Dato": "2025-10-21"
+        },
+        {
+          "Pris": 26.80,
+          "Dato": "2025-10-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Sjokomelk 1l",
+      "Priser": [
+        {
+          "Pris": 27.90,
+          "Dato": "2025-09-17"
+        }
+      ]
+    },
+    {
+      "Navn": "Skittles fruits 152g",
+      "Priser": [
+        {
+          "Pris": 26.90,
+          "Dato": "2025-12-22"
+        }
+      ]
+    },
+    {
+      "Navn": "Skogsbacon 140g",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Skumkarameller 190g",
+      "Priser": [
+        {
+          "Pris": 46.90,
+          "Dato": "2025-12-20"
+        }
+      ]
+    },
+    {
+      "Navn": "Smil rull 78g",
+      "Priser": [
+        {
+          "Pris": 37.90,
+          "Dato": "2025-12-22"
+        }
+      ]
+    },
+    {
+      "Navn": "Smoothie bringeb\u00E6r\u0026jordb\u00E6r 750ml",
+      "Priser": [
+        {
+          "Pris": 56.90,
+          "Dato": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Sm\u00F8r croissant premium",
+      "Priser": [
+        {
+          "Pris": 19.90,
+          "Dato": "2025-12-20"
+        }
+      ]
+    },
+    {
+      "Navn": "Sm\u00E5godt pr kg",
+      "Priser": [
+        {
+          "Pris": 129,
+          "Dato": "2025-09-13"
+        },
+        {
+          "Pris": 128.99,
+          "Dato": "2026-03-21"
+        },
+        {
+          "Pris": 173.25,
+          "Dato": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Sm\u00E5rett m/bacon 2x90g",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "Navn": "Sm\u00E5rettskinke duopk 2x90g",
+      "Priser": [
+        {
+          "Pris": 46.90,
+          "Dato": "2025-11-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Snickers 2pk 75g",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-10-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Soft shake sjokolade 210ml",
+      "Priser": [
+        {
+          "Pris": 20.00,
+          "Dato": "2025-06-13"
+        }
+      ]
+    },
+    {
+      "Navn": "Solo super 0,33l",
+      "Priser": [
+        {
+          "Pris": 21.50,
+          "Dato": "2025-04-29"
+        }
+      ]
+    },
+    {
+      "Navn": "Solo super 0,5l",
+      "Priser": [
+        {
+          "Pris": 28.90,
+          "Dato": "2025-05-09"
+        }
+      ]
+    },
+    {
+      "Navn": "Sopp aroma",
+      "Priser": [
+        {
+          "Pris": 5.87,
+          "Dato": "2025-05-02"
+        }
+      ]
+    },
+    {
+      "Navn": "Soyasaus 150ml",
+      "Priser": [
+        {
+          "Pris": 53.50,
+          "Dato": "2025-07-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Spaghetti 1kg",
+      "Priser": [
+        {
+          "Pris": 32.90,
+          "Dato": "2025-09-02"
+        }
+      ]
+    },
+    {
+      "Navn": "Spesialloff m/valmuefr\u00F8",
+      "Priser": [
+        {
+          "Pris": 44.90,
+          "Dato": "2025-10-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Sriracha saus 215ml",
+      "Priser": [
+        {
+          "Pris": 45.90,
+          "Dato": "2025-05-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Steam buns asian 4stk 200g",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-11-19"
+        },
+        {
+          "Pris": 57.90,
+          "Dato": "2025-11-19"
+        },
+        {
+          "Pris": 43.90,
+          "Dato": "2025-12-02"
+        }
+      ]
+    },
+    {
+      "Navn": "Stjernebacon skivet 140g",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-05-13"
+        },
+        {
+          "Pris": 32.90,
+          "Dato": "2025-06-28"
+        },
+        {
+          "Pris": 36.50,
+          "Dato": "2025-11-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Stjernebacon ternet 150g",
+      "Priser": [
+        {
+          "Pris": 46.90,
+          "Dato": "2025-09-02"
+        },
+        {
+          "Pris": 49.90,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Storfe entrecote skivet ca350g",
+      "Priser": [
+        {
+          "Pris": 156.06,
+          "Dato": "2025-10-04"
+        },
+        {
+          "Pris": 315.17,
+          "Dato": "2026-03-28"
+        },
+        {
+          "Pris": 469.00,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Storfe indrefilet skivet ca350g",
+      "Priser": [
+        {
+          "Pris": 174.58,
+          "Dato": "2025-10-04"
+        }
+      ]
+    },
+    {
+      "Navn": "Sukker 1kg",
+      "Priser": [
+        {
+          "Pris": 36.90,
+          "Dato": "2025-07-14"
+        },
+        {
+          "Pris": 39.90,
+          "Dato": "2025-12-20"
+        }
+      ]
+    },
+    {
+      "Navn": "Summer red berries 20pos twinings",
+      "Priser": [
+        {
+          "Pris": 72.90,
+          "Dato": "2025-12-02"
+        }
+      ]
+    },
+    {
+      "Navn": "Svin grillribbe krydret 700g",
+      "Priser": [
+        {
+          "Pris": 139.00,
+          "Dato": "2025-05-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Svin ytrefilet urter/chili 480g",
+      "Priser": [
+        {
+          "Pris": 109.00,
+          "Dato": "2025-05-14"
+        }
+      ]
+    },
+    {
+      "Navn": "S\u00F8rlandschips spansk paprika 200g",
+      "Priser": [
+        {
+          "Pris": 33.90,
+          "Dato": "2025-05-03"
+        },
+        {
+          "Pris": 37.50,
+          "Dato": "2025-08-27"
+        },
+        {
+          "Pris": 36.90,
+          "Dato": "2025-11-21"
+        },
+        {
+          "Pris": 38.90,
+          "Dato": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "Navn": "S\u00F8tpotet opph\u00F8gde 450g",
+      "Priser": [
+        {
+          "Pris": 41.90,
+          "Dato": "2025-05-13"
+        }
+      ]
+    },
+    {
+      "Navn": "Taco spice mix 3x25g",
+      "Priser": [
+        {
+          "Pris": 26.90,
+          "Dato": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Tagliatelle 500g",
+      "Priser": [
+        {
+          "Pris": 50.90,
+          "Dato": "2025-10-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Tampax compak pearl super 18stk",
+      "Priser": [
+        {
+          "Pris": 44.90,
+          "Dato": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Tast mat 15% mva \u00E5pen plu",
+      "Priser": [
+        {
+          "Pris": 44.00,
+          "Dato": "2025-10-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Tast pant utg\u00E5ende salg av emb",
+      "Priser": [
+        {
+          "Pris": 24.00,
+          "Dato": "2025-05-14"
+        },
+        {
+          "Pris": 2.12,
+          "Dato": "2025-11-21"
+        },
+        {
+          "Pris": 5.60,
+          "Dato": "2025-12-20"
+        },
+        {
+          "Pris": 8.00,
+          "Dato": "2025-12-30"
+        },
+        {
+          "Pris": 2.00,
+          "Dato": "2026-01-30"
+        },
+        {
+          "Pris": 2.29,
+          "Dato": "2026-03-14"
+        },
+        {
+          "Pris": 2.67,
+          "Dato": "2026-03-21"
+        },
+        {
+          "Pris": 2.50,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Tebriks 130g",
+      "Priser": [
+        {
+          "Pris": 14.90,
+          "Dato": "2025-05-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Thai soya sauce 200ml",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-11-19"
+        },
+        {
+          "Pris": 43.90,
+          "Dato": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "Navn": "Toalettpapir soft 8rl",
+      "Priser": [
+        {
+          "Pris": 47.90,
+          "Dato": "2025-12-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Toast kneipp skivet 660g",
+      "Priser": [
+        {
+          "Pris": 46.90,
+          "Dato": "2025-11-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Toast loff skivet 660g",
+      "Priser": [
+        {
+          "Pris": 46.90,
+          "Dato": "2025-07-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Tomat juanitas 300g",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-05-09"
+        },
+        {
+          "Pris": 59.90,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Tomat s\u00F8t 175g",
+      "Priser": [
+        {
+          "Pris": 31.90,
+          "Dato": "2025-05-14"
+        },
+        {
+          "Pris": 24.43,
+          "Dato": "2025-11-18"
+        },
+        {
+          "Pris": 34.90,
+          "Dato": "2025-12-19"
+        }
+      ]
+    },
+    {
+      "Navn": "Tomater hakkede naturell 390g",
+      "Priser": [
+        {
+          "Pris": 15.40,
+          "Dato": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Tomater strianese 400g",
+      "Priser": [
+        {
+          "Pris": 41.90,
+          "Dato": "2026-01-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Tomatketchup u/sukker 510g",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-11-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Tomatsuppe meksikansk 100g",
+      "Priser": [
+        {
+          "Pris": 36.90,
+          "Dato": "2026-04-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Topping sauce mayo sweet chili 250ml",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-11-19"
+        },
+        {
+          "Pris": 52.90,
+          "Dato": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "Navn": "Tortelloni ost\u0026skinke 250g",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-09-17"
+        }
+      ]
+    },
+    {
+      "Navn": "Tortilla cheese 175g",
+      "Priser": [
+        {
+          "Pris": 41.90,
+          "Dato": "2026-03-21"
+        },
+        {
+          "Pris": 29.90,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Tortilla original large 6stk 371g",
+      "Priser": [
+        {
+          "Pris": 34.50,
+          "Dato": "2025-05-09"
+        },
+        {
+          "Pris": 35.90,
+          "Dato": "2025-12-19"
+        },
+        {
+          "Pris": 36.50,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Tortillachips cheese 185g",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-05-09"
+        },
+        {
+          "Pris": 29.90,
+          "Dato": "2025-12-19"
+        },
+        {
+          "Pris": 43.90,
+          "Dato": "2025-12-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Tortillas large super soft 6stk 350g",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-12-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Trend oppvaskb\u00F8rste 1250 1pcs",
+      "Priser": [
+        {
+          "Pris": 43.90,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Twix xtra 75g",
+      "Priser": [
+        {
+          "Pris": 20.00,
+          "Dato": "2025-12-22"
+        },
+        {
+          "Pris": 31.90,
+          "Dato": "2025-12-22"
+        }
+      ]
+    },
+    {
+      "Navn": "T\u00F8rkerull kj\u00F8kken 4rl",
+      "Priser": [
+        {
+          "Pris": 41.90,
+          "Dato": "2025-12-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Universalklut 9stk",
+      "Priser": [
+        {
+          "Pris": 15.90,
+          "Dato": "2025-05-03"
+        },
+        {
+          "Pris": 18.40,
+          "Dato": "2025-09-17"
+        }
+      ]
+    },
+    {
+      "Navn": "Vaniljestang 1stk 3,5g",
+      "Priser": [
+        {
+          "Pris": 41.90,
+          "Dato": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Veggen spelt 420g",
+      "Priser": [
+        {
+          "Pris": 56.50,
+          "Dato": "2025-05-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Vepsebol hot lakri 42g",
+      "Priser": [
+        {
+          "Pris": 15.90,
+          "Dato": "2025-12-22"
+        }
+      ]
+    },
+    {
+      "Navn": "Vepsebol jordb\u00E6r 42g",
+      "Priser": [
+        {
+          "Pris": 12.90,
+          "Dato": "2025-12-22"
+        }
+      ]
+    },
+    {
+      "Navn": "Vestlandslefsa m/sukker\u0026kanel 5pk 230g",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-05-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Vilje sitron\u0026lime 0,33l",
+      "Priser": [
+        {
+          "Pris": 19.90,
+          "Dato": "2025-08-26"
+        }
+      ]
+    },
+    {
+      "Navn": "Wok frityrolje 2l",
+      "Priser": [
+        {
+          "Pris": 99.00,
+          "Dato": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Yoghurt gresk type naturell 850g",
+      "Priser": [
+        {
+          "Pris": 58.50,
+          "Dato": "2025-07-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Yoghurt melon 4x150g",
+      "Priser": [
+        {
+          "Pris": 27.90,
+          "Dato": "2025-09-24"
+        }
+      ]
+    },
+    {
+      "Navn": "Yt proteinshake sjokolade 300ml",
+      "Priser": [
+        {
+          "Pris": 31.90,
+          "Dato": "2025-12-20"
+        },
+        {
+          "Pris": 21.26,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Yt restitusjon kakao drikk 330ml",
+      "Priser": [
+        {
+          "Pris": 19.26,
+          "Dato": "2026-04-15"
+        },
+        {
+          "Pris": 28.90,
+          "Dato": "2026-04-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Zalo ultra oppvaskmiddel 5dl",
+      "Priser": [
+        {
+          "Pris": 43.90,
+          "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Zendium tannkrem fresh\u0026white 75ml",
+      "Priser": [
+        {
+          "Pris": 33.90,
+          "Dato": "2025-11-19"
+        }
+      ]
+    }
+  ],
+  "Spar": [
+    {
+      "Navn": "Agurk hel norsk",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-11-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Aioli 250g",
+      "Priser": [
+        {
+          "Pris": 32.90,
+          "Dato": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "Navn": "Ananas 300g",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-12-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Ananas i skiver m/juice 3x220g",
+      "Priser": [
+        {
+          "Pris": 69.90,
+          "Dato": "2026-01-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Appelsiner kg",
+      "Priser": [
+        {
+          "Pris": 5.10,
+          "Dato": "2026-01-03"
+        },
+        {
+          "Pris": 10.17,
+          "Dato": "2026-01-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Asparges gr\u00F8nn bunt 250g",
+      "Priser": [
+        {
+          "Pris": 46.90,
+          "Dato": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "Navn": "Avocado 2pk",
+      "Priser": [
+        {
+          "Pris": 20.00,
+          "Dato": "2026-01-03"
+        },
+        {
+          "Pris": 45.90,
+          "Dato": "2026-01-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Bananer i klase first price",
+      "Priser": [
+        {
+          "Pris": 27.92,
+          "Dato": "2025-12-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Basilikum 9cm potte gartner",
+      "Priser": [
+        {
+          "Pris": 26.90,
+          "Dato": "2026-02-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Berlinerbolle m/vanilje bakehuset",
+      "Priser": [
+        {
+          "Pris": 16.90,
+          "Dato": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Bliw h\u00E5nds\u00E5pe peach 300ml",
+      "Priser": [
+        {
+          "Pris": 25.90,
+          "Dato": "2026-01-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Bringeb\u00E6r 125g",
+      "Priser": [
+        {
+          "Pris": 54.90,
+          "Dato": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Burn white citrus zero sugar 0,25l",
+      "Priser": [
+        {
+          "Pris": 19.90,
+          "Dato": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Burrata 125g",
+      "Priser": [
+        {
+          "Pris": 69.90,
+          "Dato": "2026-02-28"
+        }
+      ]
+    },
+    {
+      "Navn": "B\u00E6repose pr stk",
+      "Priser": [
+        {
+          "Pris": 6.75,
+          "Dato": "2026-01-08"
+        }
+      ]
+    },
+    {
+      "Navn": "B\u00F8nner sorte \u00F8kologisk 380g",
+      "Priser": [
+        {
+          "Pris": 15.50,
+          "Dato": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Calzone m/skinke varm pr stk",
+      "Priser": [
+        {
+          "Pris": 69.90,
+          "Dato": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Cheddar\u0026mozzarella 200g",
+      "Priser": [
+        {
+          "Pris": 48.90,
+          "Dato": "2026-01-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Chilipepper r\u00F8d pk",
+      "Priser": [
+        {
+          "Pris": 18.90,
+          "Dato": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Coca-cola 1,5l",
+      "Priser": [
+        {
+          "Pris": 41.90,
+          "Dato": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Crispi salat 150g",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-12-12"
+        }
+      ]
+    },
+    {
+      "Navn": "Dave\u0026jon\u0027s mango chili twist t\u00F8rket 100g",
+      "Priser": [
+        {
+          "Pris": 47.90,
+          "Dato": "2025-11-12"
+        }
+      ]
+    },
+    {
+      "Navn": "Druer r\u00F8de 500g",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2025-12-12"
+        },
+        {
+          "Pris": 44.90,
+          "Dato": "2025-12-12"
+        }
+      ]
+    },
+    {
+      "Navn": "Egg \u00F8kologisk m/l/xl 6stk",
+      "Priser": [
+        {
+          "Pris": 35.90,
+          "Dato": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Ekte revet ost 4 oster 250g",
+      "Priser": [
+        {
+          "Pris": 59.90,
+          "Dato": "2025-12-12"
+        }
+      ]
+    },
+    {
+      "Navn": "Ekte revet ost original 300g",
+      "Priser": [
+        {
+          "Pris": 54.90,
+          "Dato": "2026-01-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Engangshansker food safe vileda",
+      "Priser": [
+        {
+          "Pris": 119.00,
+          "Dato": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Eplejuice original 1l",
+      "Priser": [
+        {
+          "Pris": 19.53,
+          "Dato": "2025-12-27"
+        },
+        {
+          "Pris": 27.90,
+          "Dato": "2025-12-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Epok no1 ice blue 4 15,4g",
+      "Priser": [
+        {
+          "Pris": 99.90,
+          "Dato": "2025-11-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Farin brun 500g",
+      "Priser": [
+        {
+          "Pris": 28.50,
+          "Dato": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Farris frus eple\u0026kiwi 1,5l",
+      "Priser": [
+        {
+          "Pris": 35.90,
+          "Dato": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "Navn": "Fl\u00F8tepoteter varm pr kg",
+      "Priser": [
+        {
+          "Pris": 189.09,
+          "Dato": "2026-01-03"
+        },
+        {
+          "Pris": 188.90,
+          "Dato": "2026-02-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Frokostegg frittg\u00E5ende l 12stk",
+      "Priser": [
+        {
+          "Pris": 59.90,
+          "Dato": "2025-12-12"
+        }
+      ]
+    },
+    {
+      "Navn": "Grilstad hot chorizo 100g",
+      "Priser": [
+        {
+          "Pris": 48.90,
+          "Dato": "2026-02-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Guacamole 150g",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Ha-p\u00E5 310g",
+      "Priser": [
+        {
+          "Pris": 38.90,
+          "Dato": "2025-11-12"
+        }
+      ]
+    },
+    {
+      "Navn": "Hansa julebrus 1,5l",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-11-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Hvit sjokolade 90g",
+      "Priser": [
+        {
+          "Pris": 44.90,
+          "Dato": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Iste fersken 2l",
+      "Priser": [
+        {
+          "Pris": 54.90,
+          "Dato": "2025-11-12"
+        }
+      ]
+    },
+    {
+      "Navn": "Jif engangsv\u00E5tmopp krystal original",
+      "Priser": [
+        {
+          "Pris": 92.90,
+          "Dato": "2026-01-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Jordb\u00E6r 400g",
+      "Priser": [
+        {
+          "Pris": 25.90,
+          "Dato": "2025-12-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Jordb\u00E6rsyltet\u00F8y hjemmelaget 400g",
+      "Priser": [
+        {
+          "Pris": 27.90,
+          "Dato": "2025-12-12"
+        }
+      ]
+    },
+    {
+      "Navn": "Karbonadedeig u/salt og vann 400g",
+      "Priser": [
+        {
+          "Pris": 97.90,
+          "Dato": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Kinder maxi sjokolade 21g",
+      "Priser": [
+        {
+          "Pris": 11.90,
+          "Dato": "2025-12-12"
+        }
+      ]
+    },
+    {
+      "Navn": "Kj\u00F8ttbuljong 10stk",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Kj\u00F8ttdeig svin 9% u/salt og vann 400g",
+      "Priser": [
+        {
+          "Pris": 61.90,
+          "Dato": "2025-12-12"
+        }
+      ]
+    },
+    {
+      "Navn": "Kneippbr\u00F8d 750g",
+      "Priser": [
+        {
+          "Pris": 14.90,
+          "Dato": "2025-12-12"
+        }
+      ]
+    },
+    {
+      "Navn": "Kokt skinke ekte 110g",
+      "Priser": [
+        {
+          "Pris": 35.90,
+          "Dato": "2025-12-12"
+        },
+        {
+          "Pris": 34.90,
+          "Dato": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Koriander 12cm stor",
+      "Priser": [
+        {
+          "Pris": 42.90,
+          "Dato": "2026-01-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Kremfl\u00F8te 37% 3dl",
+      "Priser": [
+        {
+          "Pris": 27.50,
+          "Dato": "2026-02-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Kyllingfilet 460g",
+      "Priser": [
+        {
+          "Pris": 109.00,
+          "Dato": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "Navn": "Led spot mr16 35 dim 927 gu5.3 osram",
+      "Priser": [
+        {
+          "Pris": 195.00,
+          "Dato": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Lettmelk 1,0% 1l",
+      "Priser": [
+        {
+          "Pris": 23.90,
+          "Dato": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Lettr\u00F8mme 17% 300g",
+      "Priser": [
+        {
+          "Pris": 23.50,
+          "Dato": "2025-11-14"
+        },
+        {
+          "Pris": 23.90,
+          "Dato": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Libresse string truseinnlegg 30stk",
+      "Priser": [
+        {
+          "Pris": 32.50,
+          "Dato": "2026-01-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Lime kg",
+      "Priser": [
+        {
+          "Pris": 5.24,
+          "Dato": "2026-01-03"
+        }
+      ]
+    },
+    {
+      "Navn": "L\u00F8k gul pr kg first price",
+      "Priser": [
+        {
+          "Pris": 24.89,
+          "Dato": "2026-02-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Maiskorn extra crispy 3x160g",
+      "Priser": [
+        {
+          "Pris": 49.90,
+          "Dato": "2025-11-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Mango i biter 300g",
+      "Priser": [
+        {
+          "Pris": 27.90,
+          "Dato": "2025-12-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Meierism\u00F8r 500g",
+      "Priser": [
+        {
+          "Pris": 67.90,
+          "Dato": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Moroccan argan oil conditioner 400ml",
+      "Priser": [
+        {
+          "Pris": 109.00,
+          "Dato": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "Navn": "Mozzarella 225g",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2026-02-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Mozzarella norsk 225g",
+      "Priser": [
+        {
+          "Pris": 34.90,
+          "Dato": "2026-01-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Nduja 100g",
+      "Priser": [
+        {
+          "Pris": 42.90,
+          "Dato": "2026-02-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Non stop melkesjokolade 150g",
+      "Priser": [
+        {
+          "Pris": 54.90,
+          "Dato": "2026-02-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Norvegia 26% skivet 150g",
+      "Priser": [
+        {
+          "Pris": 38.90,
+          "Dato": "2025-12-12"
+        }
+      ]
+    },
+    {
+      "Navn": "Nude strawberry 80% frukt 500ml",
+      "Priser": [
+        {
+          "Pris": 59.90,
+          "Dato": "2026-02-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Opptenningsposer 100stk",
+      "Priser": [
+        {
+          "Pris": 79.90,
+          "Dato": "2026-01-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Oregano 9g",
+      "Priser": [
+        {
+          "Pris": 21.90,
+          "Dato": "2026-01-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Pepsi max 0,5l",
+      "Priser": [
+        {
+          "Pris": 28.90,
+          "Dato": "2026-02-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Pepsi max 1,5l",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2026-01-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Pinsa 2x230g",
+      "Priser": [
+        {
+          "Pris": 47.94,
+          "Dato": "2026-02-28"
+        },
+        {
+          "Pris": 79.90,
+          "Dato": "2026-02-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Pizza ristorante pepperoni-salame 320g",
+      "Priser": [
+        {
+          "Pris": 46.13,
+          "Dato": "2026-03-06"
+        },
+        {
+          "Pris": 65.90,
+          "Dato": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Pizzasaus type r\u00F8d 120g",
+      "Priser": [
+        {
+          "Pris": 28.90,
+          "Dato": "2026-02-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Red bull regular 355ml",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2026-02-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Red bull sukkerfri 355ml",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2026-01-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Red bull yellow edition 250ml",
+      "Priser": [
+        {
+          "Pris": 24.90,
+          "Dato": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "Navn": "R\u00F8mmedressing original 125g",
+      "Priser": [
+        {
+          "Pris": 27.90,
+          "Dato": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Sjokolademelk 1l",
+      "Priser": [
+        {
+          "Pris": 33.90,
+          "Dato": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Smash! 200g",
+      "Priser": [
+        {
+          "Pris": 59.90,
+          "Dato": "2025-11-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Soft flora original margarin 400g",
+      "Priser": [
+        {
+          "Pris": 39.90,
+          "Dato": "2025-12-12"
+        }
+      ]
+    },
+    {
+      "Navn": "Solo super 0,5l",
+      "Priser": [
+        {
+          "Pris": 28.90,
+          "Dato": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Solstykke rundstykke 75g",
+      "Priser": [
+        {
+          "Pris": 9.90,
+          "Dato": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Spicyburger m/cheddar",
+      "Priser": [
+        {
+          "Pris": 27.45,
+          "Dato": "2025-11-12"
+        },
+        {
+          "Pris": 54.90,
+          "Dato": "2025-12-27"
+        },
+        {
+          "Pris": 59.90,
+          "Dato": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Storfe entrecote ca275g",
+      "Priser": [
+        {
+          "Pris": 359.25,
+          "Dato": "2026-01-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Taco sauce hot 230g",
+      "Priser": [
+        {
+          "Pris": 14.34,
+          "Dato": "2025-12-12"
+        },
+        {
+          "Pris": 23.90,
+          "Dato": "2025-12-12"
+        }
+      ]
+    },
+    {
+      "Navn": "Taco spice mix 3x25g",
+      "Priser": [
+        {
+          "Pris": 16.14,
+          "Dato": "2025-12-12"
+        },
+        {
+          "Pris": 26.90,
+          "Dato": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Tagliatelle 500g",
+      "Priser": [
+        {
+          "Pris": 49.90,
+          "Dato": "2026-02-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Tast pant utg\u00E5ende salg av emb",
+      "Priser": [
+        {
+          "Pris": 2.50,
+          "Dato": "2025-11-14"
+        },
+        {
+          "Pris": 2.25,
+          "Dato": "2026-02-28"
+        },
+        {
+          "Pris": 2.33,
+          "Dato": "2026-03-06"
+        },
+        {
+          "Pris": 3.00,
+          "Dato": "2026-03-17"
+        },
+        {
+          "Pris": 2.00,
+          "Dato": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Tomat juanitas 300g",
+      "Priser": [
+        {
+          "Pris": 59.90,
+          "Dato": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "Navn": "Tomater hakkede m/hvitl\u00F8k 390g",
+      "Priser": [
+        {
+          "Pris": 16.90,
+          "Dato": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Tomatpure i tube 130g",
+      "Priser": [
+        {
+          "Pris": 25.90,
+          "Dato": "2026-02-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Tortelloni ost\u0026skinke 250g",
+      "Priser": [
+        {
+          "Pris": 40.90,
+          "Dato": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Tortilla cheese 175g",
+      "Priser": [
+        {
+          "Pris": 41.90,
+          "Dato": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Tortilla original large 6stk 371g",
+      "Priser": [
+        {
+          "Pris": 34.50,
+          "Dato": "2025-11-14"
+        },
+        {
+          "Pris": 20.70,
+          "Dato": "2025-12-12"
+        }
+      ]
+    },
+    {
+      "Navn": "Tortillachips cheese 185g",
+      "Priser": [
+        {
+          "Pris": 41.90,
+          "Dato": "2025-12-12"
+        },
+        {
+          "Pris": 30.00,
+          "Dato": "2026-01-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Vestlandslefsa m/sukker\u0026kanel 5pk 230g",
+      "Priser": [
+        {
+          "Pris": 37.90,
+          "Dato": "2025-11-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Yoghurt vanilje 500g",
+      "Priser": [
+        {
+          "Pris": 26.90,
+          "Dato": "2025-12-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Yt proteinshake sjokolade 300ml",
+      "Priser": [
+        {
+          "Pris": 30.90,
+          "Dato": "2026-02-28"
+        }
+      ]
+    }
+  ]
 }
