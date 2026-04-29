@@ -21,6 +21,16 @@
       ]
     },
     {
+      "Navn": "Be-kind bar caramel almond\u0026seasalt 40g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 27.90,
+          "Dato": "2026-03-18"
+        }
+      ]
+    },
+    {
       "Navn": "Burger big beef 2x180g",
       "Enhet": "stk",
       "Priser": [
@@ -305,6 +315,16 @@
       ]
     },
     {
+      "Navn": "Smoothie bringeb\u00E6r\u0026jordb\u00E6r 250ml",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 27.90,
+          "Dato": "2026-02-03"
+        }
+      ]
+    },
+    {
       "Navn": "Solo 0,5l",
       "Enhet": "stk",
       "Priser": [
@@ -535,6 +555,16 @@
       ]
     },
     {
+      "Navn": "Apetina snack hvitl\u00F8k/oliven 100g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 24.90,
+          "Dato": "2026-04-21"
+        }
+      ]
+    },
+    {
       "Navn": "Appelsinjuice 1l",
       "Enhet": "stk",
       "Priser": [
@@ -551,6 +581,16 @@
         {
           "Pris": 36.90,
           "Dato": "2026-02-24"
+        }
+      ]
+    },
+    {
+      "Navn": "Aromasopp 150g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 24.90,
+          "Dato": "2026-04-28"
         }
       ]
     },
@@ -609,6 +649,10 @@
         {
           "Pris": 22.90,
           "Dato": "2026-01-17"
+        },
+        {
+          "Pris": 14.90,
+          "Dato": "2026-04-25"
         }
       ]
     },
@@ -719,6 +763,24 @@
         {
           "Pris": 27.89,
           "Dato": "2026-04-15"
+        }
+      ]
+    },
+    {
+      "Navn": "Bananer i klase first price",
+      "Enhet": "kg",
+      "Priser": [
+        {
+          "Pris": 23.91,
+          "Dato": "2026-04-16"
+        },
+        {
+          "Pris": 23.90,
+          "Dato": "2026-04-20"
+        },
+        {
+          "Pris": 23.95,
+          "Dato": "2026-04-28"
         }
       ]
     },
@@ -947,6 +1009,26 @@
         {
           "Pris": 7.50,
           "Dato": "2026-04-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Boble vann sitron 1,5l",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 15.90,
+          "Dato": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "Navn": "Boble vann yuzu\u0026appelsin 1,5l",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 15.90,
+          "Dato": "2026-04-21"
         }
       ]
     },
@@ -1223,6 +1305,16 @@
       ]
     },
     {
+      "Navn": "Cola free 1,5l",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 16.90,
+          "Dato": "2026-04-24"
+        }
+      ]
+    },
+    {
       "Navn": "Cookies milk choco 4x45g",
       "Enhet": "stk",
       "Priser": [
@@ -1321,6 +1413,16 @@
         {
           "Pris": 59.90,
           "Dato": "2025-07-29"
+        }
+      ]
+    },
+    {
+      "Navn": "Druer gr\u00F8nne beger cevita",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 29.90,
+          "Dato": "2026-04-22"
         }
       ]
     },
@@ -1561,6 +1663,16 @@
       ]
     },
     {
+      "Navn": "Grana padano revet 80g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 32.90,
+          "Dato": "2026-04-27"
+        }
+      ]
+    },
+    {
       "Navn": "Granateple stk eat me",
       "Enhet": "stk",
       "Priser": [
@@ -1701,6 +1813,16 @@
         {
           "Pris": 23.50,
           "Dato": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Hjertesalat 2pk",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 26.90,
+          "Dato": "2026-04-22"
         }
       ]
     },
@@ -2433,6 +2555,16 @@
       ]
     },
     {
+      "Navn": "Lettr\u00F8mme 17% laktosefri 300g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 24.90,
+          "Dato": "2026-04-27"
+        }
+      ]
+    },
+    {
       "Navn": "Libresse normal bind 16stk",
       "Enhet": "stk",
       "Priser": [
@@ -2601,6 +2733,16 @@
       ]
     },
     {
+      "Navn": "Mega roulette fruit 45g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 14.90,
+          "Dato": "2026-04-20"
+        }
+      ]
+    },
+    {
       "Navn": "Meierism\u00F8r 500g",
       "Enhet": "stk",
       "Priser": [
@@ -2687,6 +2829,16 @@
       ]
     },
     {
+      "Navn": "Mozzarella 210g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 24.90,
+          "Dato": "2026-04-25"
+        }
+      ]
+    },
+    {
       "Navn": "Mozzarella revet 200g",
       "Enhet": "stk",
       "Priser": [
@@ -2765,6 +2917,16 @@
       ]
     },
     {
+      "Navn": "Norvegia smaksrik skiver 250g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 53.40,
+          "Dato": "2026-04-22"
+        }
+      ]
+    },
+    {
       "Navn": "Nude strawberry 80% frukt 500ml",
       "Enhet": "stk",
       "Priser": [
@@ -2837,6 +2999,16 @@
       ]
     },
     {
+      "Navn": "Orange cakes 270g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 28.40,
+          "Dato": "2026-04-24"
+        }
+      ]
+    },
+    {
       "Navn": "Oregano 22g",
       "Enhet": "stk",
       "Priser": [
@@ -2873,6 +3045,16 @@
         {
           "Pris": 59.90,
           "Dato": "2025-08-02"
+        }
+      ]
+    },
+    {
+      "Navn": "Ostemix revet kongsg\u00E5rd/mozarella 170g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 33.90,
+          "Dato": "2026-04-22"
         }
       ]
     },
@@ -3353,6 +3535,16 @@
       ]
     },
     {
+      "Navn": "Red bull sukkerfri peach edition 0,25l",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 22.40,
+          "Dato": "2026-04-27"
+        }
+      ]
+    },
+    {
       "Navn": "Red bull yellow edition 250ml",
       "Enhet": "stk",
       "Priser": [
@@ -3695,6 +3887,16 @@
       ]
     },
     {
+      "Navn": "Sm\u00F8r laktosefritt 250g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 38.90,
+          "Dato": "2026-04-27"
+        }
+      ]
+    },
+    {
       "Navn": "Sm\u00E5godt pr kg",
       "Enhet": "kg",
       "Priser": [
@@ -3941,6 +4143,16 @@
       ]
     },
     {
+      "Navn": "Taco kryddermix 28g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 2.90,
+          "Dato": "2026-04-20"
+        }
+      ]
+    },
+    {
       "Navn": "Taco sauce hot 230g",
       "Enhet": "stk",
       "Priser": [
@@ -4089,12 +4301,26 @@
       ]
     },
     {
+      "Navn": "Toast kneipp skivet 660g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 34.90,
+          "Dato": "2026-04-25"
+        }
+      ]
+    },
+    {
       "Navn": "Tomat cherry 250g",
       "Enhet": "stk",
       "Priser": [
         {
           "Pris": 22.90,
           "Dato": "2025-09-22"
+        },
+        {
+          "Pris": 19.90,
+          "Dato": "2026-04-27"
         }
       ]
     },
@@ -4141,6 +4367,10 @@
         {
           "Pris": 26.90,
           "Dato": "2026-01-16"
+        },
+        {
+          "Pris": 25.90,
+          "Dato": "2026-04-22"
         }
       ]
     },
@@ -4213,6 +4443,16 @@
         {
           "Pris": 38.90,
           "Dato": "2026-02-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Tortilla 8pk 320g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 6.50,
+          "Dato": "2026-04-25"
         }
       ]
     },
