@@ -14,7 +14,7 @@
     "Dato": "2026-04-15"
   },
   {
-    "Navn": "Pinnekj\u00F8tt kokt pr kg",
+    "Navn": "Pinnekjøtt kokt pr kg",
     "Kjede": "Meny",
     "TilbudPris": 198.84,
     "Rabatt": 103.12,
@@ -37,8 +37,8 @@
   {
     "Navn": "Tortilla cheese 175g",
     "Kjede": "Meny",
-    "TilbudPris": 29.90,
-    "Rabatt": 12.00,
+    "TilbudPris": 29.9,
+    "Rabatt": 12,
     "Dato": "2026-03-28"
   },
   {
@@ -49,14 +49,14 @@
     "Dato": "2026-03-28"
   },
   {
-    "Navn": "Kj\u00F8ttdeig svin 9% u/salt og vann 300g",
+    "Navn": "Kjøttdeig svin 9% u/salt og vann 300g",
     "Kjede": "Meny",
     "TilbudPris": 43.33,
     "Rabatt": 18.57,
     "Dato": "2026-03-28"
   },
   {
-    "Navn": "Sm\u00E5godt pr kg",
+    "Navn": "Smågodt pr kg",
     "Kjede": "Meny",
     "TilbudPris": 128.99,
     "Rabatt": 44.26,
@@ -65,8 +65,8 @@
   {
     "Navn": "Red bull regular 250ml",
     "Kjede": "Meny",
-    "TilbudPris": 20.00,
-    "Rabatt": 4.90,
+    "TilbudPris": 20,
+    "Rabatt": 4.9,
     "Dato": "2026-03-14"
   },
   {
@@ -100,15 +100,15 @@
   {
     "Navn": "Tortillachips cheese 185g",
     "Kjede": "Spar",
-    "TilbudPris": 30.00,
-    "Rabatt": 11.90,
+    "TilbudPris": 30,
+    "Rabatt": 11.9,
     "Dato": "2026-01-08"
   },
   {
     "Navn": "Avocado 2pk",
     "Kjede": "Spar",
-    "TilbudPris": 20.00,
-    "Rabatt": 25.90,
+    "TilbudPris": 20,
+    "Rabatt": 25.9,
     "Dato": "2026-01-03"
   },
   {
@@ -128,15 +128,15 @@
   {
     "Navn": "Twix xtra 75g",
     "Kjede": "Meny",
-    "TilbudPris": 20.00,
-    "Rabatt": 11.90,
+    "TilbudPris": 20,
+    "Rabatt": 11.9,
     "Dato": "2025-12-22"
   },
   {
     "Navn": "Oreo kjeks double 157g",
     "Kjede": "Meny",
-    "TilbudPris": 29.90,
-    "Rabatt": 12.00,
+    "TilbudPris": 29.9,
+    "Rabatt": 12,
     "Dato": "2025-12-22"
   },
   {
@@ -147,7 +147,7 @@
     "Dato": "2025-12-20"
   },
   {
-    "Navn": "Bringeb\u00E6r 125g",
+    "Navn": "Bringebær 125g",
     "Kjede": "Meny",
     "TilbudPris": 38.43,
     "Rabatt": 16.47,
@@ -163,15 +163,15 @@
   {
     "Navn": "Tortillachips cheese 185g",
     "Kjede": "Meny",
-    "TilbudPris": 29.90,
-    "Rabatt": 14.00,
+    "TilbudPris": 29.9,
+    "Rabatt": 14,
     "Dato": "2025-12-19"
   },
   {
     "Navn": "Tortilla original large 6stk 371g",
     "Kjede": "Spar",
-    "TilbudPris": 20.70,
-    "Rabatt": 13.80,
+    "TilbudPris": 20.7,
+    "Rabatt": 13.8,
     "Dato": "2025-12-12"
   },
   {
@@ -182,10 +182,10 @@
     "Dato": "2025-12-12"
   },
   {
-    "Navn": "Druer r\u00F8de 500g",
+    "Navn": "Druer røde 500g",
     "Kjede": "Spar",
-    "TilbudPris": 29.90,
-    "Rabatt": 15.00,
+    "TilbudPris": 29.9,
+    "Rabatt": 15,
     "Dato": "2025-12-12"
   },
   {
@@ -212,15 +212,15 @@
   {
     "Navn": "Crispi salat 150g",
     "Kjede": "Meny",
-    "TilbudPris": 24.90,
-    "Rabatt": 15.00,
+    "TilbudPris": 24.9,
+    "Rabatt": 15,
     "Dato": "2025-11-22"
   },
   {
     "Navn": "Agurk hel norsk",
     "Kjede": "Meny",
-    "TilbudPris": 27.90,
-    "Rabatt": 3.00,
+    "TilbudPris": 27.9,
+    "Rabatt": 3,
     "Dato": "2025-11-22"
   },
   {
@@ -240,33 +240,33 @@
   {
     "Navn": "Thai soya sauce 200ml",
     "Kjede": "Meny",
-    "TilbudPris": 39.90,
-    "Rabatt": 4.00,
+    "TilbudPris": 39.9,
+    "Rabatt": 4,
     "Dato": "2025-11-19"
   },
   {
-    "Navn": "Asian wok oyster\u0026garlic 150g",
+    "Navn": "Asian wok oyster&garlic 150g",
     "Kjede": "Meny",
-    "TilbudPris": 19.90,
-    "Rabatt": 7.00,
+    "TilbudPris": 19.9,
+    "Rabatt": 7,
     "Dato": "2025-11-19"
   },
   {
     "Navn": "Steam buns asian 4stk 200g",
     "Kjede": "Meny",
-    "TilbudPris": 29.90,
-    "Rabatt": 14.00,
+    "TilbudPris": 29.9,
+    "Rabatt": 14,
     "Dato": "2025-11-19"
   },
   {
     "Navn": "Topping sauce mayo sweet chili 250ml",
     "Kjede": "Meny",
-    "TilbudPris": 39.90,
-    "Rabatt": 13.00,
+    "TilbudPris": 39.9,
+    "Rabatt": 13,
     "Dato": "2025-11-19"
   },
   {
-    "Navn": "Tomat s\u00F8t 175g",
+    "Navn": "Tomat søt 175g",
     "Kjede": "Meny",
     "TilbudPris": 24.43,
     "Rabatt": 10.47,
@@ -275,15 +275,15 @@
   {
     "Navn": "Cookie brownie 54g",
     "Kjede": "Meny",
-    "TilbudPris": 10.00,
-    "Rabatt": 6.90,
+    "TilbudPris": 10,
+    "Rabatt": 6.9,
     "Dato": "2025-10-29"
   },
   {
     "Navn": "Sjokomelk 0,5l",
     "Kjede": "Meny",
-    "TilbudPris": 15.00,
-    "Rabatt": 5.90,
+    "TilbudPris": 15,
+    "Rabatt": 5.9,
     "Dato": "2025-10-21"
   },
   {
@@ -296,8 +296,8 @@
   {
     "Navn": "Red bull peach 250ml",
     "Kjede": "Meny",
-    "TilbudPris": 14.90,
-    "Rabatt": 10.00,
+    "TilbudPris": 14.9,
+    "Rabatt": 10,
     "Dato": "2025-09-24"
   },
   {
@@ -317,40 +317,40 @@
   {
     "Navn": "Red bull yellow edition 250ml",
     "Kjede": "Meny",
-    "TilbudPris": 14.90,
-    "Rabatt": 10.00,
+    "TilbudPris": 14.9,
+    "Rabatt": 10,
     "Dato": "2025-09-23"
   },
   {
     "Navn": "Sjokoklem 180g",
     "Kjede": "Meny",
-    "TilbudPris": 49.90,
-    "Rabatt": 25.00,
+    "TilbudPris": 49.9,
+    "Rabatt": 25,
     "Dato": "2025-09-13"
   },
   {
-    "Navn": "Sm\u00E5godt pr kg",
+    "Navn": "Smågodt pr kg",
     "Kjede": "Meny",
     "TilbudPris": 129,
-    "Rabatt": 31.00,
+    "Rabatt": 31,
     "Dato": "2025-09-13"
   },
   {
     "Navn": "Melkesjoko kjeks 184g",
     "Kjede": "Meny",
-    "TilbudPris": 49.90,
-    "Rabatt": 20.60,
+    "TilbudPris": 49.9,
+    "Rabatt": 20.6,
     "Dato": "2025-09-13"
   },
   {
-    "Navn": "Salatbar plukk\u0026miks",
+    "Navn": "Salatbar plukk&miks",
     "Kjede": "Meny",
-    "TilbudPris": 187.0,
-    "Rabatt": 12.00,
+    "TilbudPris": 187,
+    "Rabatt": 12,
     "Dato": "2025-09-01"
   },
   {
-    "Navn": "Salatbar plukk\u0026miks",
+    "Navn": "Salatbar plukk&miks",
     "Kjede": "Meny",
     "TilbudPris": 187.84,
     "Rabatt": 11.16,
@@ -359,15 +359,15 @@
   {
     "Navn": "Komler/raspeballer 570g",
     "Kjede": "Meny",
-    "TilbudPris": 69.90,
-    "Rabatt": 45.10,
+    "TilbudPris": 69.9,
+    "Rabatt": 45.1,
     "Dato": "2025-08-07"
   },
   {
     "Navn": "Monster aussie lemonade 0,5l",
     "Kjede": "Meny",
-    "TilbudPris": 17.90,
-    "Rabatt": 12.00,
+    "TilbudPris": 17.9,
+    "Rabatt": 12,
     "Dato": "2025-08-07"
   },
   {
@@ -380,57 +380,57 @@
   {
     "Navn": "Soft shake sjokolade 210ml",
     "Kjede": "Meny",
-    "TilbudPris": 20.00,
-    "Rabatt": 17.00,
+    "TilbudPris": 20,
+    "Rabatt": 17,
     "Dato": "2025-06-13"
   },
   {
     "Navn": "Tortillachips cheese 185g",
     "Kjede": "Meny",
-    "TilbudPris": 29.90,
-    "Rabatt": 10.00,
+    "TilbudPris": 29.9,
+    "Rabatt": 10,
     "Dato": "2025-05-27"
   },
   {
-    "Navn": "Jordb\u00E6r 500g",
+    "Navn": "Jordbær 500g",
     "Kjede": "Meny",
-    "TilbudPris": 39.90,
-    "Rabatt": 20.00,
+    "TilbudPris": 39.9,
+    "Rabatt": 20,
     "Dato": "2025-05-16"
   },
   {
     "Navn": "Red bull yellow edition 250ml",
     "Kjede": "Meny",
-    "TilbudPris": 14.90,
-    "Rabatt": 10.00,
+    "TilbudPris": 14.9,
+    "Rabatt": 10,
     "Dato": "2025-05-16"
   },
   {
     "Navn": "Pizza grandiosa pepperoni 500g",
     "Kjede": "Meny",
-    "TilbudPris": 49.90,
-    "Rabatt": 29.00,
+    "TilbudPris": 49.9,
+    "Rabatt": 29,
     "Dato": "2025-05-15"
   },
   {
     "Navn": "Red bull yellow edition 250ml",
     "Kjede": "Meny",
-    "TilbudPris": 14.90,
-    "Rabatt": 10.00,
+    "TilbudPris": 14.9,
+    "Rabatt": 10,
     "Dato": "2025-05-15"
   },
   {
-    "Navn": "Bl\u00E5b\u00E6r 125g",
+    "Navn": "Blåbær 125g",
     "Kjede": "Meny",
-    "TilbudPris": 19.90,
-    "Rabatt": 10.00,
+    "TilbudPris": 19.9,
+    "Rabatt": 10,
     "Dato": "2025-05-14"
   },
   {
-    "Navn": "Vestlandslefsa m/sukker\u0026kanel 5pk 230g",
+    "Navn": "Vestlandslefsa m/sukker&kanel 5pk 230g",
     "Kjede": "Meny",
-    "TilbudPris": 29.90,
-    "Rabatt": 7.60,
+    "TilbudPris": 29.9,
+    "Rabatt": 7.6,
     "Dato": "2025-05-14"
   },
   {
@@ -443,36 +443,36 @@
   {
     "Navn": "Red bull yellow edition 250ml",
     "Kjede": "Meny",
-    "TilbudPris": 14.90,
-    "Rabatt": 10.00,
+    "TilbudPris": 14.9,
+    "Rabatt": 10,
     "Dato": "2025-05-13"
   },
   {
     "Navn": "Red bull yellow edition 250ml",
     "Kjede": "Meny",
-    "TilbudPris": 14.90,
-    "Rabatt": 10.00,
+    "TilbudPris": 14.9,
+    "Rabatt": 10,
     "Dato": "2025-05-09"
   },
   {
     "Navn": "Tomat juanitas 300g",
     "Kjede": "Meny",
-    "TilbudPris": 29.90,
-    "Rabatt": 25.00,
+    "TilbudPris": 29.9,
+    "Rabatt": 25,
     "Dato": "2025-05-09"
   },
   {
     "Navn": "Monster juiced rio punch 0,5l",
     "Kjede": "Meny",
-    "TilbudPris": 17.90,
-    "Rabatt": 11.00,
+    "TilbudPris": 17.9,
+    "Rabatt": 11,
     "Dato": "2025-05-03"
   },
   {
     "Navn": "Red bull yellow edition 250ml",
     "Kjede": "Joker",
-    "TilbudPris": 15.00,
-    "Rabatt": 10.90,
+    "TilbudPris": 15,
+    "Rabatt": 10.9,
     "Dato": "2025-05-01"
   }
 ]
