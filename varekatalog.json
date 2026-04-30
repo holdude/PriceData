@@ -5,7 +5,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2025-06-01"
         }
       ]
@@ -15,8 +15,18 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 30.90,
+          "Pris": 30.9,
           "Dato": "2025-05-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Be-kind bar caramel almond&seasalt 40g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 27.9,
+          "Dato": "2026-03-18"
         }
       ]
     },
@@ -25,17 +35,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 79.90,
+          "Pris": 79.9,
           "Dato": "2025-10-05"
         }
       ]
     },
     {
-      "Navn": "Burgerbr\u00F8d hurra 6stk 480g",
+      "Navn": "Burgerbrød hurra 6stk 480g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 35.90,
+          "Pris": 35.9,
           "Dato": "2025-10-05"
         }
       ]
@@ -45,7 +55,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2025-10-05"
         }
       ]
@@ -55,7 +65,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 26.90,
+          "Pris": 26.9,
           "Dato": "2025-04-21"
         }
       ]
@@ -65,7 +75,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2025-10-05"
         }
       ]
@@ -75,7 +85,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 16.90,
+          "Pris": 16.9,
           "Dato": "2025-09-28"
         }
       ]
@@ -85,7 +95,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 61.90,
+          "Pris": 61.9,
           "Dato": "2025-09-28"
         }
       ]
@@ -95,21 +105,21 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 99.90,
+          "Pris": 99.9,
           "Dato": "2025-05-29"
         },
         {
-          "Pris": 101.90,
+          "Pris": 101.9,
           "Dato": "2025-09-28"
         }
       ]
     },
     {
-      "Navn": "Frokostegg frittg\u00E5ende l 12stk",
+      "Navn": "Frokostegg frittgående l 12stk",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 59.90,
+          "Pris": 59.9,
           "Dato": "2025-04-21"
         }
       ]
@@ -119,7 +129,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 43.90,
+          "Pris": 43.9,
           "Dato": "2025-04-21"
         }
       ]
@@ -129,7 +139,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 26.90,
+          "Pris": 26.9,
           "Dato": "2025-10-05"
         }
       ]
@@ -139,7 +149,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2025-10-26"
         }
       ]
@@ -149,7 +159,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 36.90,
+          "Pris": 36.9,
           "Dato": "2025-09-28"
         }
       ]
@@ -159,7 +169,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2025-06-01"
         }
       ]
@@ -169,17 +179,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 24.90,
+          "Pris": 24.9,
           "Dato": "2025-05-29"
         }
       ]
     },
     {
-      "Navn": "Lettr\u00F8mme 17% 300g",
+      "Navn": "Lettrømme 17% 300g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 24.90,
+          "Pris": 24.9,
           "Dato": "2025-09-28"
         }
       ]
@@ -189,7 +199,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2025-05-01"
         }
       ]
@@ -199,7 +209,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 49.90,
+          "Pris": 49.9,
           "Dato": "2025-09-28"
         }
       ]
@@ -209,7 +219,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 44.90,
+          "Pris": 44.9,
           "Dato": "2025-05-29"
         }
       ]
@@ -219,7 +229,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 17.90,
+          "Pris": 17.9,
           "Dato": "2025-10-26"
         }
       ]
@@ -229,7 +239,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 21.90,
+          "Pris": 21.9,
           "Dato": "2025-10-26"
         }
       ]
@@ -239,7 +249,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 35.90,
+          "Pris": 35.9,
           "Dato": "2025-10-05"
         }
       ]
@@ -249,7 +259,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2025-10-05"
         }
       ]
@@ -259,17 +269,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 112.90,
+          "Pris": 112.9,
           "Dato": "2025-06-01"
         }
       ]
     },
     {
-      "Navn": "Premium fl\u00F8teis ekte vanilje 0,85l",
+      "Navn": "Premium fløteis ekte vanilje 0,85l",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 99.00,
+          "Pris": 99,
           "Dato": "2025-10-05"
         }
       ]
@@ -279,7 +289,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 25.90,
+          "Pris": 25.9,
           "Dato": "2025-10-26"
         }
       ]
@@ -289,18 +299,28 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 25.90,
+          "Pris": 25.9,
           "Dato": "2025-10-26"
         }
       ]
     },
     {
-      "Navn": "R\u00F8mmedressing original 125g",
+      "Navn": "Rømmedressing original 125g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2025-06-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Smoothie bringebær&jordbær 250ml",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 27.9,
+          "Dato": "2026-02-03"
         }
       ]
     },
@@ -309,7 +329,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2025-05-29"
         }
       ]
@@ -319,8 +339,18 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 21.90,
+          "Pris": 21.9,
           "Dato": "2025-05-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Sørlandsis vaniljesmak 2l",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 54.9,
+          "Dato": "2025-05-29"
         }
       ]
     },
@@ -329,18 +359,8 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2025-10-05"
-        }
-      ]
-    },
-    {
-      "Navn": "S\u00F8rlandsis vaniljesmak 2l",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 54.90,
-          "Dato": "2025-05-29"
         }
       ]
     },
@@ -349,17 +369,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 12.90,
+          "Pris": 12.9,
           "Dato": "2025-09-28"
         }
       ]
     },
     {
-      "Navn": "Tomat s\u00F8t 175g",
+      "Navn": "Tomat søt 175g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 36.90,
+          "Pris": 36.9,
           "Dato": "2025-09-28"
         }
       ]
@@ -375,11 +395,21 @@
       ]
     },
     {
+      "Navn": "Tørkerull 4pk",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 59.9,
+          "Dato": "2025-10-26"
+        }
+      ]
+    },
+    {
       "Navn": "Tortilla original large 6stk 371g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 36.90,
+          "Pris": 36.9,
           "Dato": "2025-09-28"
         }
       ]
@@ -389,7 +419,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 44.90,
+          "Pris": 44.9,
           "Dato": "2025-09-28"
         }
       ]
@@ -399,17 +429,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 34.90,
-          "Dato": "2025-10-26"
-        }
-      ]
-    },
-    {
-      "Navn": "T\u00F8rkerull 4pk",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 59.90,
+          "Pris": 34.9,
           "Dato": "2025-10-26"
         }
       ]
@@ -419,7 +439,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 26.90,
+          "Pris": 26.9,
           "Dato": "2025-10-26"
         }
       ]
@@ -431,7 +451,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 18.40,
+          "Pris": 18.4,
           "Dato": "2025-08-29"
         }
       ]
@@ -441,17 +461,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2025-06-16"
         }
       ]
     },
     {
-      "Navn": "Agave\u0026honning topping 330g",
+      "Navn": "Agave&honning topping 330g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 49.90,
+          "Pris": 49.9,
           "Dato": "2026-01-17"
         }
       ]
@@ -461,11 +481,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 26.90,
+          "Pris": 26.9,
           "Dato": "2025-06-07"
         },
         {
-          "Pris": 27.90,
+          "Pris": 27.9,
           "Dato": "2026-04-07"
         }
       ]
@@ -475,11 +495,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 16.90,
+          "Pris": 16.9,
           "Dato": "2025-08-18"
         },
         {
-          "Pris": 17.40,
+          "Pris": 17.4,
           "Dato": "2025-12-06"
         }
       ]
@@ -489,7 +509,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 69.90,
+          "Pris": 69.9,
           "Dato": "2026-01-24"
         }
       ]
@@ -499,17 +519,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 43.90,
+          "Pris": 43.9,
           "Dato": "2026-03-09"
         }
       ]
     },
     {
-      "Navn": "Ananas t\u00F8rket 70g",
+      "Navn": "Ananas tørket 70g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 22.90,
+          "Pris": 22.9,
           "Dato": "2025-05-10"
         }
       ]
@@ -519,7 +539,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 37.90,
+          "Pris": 37.9,
           "Dato": "2026-04-07"
         }
       ]
@@ -529,8 +549,18 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 23.90,
+          "Pris": 23.9,
           "Dato": "2025-08-18"
+        }
+      ]
+    },
+    {
+      "Navn": "Apetina snack hvitløk/oliven 100g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 24.9,
+          "Dato": "2026-04-21"
         }
       ]
     },
@@ -539,7 +569,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 32.40,
+          "Pris": 32.4,
           "Dato": "2025-06-27"
         }
       ]
@@ -549,8 +579,18 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 36.90,
+          "Pris": 36.9,
           "Dato": "2026-02-24"
+        }
+      ]
+    },
+    {
+      "Navn": "Aromasopp 150g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 24.9,
+          "Dato": "2026-04-28"
         }
       ]
     },
@@ -559,11 +599,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 52.90,
+          "Pris": 52.9,
           "Dato": "2025-07-28"
         },
         {
-          "Pris": 55.40,
+          "Pris": 55.4,
           "Dato": "2026-04-11"
         }
       ]
@@ -573,11 +613,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 15.90,
+          "Pris": 15.9,
           "Dato": "2025-10-18"
         },
         {
-          "Pris": 14.90,
+          "Pris": 14.9,
           "Dato": "2026-03-30"
         }
       ]
@@ -587,7 +627,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 27.40,
+          "Pris": 27.4,
           "Dato": "2026-01-16"
         }
       ]
@@ -597,7 +637,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 44.90,
+          "Pris": 44.9,
           "Dato": "2025-11-08"
         }
       ]
@@ -607,8 +647,12 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 22.90,
+          "Pris": 22.9,
           "Dato": "2026-01-17"
+        },
+        {
+          "Pris": 14.9,
+          "Dato": "2026-04-25"
         }
       ]
     },
@@ -617,7 +661,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2025-05-10"
         }
       ]
@@ -627,17 +671,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 31.40,
+          "Pris": 31.4,
           "Dato": "2026-03-31"
         }
       ]
     },
     {
-      "Navn": "Bacon ternet r\u00F8kt p\u00E5 b\u00F8keflis 2x125g",
+      "Navn": "Bacon ternet røkt på bøkeflis 2x125g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 43.90,
+          "Pris": 43.9,
           "Dato": "2025-07-08"
         }
       ]
@@ -647,7 +691,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 22.90,
+          "Pris": 22.9,
           "Dato": "2025-12-06"
         }
       ]
@@ -657,7 +701,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 16.90,
+          "Pris": 16.9,
           "Dato": "2025-06-07"
         }
       ]
@@ -667,7 +711,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 16.90,
+          "Pris": 16.9,
           "Dato": "2025-10-03"
         }
       ]
@@ -677,7 +721,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 12.90,
+          "Pris": 12.9,
           "Dato": "2026-02-21"
         }
       ]
@@ -687,11 +731,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 9.90,
+          "Pris": 9.9,
           "Dato": "2025-10-03"
         },
         {
-          "Pris": 14.90,
+          "Pris": 14.9,
           "Dato": "2026-03-31"
         }
       ]
@@ -705,7 +749,7 @@
           "Dato": "2025-04-24"
         },
         {
-          "Pris": 26.90,
+          "Pris": 26.9,
           "Dato": "2025-06-27"
         },
         {
@@ -723,11 +767,29 @@
       ]
     },
     {
+      "Navn": "Bananer i klase first price",
+      "Enhet": "kg",
+      "Priser": [
+        {
+          "Pris": 23.91,
+          "Dato": "2026-04-16"
+        },
+        {
+          "Pris": 23.9,
+          "Dato": "2026-04-20"
+        },
+        {
+          "Pris": 23.95,
+          "Dato": "2026-04-28"
+        }
+      ]
+    },
+    {
       "Navn": "Barbergel sc sens.skin 200 gillette",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 52.90,
+          "Pris": 52.9,
           "Dato": "2025-07-29"
         }
       ]
@@ -737,7 +799,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 27.40,
+          "Pris": 27.4,
           "Dato": "2026-02-24"
         }
       ]
@@ -747,7 +809,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 19.90,
+          "Pris": 19.9,
           "Dato": "2025-05-10"
         }
       ]
@@ -757,7 +819,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 75.90,
+          "Pris": 75.9,
           "Dato": "2026-04-08"
         }
       ]
@@ -767,7 +829,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 59.90,
+          "Pris": 59.9,
           "Dato": "2025-04-28"
         }
       ]
@@ -777,7 +839,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 45.90,
+          "Pris": 45.9,
           "Dato": "2026-03-14"
         }
       ]
@@ -787,27 +849,27 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 27.40,
+          "Pris": 27.4,
           "Dato": "2025-05-10"
         }
       ]
     },
     {
-      "Navn": "Biola syrnet melk bl\u00E5b\u00E6r 1000g",
+      "Navn": "Biola syrnet melk blåbær 1000g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 32.40,
+          "Pris": 32.4,
           "Dato": "2025-08-02"
         }
       ]
     },
     {
-      "Navn": "Biola syrnet melk bringeb\u00E6r 1000g",
+      "Navn": "Biola syrnet melk bringebær 1000g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 33.90,
+          "Pris": 33.9,
           "Dato": "2025-08-29"
         }
       ]
@@ -817,8 +879,26 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 35.40,
+          "Pris": 35.4,
           "Dato": "2026-02-19"
+        }
+      ]
+    },
+    {
+      "Navn": "Blåbær 125g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 29.9,
+          "Dato": "2025-07-31"
+        },
+        {
+          "Pris": 19.9,
+          "Dato": "2025-08-20"
+        },
+        {
+          "Pris": 26.9,
+          "Dato": "2025-08-29"
         }
       ]
     },
@@ -827,73 +907,55 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 54.90,
+          "Pris": 54.9,
           "Dato": "2025-06-16"
         },
         {
-          "Pris": 59.90,
+          "Pris": 59.9,
           "Dato": "2026-04-11"
         }
       ]
     },
     {
-      "Navn": "Bliw h\u00E5nds\u00E5pe hvitveis 300ml",
+      "Navn": "Bliw håndsåpe hvitveis 300ml",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 19.90,
+          "Pris": 19.9,
           "Dato": "2025-12-03"
         }
       ]
     },
     {
-      "Navn": "Bliw h\u00E5nds\u00E5pe r\u00F8dkl\u00F8ver 300ml",
+      "Navn": "Bliw håndsåpe rødkløver 300ml",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 21.40,
+          "Pris": 21.4,
           "Dato": "2025-11-01"
         },
         {
-          "Pris": 21.90,
+          "Pris": 21.9,
           "Dato": "2026-03-30"
         }
       ]
     },
     {
-      "Navn": "Bl\u00E5b\u00E6r 125g",
+      "Navn": "Boble vann eple&pære 0,33l",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
-          "Dato": "2025-07-31"
-        },
-        {
-          "Pris": 19.90,
-          "Dato": "2025-08-20"
-        },
-        {
-          "Pris": 26.90,
-          "Dato": "2025-08-29"
-        }
-      ]
-    },
-    {
-      "Navn": "Boble vann eple\u0026p\u00E6re 0,33l",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 7.90,
+          "Pris": 7.9,
           "Dato": "2025-06-16"
         }
       ]
     },
     {
-      "Navn": "Boble vann eple\u0026p\u00E6re 0,33lx6 bx eldorado",
+      "Navn": "Boble vann eple&pære 0,33lx6 bx eldorado",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2025-07-29"
         }
       ]
@@ -903,7 +965,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 14.90,
+          "Pris": 14.9,
           "Dato": "2025-08-06"
         }
       ]
@@ -913,7 +975,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2025-05-23"
         }
       ]
@@ -923,11 +985,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2025-08-25"
         },
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2026-02-14"
         }
       ]
@@ -937,26 +999,56 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 14.90,
+          "Pris": 14.9,
           "Dato": "2026-03-31"
         },
         {
-          "Pris": 15.90,
+          "Pris": 15.9,
           "Dato": "2026-04-08"
         },
         {
-          "Pris": 7.50,
+          "Pris": 7.5,
           "Dato": "2026-04-11"
         }
       ]
     },
     {
-      "Navn": "Bomullspinner \u00F8kologisk 200stk",
+      "Navn": "Boble vann sitron 1,5l",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 26.90,
+          "Pris": 15.9,
+          "Dato": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "Navn": "Boble vann yuzu&appelsin 1,5l",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 15.9,
+          "Dato": "2026-04-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Bomullspinner økologisk 200stk",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 26.9,
           "Dato": "2025-07-29"
+        }
+      ]
+    },
+    {
+      "Navn": "Bønner sorte økologisk 380g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 13.4,
+          "Dato": "2026-04-11"
         }
       ]
     },
@@ -965,31 +1057,31 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 52.90,
+          "Pris": 52.9,
           "Dato": "2025-07-31"
         }
       ]
     },
     {
-      "Navn": "Bringeb\u00E6r 125g",
+      "Navn": "Bringebær 125g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2025-04-24"
         },
         {
-          "Pris": 49.90,
+          "Pris": 49.9,
           "Dato": "2026-03-11"
         }
       ]
     },
     {
-      "Navn": "Bringeb\u00E6rsyltet\u00F8y 800g",
+      "Navn": "Bringebærsyltetøy 800g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 69.90,
+          "Pris": 69.9,
           "Dato": "2026-02-14"
         }
       ]
@@ -999,15 +1091,15 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 19.90,
+          "Pris": 19.9,
           "Dato": "2025-12-06"
         },
         {
-          "Pris": 26.90,
+          "Pris": 26.9,
           "Dato": "2025-12-31"
         },
         {
-          "Pris": 14.90,
+          "Pris": 14.9,
           "Dato": "2026-01-17"
         }
       ]
@@ -1017,7 +1109,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2025-11-15"
         }
       ]
@@ -1027,7 +1119,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 58.90,
+          "Pris": 58.9,
           "Dato": "2025-07-11"
         }
       ]
@@ -1037,7 +1129,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 65.90,
+          "Pris": 65.9,
           "Dato": "2025-12-09"
         }
       ]
@@ -1047,17 +1139,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 66.90,
+          "Pris": 66.9,
           "Dato": "2026-03-27"
         }
       ]
     },
     {
-      "Navn": "Burgerbr\u00F8d brioche 6stk 450g",
+      "Navn": "Burgerbrød brioche 6stk 450g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 42.90,
+          "Pris": 42.9,
           "Dato": "2025-12-09"
         }
       ]
@@ -1067,18 +1159,8 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 34.40,
+          "Pris": 34.4,
           "Dato": "2025-12-09"
-        }
-      ]
-    },
-    {
-      "Navn": "B\u00F8nner sorte \u00F8kologisk 380g",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 13.40,
-          "Dato": "2026-04-11"
         }
       ]
     },
@@ -1087,7 +1169,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 19.90,
+          "Pris": 19.9,
           "Dato": "2025-12-06"
         }
       ]
@@ -1097,7 +1179,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 44.90,
+          "Pris": 44.9,
           "Dato": "2025-12-03"
         }
       ]
@@ -1107,7 +1189,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 52.90,
+          "Pris": 52.9,
           "Dato": "2026-03-27"
         }
       ]
@@ -1117,7 +1199,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 25.90,
+          "Pris": 25.9,
           "Dato": "2026-03-31"
         }
       ]
@@ -1127,25 +1209,25 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 30.40,
+          "Pris": 30.4,
           "Dato": "2025-09-22"
         }
       ]
     },
     {
-      "Navn": "Chilipepper r\u00F8d pk",
+      "Navn": "Chilipepper rød pk",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 23.90,
+          "Pris": 23.9,
           "Dato": "2025-05-10"
         },
         {
-          "Pris": 17.90,
+          "Pris": 17.9,
           "Dato": "2025-11-08"
         },
         {
-          "Pris": 19.90,
+          "Pris": 19.9,
           "Dato": "2026-04-11"
         }
       ]
@@ -1155,7 +1237,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 15.90,
+          "Pris": 15.9,
           "Dato": "2025-08-02"
         }
       ]
@@ -1165,7 +1247,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 19.90,
+          "Pris": 19.9,
           "Dato": "2026-01-17"
         }
       ]
@@ -1175,7 +1257,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 17.90,
+          "Pris": 17.9,
           "Dato": "2025-08-30"
         }
       ]
@@ -1185,7 +1267,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 46.90,
+          "Pris": 46.9,
           "Dato": "2025-07-31"
         }
       ]
@@ -1195,11 +1277,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 25.40,
+          "Pris": 25.4,
           "Dato": "2025-06-27"
         },
         {
-          "Pris": 26.90,
+          "Pris": 26.9,
           "Dato": "2025-12-31"
         }
       ]
@@ -1209,16 +1291,26 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 28.90,
+          "Pris": 28.9,
           "Dato": "2025-05-23"
         },
         {
-          "Pris": 34.90,
+          "Pris": 34.9,
           "Dato": "2025-11-15"
         },
         {
-          "Pris": 31.90,
+          "Pris": 31.9,
           "Dato": "2026-04-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Cola free 1,5l",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 16.9,
+          "Dato": "2026-04-24"
         }
       ]
     },
@@ -1227,7 +1319,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 19.90,
+          "Pris": 19.9,
           "Dato": "2026-04-15"
         }
       ]
@@ -1237,7 +1329,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 24.90,
+          "Pris": 24.9,
           "Dato": "2026-02-05"
         }
       ]
@@ -1247,19 +1339,19 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 32.90,
+          "Pris": 32.9,
           "Dato": "2025-06-07"
         },
         {
-          "Pris": 36.90,
+          "Pris": 36.9,
           "Dato": "2025-12-09"
         },
         {
-          "Pris": 37.90,
+          "Pris": 37.9,
           "Dato": "2026-01-16"
         },
         {
-          "Pris": 33.90,
+          "Pris": 33.9,
           "Dato": "2026-04-11"
         }
       ]
@@ -1269,7 +1361,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 37.90,
+          "Pris": 37.9,
           "Dato": "2026-02-21"
         }
       ]
@@ -1279,7 +1371,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 56.90,
+          "Pris": 56.9,
           "Dato": "2025-07-28"
         }
       ]
@@ -1289,7 +1381,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 66.40,
+          "Pris": 66.4,
           "Dato": "2025-08-22"
         }
       ]
@@ -1299,7 +1391,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 15.90,
+          "Pris": 15.9,
           "Dato": "2026-01-09"
         }
       ]
@@ -1309,7 +1401,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 28.40,
+          "Pris": 28.4,
           "Dato": "2026-02-19"
         }
       ]
@@ -1319,27 +1411,41 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 59.90,
+          "Pris": 59.9,
           "Dato": "2025-07-29"
         }
       ]
     },
     {
-      "Navn": "Druer r\u00F8de 500g",
+      "Navn": "Druer grønne beger cevita",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 42.90,
+          "Pris": 29.9,
+          "Dato": "2026-04-22"
+        },
+        {
+          "Pris": 39.9,
+          "Dato": "2026-04-29"
+        }
+      ]
+    },
+    {
+      "Navn": "Druer røde 500g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 42.9,
           "Dato": "2026-01-16"
         }
       ]
     },
     {
-      "Navn": "Egg frittg\u00E5ende m/l 6pk",
+      "Navn": "Egg frittgående m/l 6pk",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 25.00,
+          "Pris": 25,
           "Dato": "2025-10-18"
         }
       ]
@@ -1349,11 +1455,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 49.90,
+          "Pris": 49.9,
           "Dato": "2025-09-22"
         },
         {
-          "Pris": 34.90,
+          "Pris": 34.9,
           "Dato": "2026-03-18"
         }
       ]
@@ -1363,7 +1469,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 99.00,
+          "Pris": 99,
           "Dato": "2025-06-07"
         }
       ]
@@ -1373,11 +1479,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 99.00,
+          "Pris": 99,
           "Dato": "2025-12-09"
         },
         {
-          "Pris": 103.90,
+          "Pris": 103.9,
           "Dato": "2026-02-14"
         }
       ]
@@ -1387,7 +1493,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 51.90,
+          "Pris": 51.9,
           "Dato": "2025-08-14"
         }
       ]
@@ -1397,65 +1503,65 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 23.40,
+          "Pris": 23.4,
           "Dato": "2025-08-13"
         }
       ]
     },
     {
-      "Navn": "Farris frus eple\u0026kiwi 0,33lx6 bx",
+      "Navn": "Farris frus eple&kiwi 0,33lx6 bx",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 69.90,
+          "Pris": 69.9,
           "Dato": "2026-04-15"
         }
       ]
     },
     {
-      "Navn": "Farris frus eple\u0026kiwi 1,5l",
+      "Navn": "Farris frus eple&kiwi 1,5l",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2026-01-16"
         },
         {
-          "Pris": 31.90,
+          "Pris": 31.9,
           "Dato": "2026-03-11"
         }
       ]
     },
     {
-      "Navn": "Fiberbr\u00F8d funkygine 700g",
+      "Navn": "Fiberbrød funkygine 700g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2025-11-01"
         }
       ]
     },
     {
-      "Navn": "Fish\u0026crisp gourmet 480g",
+      "Navn": "Fish&crisp gourmet 480g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 69.90,
+          "Pris": 69.9,
           "Dato": "2025-08-11"
         },
         {
-          "Pris": 48.90,
+          "Pris": 48.9,
           "Dato": "2025-08-18"
         }
       ]
     },
     {
-      "Navn": "Formloff m/valmue s\u00E5 godt 600g",
+      "Navn": "Formloff m/valmue så godt 600g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2025-07-31"
         }
       ]
@@ -1465,7 +1571,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 5.90,
+          "Pris": 5.9,
           "Dato": "2026-02-21"
         }
       ]
@@ -1475,7 +1581,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 48.90,
+          "Pris": 48.9,
           "Dato": "2025-07-11"
         }
       ]
@@ -1485,7 +1591,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 79.90,
+          "Pris": 79.9,
           "Dato": "2025-12-31"
         }
       ]
@@ -1495,68 +1601,78 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 69.90,
+          "Pris": 69.9,
           "Dato": "2025-08-13"
         },
         {
-          "Pris": 69.40,
+          "Pris": 69.4,
           "Dato": "2026-03-27"
         }
       ]
     },
     {
-      "Navn": "Frokostegg frittg\u00E5ende l 12stk",
+      "Navn": "Frokostegg frittgående l 12stk",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 51.90,
+          "Pris": 51.9,
           "Dato": "2025-06-06"
         },
         {
-          "Pris": 54.90,
+          "Pris": 54.9,
           "Dato": "2025-08-02"
         },
         {
-          "Pris": 56.40,
+          "Pris": 56.4,
           "Dato": "2025-11-01"
         },
         {
-          "Pris": 56.90,
+          "Pris": 56.9,
           "Dato": "2026-01-09"
         },
         {
-          "Pris": 60.40,
+          "Pris": 60.4,
           "Dato": "2026-04-11"
         }
       ]
     },
     {
-      "Navn": "Frukost knekkebr\u00F8d 240g",
+      "Navn": "Frukost knekkebrød 240g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 17.90,
+          "Pris": 17.9,
           "Dato": "2026-03-26"
         }
       ]
     },
     {
-      "Navn": "Gj\u00E6r fersk s\u00F8te deiger 50g",
+      "Navn": "Gjær fersk søte deiger 50g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 5.40,
+          "Pris": 5.4,
           "Dato": "2026-02-14"
         }
       ]
     },
     {
-      "Navn": "Go morgen yoghurt vanilje/n\u00F8tter 190g",
+      "Navn": "Go morgen yoghurt vanilje/nøtter 190g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 16.40,
+          "Pris": 16.4,
           "Dato": "2025-08-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Grana padano revet 80g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 32.9,
+          "Dato": "2026-04-27"
         }
       ]
     },
@@ -1565,17 +1681,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 19.90,
+          "Pris": 19.9,
           "Dato": "2025-11-08"
         }
       ]
     },
     {
-      "Navn": "Grevens cider p\u00E6re u/sukker 0,5l",
+      "Navn": "Grevens cider pære u/sukker 0,5l",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 41.40,
+          "Pris": 41.4,
           "Dato": "2025-11-01"
         }
       ]
@@ -1585,7 +1701,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 36.90,
+          "Pris": 36.9,
           "Dato": "2026-04-11"
         }
       ]
@@ -1595,7 +1711,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 36.90,
+          "Pris": 36.9,
           "Dato": "2026-03-18"
         }
       ]
@@ -1605,7 +1721,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 21.90,
+          "Pris": 21.9,
           "Dato": "2025-08-11"
         }
       ]
@@ -1615,7 +1731,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 36.90,
+          "Pris": 36.9,
           "Dato": "2025-08-13"
         }
       ]
@@ -1625,7 +1741,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 19.90,
+          "Pris": 19.9,
           "Dato": "2025-12-03"
         }
       ]
@@ -1635,7 +1751,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 244.00,
+          "Pris": 244,
           "Dato": "2025-12-22"
         }
       ]
@@ -1645,17 +1761,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2025-06-27"
         }
       ]
     },
     {
-      "Navn": "Havre knekkebr\u00F8d 300g",
+      "Navn": "Havre knekkebrød 300g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 27.90,
+          "Pris": 27.9,
           "Dato": "2025-08-22"
         }
       ]
@@ -1665,7 +1781,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 18.90,
+          "Pris": 18.9,
           "Dato": "2025-08-12"
         }
       ]
@@ -1675,21 +1791,21 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 24.90,
+          "Pris": 24.9,
           "Dato": "2025-11-08"
         },
         {
-          "Pris": 25.40,
+          "Pris": 25.4,
           "Dato": "2026-04-11"
         }
       ]
     },
     {
-      "Navn": "Head\u0026shoulder shampoo apple fresh 400ml",
+      "Navn": "Head&shoulder shampoo apple fresh 400ml",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 69.90,
+          "Pris": 69.9,
           "Dato": "2026-04-11"
         }
       ]
@@ -1699,8 +1815,18 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 23.50,
+          "Pris": 23.5,
           "Dato": "2026-03-27"
+        }
+      ]
+    },
+    {
+      "Navn": "Hjertesalat 2pk",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 26.9,
+          "Dato": "2026-04-22"
         }
       ]
     },
@@ -1719,7 +1845,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 27.90,
+          "Pris": 27.9,
           "Dato": "2026-04-11"
         }
       ]
@@ -1729,21 +1855,21 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 36.90,
+          "Pris": 36.9,
           "Dato": "2026-03-11"
         }
       ]
     },
     {
-      "Navn": "Hvitl\u00F8k 100g",
+      "Navn": "Hvitløk 100g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 16.90,
+          "Pris": 16.9,
           "Dato": "2025-09-22"
         },
         {
-          "Pris": 9.90,
+          "Pris": 9.9,
           "Dato": "2025-11-08"
         }
       ]
@@ -1753,7 +1879,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 21.40,
+          "Pris": 21.4,
           "Dato": "2025-08-22"
         }
       ]
@@ -1763,11 +1889,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 10.90,
+          "Pris": 10.9,
           "Dato": "2025-08-22"
         },
         {
-          "Pris": 12.90,
+          "Pris": 12.9,
           "Dato": "2026-04-11"
         }
       ]
@@ -1777,7 +1903,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 24.90,
+          "Pris": 24.9,
           "Dato": "2026-03-18"
         }
       ]
@@ -1787,7 +1913,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2025-12-31"
         }
       ]
@@ -1797,11 +1923,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 50.40,
+          "Pris": 50.4,
           "Dato": "2026-03-11"
         },
         {
-          "Pris": 49.90,
+          "Pris": 49.9,
           "Dato": "2026-03-18"
         }
       ]
@@ -1811,7 +1937,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 16.90,
+          "Pris": 16.9,
           "Dato": "2025-05-30"
         }
       ]
@@ -1821,21 +1947,21 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 38.90,
+          "Pris": 38.9,
           "Dato": "2025-04-24"
         }
       ]
     },
     {
-      "Navn": "Jif engangsv\u00E5tmopp krystal original",
+      "Navn": "Jif engangsvåtmopp krystal original",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 81.90,
+          "Pris": 81.9,
           "Dato": "2025-11-01"
         },
         {
-          "Pris": 85.40,
+          "Pris": 85.4,
           "Dato": "2026-03-11"
         }
       ]
@@ -1845,7 +1971,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2025-06-07"
         }
       ]
@@ -1855,95 +1981,105 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 37.40,
+          "Pris": 37.4,
           "Dato": "2025-07-11"
         }
       ]
     },
     {
-      "Navn": "Jordan tannb\u00F8rste individual clean soft",
+      "Navn": "Jordan tannbørste individual clean soft",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2026-03-31"
         }
       ]
     },
     {
-      "Navn": "Jordan tannb\u00F8rste individual precision",
+      "Navn": "Jordan tannbørste individual precision",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 27.90,
+          "Pris": 27.9,
           "Dato": "2025-12-03"
         }
       ]
     },
     {
-      "Navn": "Jordan tannb\u00F8rste individual precision m",
+      "Navn": "Jordan tannbørste individual precision m",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2025-12-03"
         }
       ]
     },
     {
-      "Navn": "Jordb\u00E6r 400g",
+      "Navn": "Jordbær 400g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 89.00,
+          "Pris": 89,
           "Dato": "2025-06-06"
         },
         {
-          "Pris": 23.90,
+          "Pris": 23.9,
           "Dato": "2025-06-27"
         },
         {
-          "Pris": 25.90,
+          "Pris": 25.9,
           "Dato": "2025-12-31"
         }
       ]
     },
     {
-      "Navn": "Jordb\u00E6r 500g",
+      "Navn": "Jordbær 500g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 49.90,
+          "Pris": 49.9,
           "Dato": "2025-04-24"
         }
       ]
     },
     {
-      "Navn": "Jordb\u00E6r norsk 500g",
+      "Navn": "Jordbær norsk 500g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 59.90,
+          "Pris": 59.9,
           "Dato": "2025-08-20"
         }
       ]
     },
     {
-      "Navn": "Jordb\u00E6rsyltet\u00F8y u/sukker 330g",
+      "Navn": "Jordbærsyltetøy klem 410g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 32.90,
+          "Pris": 31.4,
+          "Dato": "2026-04-29"
+        }
+      ]
+    },
+    {
+      "Navn": "Jordbærsyltetøy u/sukker 330g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 32.9,
           "Dato": "2025-06-27"
         }
       ]
     },
     {
-      "Navn": "Julius favorittbr\u00F8d 750g",
+      "Navn": "Julius favorittbrød 750g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 27.90,
+          "Pris": 27.9,
           "Dato": "2026-03-31"
         }
       ]
@@ -1953,7 +2089,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 32.90,
+          "Pris": 32.9,
           "Dato": "2025-12-06"
         }
       ]
@@ -1963,19 +2099,19 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 79.90,
+          "Pris": 79.9,
           "Dato": "2025-06-27"
         },
         {
-          "Pris": 63.90,
+          "Pris": 63.9,
           "Dato": "2025-08-15"
         },
         {
-          "Pris": 86.40,
+          "Pris": 86.4,
           "Dato": "2026-04-01"
         },
         {
-          "Pris": 89.90,
+          "Pris": 89.9,
           "Dato": "2026-04-11"
         }
       ]
@@ -1985,8 +2121,18 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 86.90,
+          "Pris": 86.9,
           "Dato": "2025-07-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Kikerter 380g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 10.9,
+          "Dato": "2026-04-30"
         }
       ]
     },
@@ -1995,7 +2141,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 33.90,
+          "Pris": 33.9,
           "Dato": "2025-05-10"
         }
       ]
@@ -2005,11 +2151,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 19.40,
+          "Pris": 19.4,
           "Dato": "2026-01-24"
         },
         {
-          "Pris": 19.90,
+          "Pris": 19.9,
           "Dato": "2026-04-01"
         }
       ]
@@ -2019,7 +2165,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 9.90,
+          "Pris": 9.9,
           "Dato": "2025-08-28"
         }
       ]
@@ -2029,69 +2175,69 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 6.90,
+          "Pris": 6.9,
           "Dato": "2025-04-24"
         }
       ]
     },
     {
-      "Navn": "Kj\u00F8ttboller italiensk 400g",
+      "Navn": "Kjøttboller italiensk 400g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 77.90,
+          "Pris": 77.9,
           "Dato": "2025-10-18"
         }
       ]
     },
     {
-      "Navn": "Kj\u00F8ttboller r\u00E5 italia 20stk 360g",
+      "Navn": "Kjøttboller rå italia 20stk 360g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 57.90,
+          "Pris": 57.9,
           "Dato": "2025-06-07"
         }
       ]
     },
     {
-      "Navn": "Kj\u00F8ttdeig svin 20% 300g",
+      "Navn": "Kjøttdeig svin 20% 300g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2026-01-16"
         }
       ]
     },
     {
-      "Navn": "Kj\u00F8ttdeig svin 9% u/salt og vann 400g",
+      "Navn": "Kjøttdeig svin 9% u/salt og vann 400g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 46.90,
+          "Pris": 46.9,
           "Dato": "2025-08-19"
         },
         {
-          "Pris": 47.90,
+          "Pris": 47.9,
           "Dato": "2026-03-31"
         },
         {
-          "Pris": 49.90,
+          "Pris": 49.9,
           "Dato": "2026-04-11"
         }
       ]
     },
     {
-      "Navn": "Kj\u00F8ttp\u00F8lse skinnfri 450g",
+      "Navn": "Kjøttpølse skinnfri 450g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 34.90,
+          "Pris": 34.9,
           "Dato": "2025-10-03"
         },
         {
-          "Pris": 52.40,
+          "Pris": 52.4,
           "Dato": "2025-12-31"
         }
       ]
@@ -2101,7 +2247,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 17.90,
+          "Pris": 17.9,
           "Dato": "2026-03-27"
         }
       ]
@@ -2111,15 +2257,15 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2025-06-06"
         },
         {
-          "Pris": 33.90,
+          "Pris": 33.9,
           "Dato": "2025-07-28"
         },
         {
-          "Pris": 31.90,
+          "Pris": 31.9,
           "Dato": "2026-02-14"
         }
       ]
@@ -2129,57 +2275,57 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 24.90,
+          "Pris": 24.9,
           "Dato": "2025-11-08"
         }
       ]
     },
     {
-      "Navn": "Kornbr\u00F8d grovt 750g",
+      "Navn": "Kornbrød grovt 750g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 42.90,
+          "Pris": 42.9,
           "Dato": "2026-03-27"
         }
       ]
     },
     {
-      "Navn": "Kremfl\u00F8te 0,3l",
+      "Navn": "Kremfløte 0,3l",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 24.40,
+          "Pris": 24.4,
           "Dato": "2025-11-15"
         },
         {
-          "Pris": 17.90,
+          "Pris": 17.9,
           "Dato": "2025-12-06"
         }
       ]
     },
     {
-      "Navn": "Kremfl\u00F8te 37% 3dl",
+      "Navn": "Kremfløte 37% 3dl",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 18.90,
+          "Pris": 18.9,
           "Dato": "2025-05-10"
         },
         {
-          "Pris": 21.90,
+          "Pris": 21.9,
           "Dato": "2025-06-06"
         },
         {
-          "Pris": 23.90,
+          "Pris": 23.9,
           "Dato": "2025-07-08"
         },
         {
-          "Pris": 24.40,
+          "Pris": 24.4,
           "Dato": "2026-02-14"
         },
         {
-          "Pris": 17.90,
+          "Pris": 17.9,
           "Dato": "2026-03-14"
         }
       ]
@@ -2189,7 +2335,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 19.90,
+          "Pris": 19.9,
           "Dato": "2025-08-12"
         }
       ]
@@ -2199,11 +2345,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 35.90,
+          "Pris": 35.9,
           "Dato": "2025-10-03"
         },
         {
-          "Pris": 32.90,
+          "Pris": 32.9,
           "Dato": "2026-04-01"
         }
       ]
@@ -2213,19 +2359,19 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 20.90,
+          "Pris": 20.9,
           "Dato": "2025-10-18"
         },
         {
-          "Pris": 19.40,
+          "Pris": 19.4,
           "Dato": "2026-02-21"
         },
         {
-          "Pris": 12.90,
+          "Pris": 12.9,
           "Dato": "2026-03-18"
         },
         {
-          "Pris": 11.90,
+          "Pris": 11.9,
           "Dato": "2026-04-01"
         }
       ]
@@ -2235,7 +2381,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 49.90,
+          "Pris": 49.9,
           "Dato": "2025-10-03"
         }
       ]
@@ -2245,7 +2391,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 75.40,
+          "Pris": 75.4,
           "Dato": "2025-07-28"
         }
       ]
@@ -2255,7 +2401,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 17.40,
+          "Pris": 17.4,
           "Dato": "2025-09-22"
         }
       ]
@@ -2265,7 +2411,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 79.00,
+          "Pris": 79,
           "Dato": "2025-06-07"
         }
       ]
@@ -2275,11 +2421,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 79.90,
+          "Pris": 79.9,
           "Dato": "2025-11-11"
         },
         {
-          "Pris": 66.90,
+          "Pris": 66.9,
           "Dato": "2025-12-06"
         }
       ]
@@ -2289,7 +2435,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 126.80,
+          "Pris": 126.8,
           "Dato": "2025-11-15"
         }
       ]
@@ -2299,7 +2445,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 115.00,
+          "Pris": 115,
           "Dato": "2025-08-13"
         }
       ]
@@ -2309,43 +2455,43 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 49.60,
+          "Pris": 49.6,
           "Dato": "2025-09-22"
         },
         {
-          "Pris": 65.50,
+          "Pris": 65.5,
           "Dato": "2026-01-17"
         },
         {
-          "Pris": 79.90,
+          "Pris": 79.9,
           "Dato": "2026-03-30"
         },
         {
-          "Pris": 81.90,
+          "Pris": 81.9,
           "Dato": "2026-04-08"
         }
       ]
     },
     {
-      "Navn": "Kyllingl\u00E5r grillet 1,4kg",
+      "Navn": "Kyllinglår grillet 1,4kg",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 123.00,
+          "Pris": 123,
           "Dato": "2025-07-31"
         }
       ]
     },
     {
-      "Navn": "Lakrisb\u00E5ter 200g",
+      "Navn": "Lakrisbåter 200g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 49.40,
+          "Pris": 49.4,
           "Dato": "2025-11-15"
         },
         {
-          "Pris": 52.40,
+          "Pris": 52.4,
           "Dato": "2026-03-14"
         }
       ]
@@ -2355,27 +2501,27 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 34.90,
+          "Pris": 34.9,
           "Dato": "2025-06-07"
         },
         {
-          "Pris": 35.90,
+          "Pris": 35.9,
           "Dato": "2025-07-29"
         },
         {
-          "Pris": 36.40,
+          "Pris": 36.4,
           "Dato": "2025-11-01"
         },
         {
-          "Pris": 35.80,
+          "Pris": 35.8,
           "Dato": "2025-12-06"
         },
         {
-          "Pris": 35.70,
+          "Pris": 35.7,
           "Dato": "2026-04-01"
         },
         {
-          "Pris": 36.70,
+          "Pris": 36.7,
           "Dato": "2026-04-04"
         }
       ]
@@ -2385,50 +2531,60 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 19.90,
+          "Pris": 19.9,
           "Dato": "2025-05-30"
         },
         {
-          "Pris": 20.60,
+          "Pris": 20.6,
           "Dato": "2026-01-09"
         },
         {
-          "Pris": 20.40,
+          "Pris": 20.4,
           "Dato": "2026-03-31"
         },
         {
-          "Pris": 21.40,
+          "Pris": 21.4,
           "Dato": "2026-04-11"
         }
       ]
     },
     {
-      "Navn": "Lettr\u00F8mme 17% 300g",
+      "Navn": "Lettrømme 17% 300g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 19.90,
+          "Pris": 19.9,
           "Dato": "2025-06-07"
         },
         {
-          "Pris": 20.90,
+          "Pris": 20.9,
           "Dato": "2025-06-27"
         },
         {
-          "Pris": 21.90,
+          "Pris": 21.9,
           "Dato": "2025-11-11"
         },
         {
-          "Pris": 22.10,
+          "Pris": 22.1,
           "Dato": "2026-01-16"
         },
         {
-          "Pris": 17.90,
+          "Pris": 17.9,
           "Dato": "2026-03-31"
         },
         {
-          "Pris": 23.90,
+          "Pris": 23.9,
           "Dato": "2026-04-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Lettrømme 17% laktosefri 300g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 24.9,
+          "Dato": "2026-04-27"
         }
       ]
     },
@@ -2437,7 +2593,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 24.90,
+          "Pris": 24.9,
           "Dato": "2026-04-11"
         }
       ]
@@ -2447,11 +2603,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 28.90,
+          "Pris": 28.9,
           "Dato": "2025-07-28"
         },
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2026-03-31"
         }
       ]
@@ -2471,30 +2627,40 @@
       ]
     },
     {
-      "Navn": "Lysp\u00E6re led spot par16 50 dim gu10 osram",
+      "Navn": "Lipton icetea lemon pulver 50g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 99.40,
-          "Dato": "2025-08-15"
+          "Pris": 19.4,
+          "Dato": "2026-04-30"
         }
       ]
     },
     {
-      "Navn": "L\u00F8k gul 2stk 450g",
+      "Navn": "Løk gul 2stk 450g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 19.90,
+          "Pris": 19.9,
           "Dato": "2025-06-07"
         },
         {
-          "Pris": 9.90,
+          "Pris": 9.9,
           "Dato": "2025-09-22"
         },
         {
-          "Pris": 17.90,
+          "Pris": 17.9,
           "Dato": "2026-01-17"
+        }
+      ]
+    },
+    {
+      "Navn": "Lyspære led spot par16 50 dim gu10 osram",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 99.4,
+          "Dato": "2025-08-15"
         }
       ]
     },
@@ -2503,11 +2669,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 31.40,
+          "Pris": 31.4,
           "Dato": "2025-06-27"
         },
         {
-          "Pris": 33.90,
+          "Pris": 33.9,
           "Dato": "2026-03-31"
         }
       ]
@@ -2517,7 +2683,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 41.90,
+          "Pris": 41.9,
           "Dato": "2025-08-15"
         }
       ]
@@ -2527,7 +2693,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 34.90,
+          "Pris": 34.9,
           "Dato": "2025-11-15"
         }
       ]
@@ -2537,7 +2703,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2026-03-31"
         }
       ]
@@ -2547,7 +2713,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 41.90,
+          "Pris": 41.9,
           "Dato": "2025-11-15"
         }
       ]
@@ -2557,7 +2723,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 41.90,
+          "Pris": 41.9,
           "Dato": "2026-03-31"
         }
       ]
@@ -2567,7 +2733,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 62.90,
+          "Pris": 62.9,
           "Dato": "2025-05-23"
         }
       ]
@@ -2577,15 +2743,15 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 42.90,
+          "Pris": 42.9,
           "Dato": "2025-08-13"
         },
         {
-          "Pris": 23.90,
+          "Pris": 23.9,
           "Dato": "2025-11-08"
         },
         {
-          "Pris": 19.90,
+          "Pris": 19.9,
           "Dato": "2025-11-11"
         }
       ]
@@ -2595,21 +2761,41 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 21.90,
+          "Pris": 21.9,
           "Dato": "2025-06-07"
         }
       ]
     },
     {
-      "Navn": "Meierism\u00F8r 500g",
+      "Navn": "Mariekjeks 2x200g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 63.90,
+          "Pris": 19.4,
+          "Dato": "2026-04-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Mega roulette fruit 45g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 14.9,
+          "Dato": "2026-04-20"
+        }
+      ]
+    },
+    {
+      "Navn": "Meierismør 500g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 63.9,
           "Dato": "2025-07-28"
         },
         {
-          "Pris": 59.90,
+          "Pris": 59.9,
           "Dato": "2026-03-27"
         }
       ]
@@ -2619,7 +2805,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 22.40,
+          "Pris": 22.4,
           "Dato": "2026-03-27"
         }
       ]
@@ -2629,7 +2815,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 56.40,
+          "Pris": 56.4,
           "Dato": "2026-04-11"
         }
       ]
@@ -2639,15 +2825,15 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 56.90,
+          "Pris": 56.9,
           "Dato": "2025-05-10"
         },
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2025-08-22"
         },
         {
-          "Pris": 59.90,
+          "Pris": 59.9,
           "Dato": "2025-11-15"
         }
       ]
@@ -2657,7 +2843,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 19.90,
+          "Pris": 19.9,
           "Dato": "2025-10-18"
         }
       ]
@@ -2667,7 +2853,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 22.90,
+          "Pris": 22.9,
           "Dato": "2026-02-21"
         }
       ]
@@ -2677,12 +2863,22 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 25.40,
+          "Pris": 25.4,
           "Dato": "2025-11-08"
         },
         {
-          "Pris": 25.90,
+          "Pris": 25.9,
           "Dato": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Mozzarella 210g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 24.9,
+          "Dato": "2026-04-25"
         }
       ]
     },
@@ -2691,7 +2887,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2026-01-17"
         }
       ]
@@ -2701,8 +2897,32 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 9.90,
+          "Pris": 9.9,
           "Dato": "2025-10-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Naan brød original 260g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 32.4,
+          "Dato": "2025-08-25"
+        },
+        {
+          "Pris": 32.9,
+          "Dato": "2026-04-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Naan håndlagde 260g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 31.9,
+          "Dato": "2025-04-24"
         }
       ]
     },
@@ -2711,7 +2931,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 34.90,
+          "Pris": 34.9,
           "Dato": "2025-06-06"
         }
       ]
@@ -2721,7 +2941,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 48.90,
+          "Pris": 48.9,
           "Dato": "2025-07-11"
         }
       ]
@@ -2731,7 +2951,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 34.10,
+          "Pris": 34.1,
           "Dato": "2026-03-26"
         }
       ]
@@ -2741,15 +2961,15 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 76.90,
+          "Pris": 76.9,
           "Dato": "2025-11-11"
         },
         {
-          "Pris": 77.50,
+          "Pris": 77.5,
           "Dato": "2026-03-31"
         },
         {
-          "Pris": 78.90,
+          "Pris": 78.9,
           "Dato": "2026-04-11"
         }
       ]
@@ -2759,8 +2979,18 @@
       "Enhet": "kg",
       "Priser": [
         {
-          "Pris": 102.70,
+          "Pris": 102.7,
           "Dato": "2026-02-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Norvegia smaksrik skiver 250g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 53.4,
+          "Dato": "2026-04-22"
         }
       ]
     },
@@ -2769,59 +2999,35 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2026-01-16"
         },
         {
-          "Pris": 49.90,
+          "Pris": 49.9,
           "Dato": "2026-04-04"
         }
       ]
     },
     {
-      "Navn": "Nypotet r\u00F8de 1,5kg",
+      "Navn": "Nypotet røde 1,5kg",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 44.90,
+          "Pris": 44.9,
           "Dato": "2025-08-11"
         }
       ]
     },
     {
-      "Navn": "Naan br\u00F8d original 260g",
+      "Navn": "Opphøgde potteter m/krydder 450g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 32.40,
-          "Dato": "2025-08-25"
-        },
-        {
-          "Pris": 32.90,
-          "Dato": "2026-04-08"
-        }
-      ]
-    },
-    {
-      "Navn": "Naan h\u00E5ndlagde 260g",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 31.90,
-          "Dato": "2025-04-24"
-        }
-      ]
-    },
-    {
-      "Navn": "Opph\u00F8gde potteter m/krydder 450g",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 47.90,
+          "Pris": 47.9,
           "Dato": "2025-12-09"
         },
         {
-          "Pris": 48.90,
+          "Pris": 48.9,
           "Dato": "2026-04-07"
         }
       ]
@@ -2831,8 +3037,18 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 69.90,
+          "Pris": 69.9,
           "Dato": "2026-02-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Orange cakes 270g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 28.4,
+          "Dato": "2026-04-24"
         }
       ]
     },
@@ -2841,7 +3057,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 32.90,
+          "Pris": 32.9,
           "Dato": "2025-09-22"
         }
       ]
@@ -2851,17 +3067,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 31.40,
+          "Pris": 31.4,
           "Dato": "2025-08-20"
         }
       ]
     },
     {
-      "Navn": "Ost\u0026chiligrill 270g",
+      "Navn": "Ost&chiligrill 270g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.40,
+          "Pris": 29.4,
           "Dato": "2025-08-02"
         }
       ]
@@ -2871,13 +3087,23 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 59.90,
+          "Pris": 59.9,
           "Dato": "2025-08-02"
         }
       ]
     },
     {
-      "Navn": "Paprika r\u00F8d",
+      "Navn": "Ostemix revet kongsgård/mozarella 170g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 33.9,
+          "Dato": "2026-04-22"
+        }
+      ]
+    },
+    {
+      "Navn": "Paprika rød",
       "Enhet": "kg",
       "Priser": [
         {
@@ -2887,33 +3113,33 @@
       ]
     },
     {
-      "Navn": "Paprika r\u00F8d s\u00F8t spiss 300g",
+      "Navn": "Paprika rød søt spiss 300g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 34.90,
+          "Pris": 34.9,
           "Dato": "2025-07-28"
         },
         {
-          "Pris": 14.90,
+          "Pris": 14.9,
           "Dato": "2025-08-15"
         },
         {
-          "Pris": 18.90,
+          "Pris": 18.9,
           "Dato": "2025-11-11"
         },
         {
-          "Pris": 23.90,
+          "Pris": 23.9,
           "Dato": "2026-04-11"
         }
       ]
     },
     {
-      "Navn": "Paprika r\u00F8d s\u00F8t spiss pk \u00F8kologisk",
+      "Navn": "Paprika rød søt spiss pk økologisk",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 49.90,
+          "Pris": 49.9,
           "Dato": "2026-03-18"
         }
       ]
@@ -2923,11 +3149,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 43.90,
+          "Pris": 43.9,
           "Dato": "2025-08-29"
         },
         {
-          "Pris": 44.90,
+          "Pris": 44.9,
           "Dato": "2026-04-01"
         }
       ]
@@ -2937,7 +3163,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 34.40,
+          "Pris": 34.4,
           "Dato": "2025-09-22"
         }
       ]
@@ -2947,7 +3173,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 65.90,
+          "Pris": 65.9,
           "Dato": "2026-02-14"
         }
       ]
@@ -2957,7 +3183,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 89.00,
+          "Pris": 89,
           "Dato": "2025-07-08"
         }
       ]
@@ -2967,7 +3193,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 27.90,
+          "Pris": 27.9,
           "Dato": "2025-06-06"
         }
       ]
@@ -2977,7 +3203,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 19.90,
+          "Pris": 19.9,
           "Dato": "2026-01-17"
         }
       ]
@@ -2987,7 +3213,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 22.90,
+          "Pris": 22.9,
           "Dato": "2025-10-18"
         }
       ]
@@ -2997,7 +3223,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 37.90,
+          "Pris": 37.9,
           "Dato": "2025-08-13"
         }
       ]
@@ -3007,7 +3233,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 37.40,
+          "Pris": 37.4,
           "Dato": "2026-03-31"
         }
       ]
@@ -3017,7 +3243,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 27.90,
+          "Pris": 27.9,
           "Dato": "2025-10-18"
         }
       ]
@@ -3027,7 +3253,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 46.40,
+          "Pris": 46.4,
           "Dato": "2025-04-28"
         }
       ]
@@ -3037,7 +3263,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 99.00,
+          "Pris": 99,
           "Dato": "2026-01-16"
         }
       ]
@@ -3047,19 +3273,19 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 27.40,
+          "Pris": 27.4,
           "Dato": "2025-06-07"
         },
         {
-          "Pris": 27.90,
+          "Pris": 27.9,
           "Dato": "2025-06-27"
         },
         {
-          "Pris": 28.90,
+          "Pris": 28.9,
           "Dato": "2025-11-11"
         },
         {
-          "Pris": 29.00,
+          "Pris": 29,
           "Dato": "2026-01-24"
         }
       ]
@@ -3069,11 +3295,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 35.40,
+          "Pris": 35.4,
           "Dato": "2025-08-22"
         },
         {
-          "Pris": 36.40,
+          "Pris": 36.4,
           "Dato": "2026-02-21"
         }
       ]
@@ -3083,7 +3309,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 28.90,
+          "Pris": 28.9,
           "Dato": "2026-01-17"
         }
       ]
@@ -3093,31 +3319,31 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 59.90,
+          "Pris": 59.9,
           "Dato": "2026-01-17"
         },
         {
-          "Pris": 49.90,
+          "Pris": 49.9,
           "Dato": "2026-02-14"
         }
       ]
     },
     {
-      "Navn": "Pistasj n\u00F8tter salte m/skall 150g",
+      "Navn": "Pistasj nøtter salte m/skall 150g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 49.90,
+          "Pris": 49.9,
           "Dato": "2025-09-26"
         }
       ]
     },
     {
-      "Navn": "Pitabr\u00F8d fine 6stk",
+      "Navn": "Pitabrød fine 6stk",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 34.40,
+          "Pris": 34.4,
           "Dato": "2026-04-07"
         }
       ]
@@ -3127,7 +3353,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 99.00,
+          "Pris": 99,
           "Dato": "2026-04-01"
         }
       ]
@@ -3137,11 +3363,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 59.90,
+          "Pris": 59.9,
           "Dato": "2025-05-23"
         },
         {
-          "Pris": 62.90,
+          "Pris": 62.9,
           "Dato": "2025-12-03"
         }
       ]
@@ -3151,7 +3377,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 89.00,
+          "Pris": 89,
           "Dato": "2025-10-18"
         }
       ]
@@ -3161,11 +3387,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 79.90,
+          "Pris": 79.9,
           "Dato": "2025-08-20"
         },
         {
-          "Pris": 55.90,
+          "Pris": 55.9,
           "Dato": "2025-12-31"
         }
       ]
@@ -3175,7 +3401,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2025-08-15"
         }
       ]
@@ -3185,7 +3411,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 23.90,
+          "Pris": 23.9,
           "Dato": "2026-01-17"
         }
       ]
@@ -3195,17 +3421,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 18.90,
+          "Pris": 18.9,
           "Dato": "2025-08-15"
         }
       ]
     },
     {
-      "Navn": "Plaster gnags\u00E5r medium 5stk",
+      "Navn": "Plaster gnagsår medium 5stk",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 99.00,
+          "Pris": 99,
           "Dato": "2025-07-11"
         }
       ]
@@ -3215,7 +3441,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 26.40,
+          "Pris": 26.4,
           "Dato": "2026-02-05"
         }
       ]
@@ -3225,8 +3451,28 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 67.90,
+          "Pris": 67.9,
           "Dato": "2025-06-07"
+        }
+      ]
+    },
+    {
+      "Navn": "Pølse chorizo 270g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 29.4,
+          "Dato": "2025-08-02"
+        }
+      ]
+    },
+    {
+      "Navn": "Pølsebrød sesam 8stk 400g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 28.9,
+          "Dato": "2025-08-02"
         }
       ]
     },
@@ -3235,7 +3481,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 31.40,
+          "Pris": 31.4,
           "Dato": "2025-06-06"
         }
       ]
@@ -3245,11 +3491,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 24.90,
+          "Pris": 24.9,
           "Dato": "2025-12-31"
         },
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2026-03-14"
         }
       ]
@@ -3259,7 +3505,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2025-10-03"
         }
       ]
@@ -3275,31 +3521,11 @@
       ]
     },
     {
-      "Navn": "P\u00F8lse chorizo 270g",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 29.40,
-          "Dato": "2025-08-02"
-        }
-      ]
-    },
-    {
-      "Navn": "P\u00F8lsebr\u00F8d sesam 8stk 400g",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 28.90,
-          "Dato": "2025-08-02"
-        }
-      ]
-    },
-    {
       "Navn": "Rapsolje steking 0,45l",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 76.50,
+          "Pris": 76.5,
           "Dato": "2025-11-08"
         }
       ]
@@ -3309,7 +3535,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 21.40,
+          "Pris": 21.4,
           "Dato": "2025-08-22"
         }
       ]
@@ -3319,11 +3545,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 28.40,
+          "Pris": 28.4,
           "Dato": "2025-07-31"
         },
         {
-          "Pris": 28.50,
+          "Pris": 28.5,
           "Dato": "2026-02-14"
         }
       ]
@@ -3333,11 +3559,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 37.90,
+          "Pris": 37.9,
           "Dato": "2025-07-28"
         },
         {
-          "Pris": 37.40,
+          "Pris": 37.4,
           "Dato": "2025-12-31"
         }
       ]
@@ -3347,8 +3573,18 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 20.40,
+          "Pris": 20.4,
           "Dato": "2026-01-16"
+        }
+      ]
+    },
+    {
+      "Navn": "Red bull sukkerfri peach edition 0,25l",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 22.4,
+          "Dato": "2026-04-27"
         }
       ]
     },
@@ -3357,15 +3593,15 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 21.40,
+          "Pris": 21.4,
           "Dato": "2025-12-31"
         },
         {
-          "Pris": 21.50,
+          "Pris": 21.5,
           "Dato": "2026-04-08"
         },
         {
-          "Pris": 22.40,
+          "Pris": 22.4,
           "Dato": "2026-04-15"
         }
       ]
@@ -3375,7 +3611,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 59.90,
+          "Pris": 59.9,
           "Dato": "2025-08-22"
         }
       ]
@@ -3395,17 +3631,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 27.40,
+          "Pris": 27.4,
           "Dato": "2025-08-11"
         }
       ]
     },
     {
-      "Navn": "Repsils honning\u0026sitron sukkerfri 24stk",
+      "Navn": "Repsils honning&sitron sukkerfri 24stk",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 60.40,
+          "Pris": 60.4,
           "Dato": "2026-02-19"
         }
       ]
@@ -3415,8 +3651,56 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.40,
+          "Pris": 29.4,
           "Dato": "2025-08-13"
+        }
+      ]
+    },
+    {
+      "Navn": "Rødløk 2stk",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 19.9,
+          "Dato": "2025-11-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Rødløk syltet 235g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 22.9,
+          "Dato": "2025-08-02"
+        }
+      ]
+    },
+    {
+      "Navn": "Rømmedressing original 125g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 18.9,
+          "Dato": "2025-07-28"
+        },
+        {
+          "Pris": 23.4,
+          "Dato": "2026-03-26"
+        },
+        {
+          "Pris": 23.9,
+          "Dato": "2026-04-01"
+        }
+      ]
+    },
+    {
+      "Navn": "Rørsukker strø demerara 500g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 29.4,
+          "Dato": "2026-03-11"
         }
       ]
     },
@@ -3425,7 +3709,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 99.00,
+          "Pris": 99,
           "Dato": "2026-04-10"
         }
       ]
@@ -3435,11 +3719,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 19.90,
+          "Pris": 19.9,
           "Dato": "2025-08-12"
         },
         {
-          "Pris": 16.90,
+          "Pris": 16.9,
           "Dato": "2026-02-14"
         }
       ]
@@ -3449,56 +3733,8 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 23.90,
+          "Pris": 23.9,
           "Dato": "2026-01-17"
-        }
-      ]
-    },
-    {
-      "Navn": "R\u00F8dl\u00F8k 2stk",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 19.90,
-          "Dato": "2025-11-08"
-        }
-      ]
-    },
-    {
-      "Navn": "R\u00F8dl\u00F8k syltet 235g",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 22.90,
-          "Dato": "2025-08-02"
-        }
-      ]
-    },
-    {
-      "Navn": "R\u00F8mmedressing original 125g",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 18.90,
-          "Dato": "2025-07-28"
-        },
-        {
-          "Pris": 23.40,
-          "Dato": "2026-03-26"
-        },
-        {
-          "Pris": 23.90,
-          "Dato": "2026-04-01"
-        }
-      ]
-    },
-    {
-      "Navn": "R\u00F8rsukker str\u00F8 demerara 500g",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 29.40,
-          "Dato": "2026-03-11"
         }
       ]
     },
@@ -3507,31 +3743,31 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 21.90,
+          "Pris": 21.9,
           "Dato": "2025-06-02"
         },
         {
-          "Pris": 22.40,
+          "Pris": 22.4,
           "Dato": "2025-08-19"
         }
       ]
     },
     {
-      "Navn": "Sennep s\u00F8t 510g",
+      "Navn": "Sennep søt 510g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 23.40,
+          "Pris": 23.4,
           "Dato": "2025-11-15"
         }
       ]
     },
     {
-      "Navn": "Siktabr\u00F8d 750g",
+      "Navn": "Siktabrød 750g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 48.90,
+          "Pris": 48.9,
           "Dato": "2025-07-31"
         }
       ]
@@ -3541,7 +3777,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 22.90,
+          "Pris": 22.9,
           "Dato": "2025-07-11"
         }
       ]
@@ -3551,7 +3787,7 @@
       "Enhet": "kg",
       "Priser": [
         {
-          "Pris": 24.90,
+          "Pris": 24.9,
           "Dato": "2025-05-10"
         },
         {
@@ -3559,7 +3795,7 @@
           "Dato": "2025-08-11"
         },
         {
-          "Pris": 59.90,
+          "Pris": 59.9,
           "Dato": "2025-08-18"
         },
         {
@@ -3571,17 +3807,17 @@
           "Dato": "2026-03-30"
         },
         {
-          "Pris": 54.90,
+          "Pris": 54.9,
           "Dato": "2026-04-07"
         }
       ]
     },
     {
-      "Navn": "Sjalottl\u00F8k 350g",
+      "Navn": "Sjalottløk 350g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 34.90,
+          "Pris": 34.9,
           "Dato": "2025-11-15"
         }
       ]
@@ -3591,7 +3827,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2026-02-21"
         }
       ]
@@ -3601,21 +3837,21 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2026-02-21"
         }
       ]
     },
     {
-      "Navn": "Sjokohassel n\u00F8tter 210g",
+      "Navn": "Sjokohassel nøtter 210g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 76.90,
+          "Pris": 76.9,
           "Dato": "2025-08-22"
         },
         {
-          "Pris": 78.90,
+          "Pris": 78.9,
           "Dato": "2025-09-26"
         }
       ]
@@ -3625,7 +3861,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2026-03-31"
         }
       ]
@@ -3635,7 +3871,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 33.90,
+          "Pris": 33.9,
           "Dato": "2025-08-20"
         }
       ]
@@ -3645,17 +3881,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 9.90,
+          "Pris": 9.9,
           "Dato": "2025-08-18"
         }
       ]
     },
     {
-      "Navn": "Sjokon\u00F8tt 350g",
+      "Navn": "Sjokonøtt 350g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 48.40,
+          "Pris": 48.4,
           "Dato": "2026-03-31"
         }
       ]
@@ -3665,11 +3901,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 9.40,
+          "Pris": 9.4,
           "Dato": "2025-07-11"
         },
         {
-          "Pris": 8.90,
+          "Pris": 8.9,
           "Dato": "2026-04-11"
         }
       ]
@@ -3679,23 +3915,13 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 15.40,
+          "Pris": 15.4,
           "Dato": "2026-01-16"
         }
       ]
     },
     {
-      "Navn": "Smash! 200g",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 39.90,
-          "Dato": "2025-12-06"
-        }
-      ]
-    },
-    {
-      "Navn": "Sm\u00E5godt pr kg",
+      "Navn": "Smågodt pr kg",
       "Enhet": "kg",
       "Priser": [
         {
@@ -3707,7 +3933,7 @@
           "Dato": "2025-07-31"
         },
         {
-          "Pris": 169.00,
+          "Pris": 169,
           "Dato": "2025-12-06"
         },
         {
@@ -3717,15 +3943,35 @@
       ]
     },
     {
+      "Navn": "Smash! 200g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 39.9,
+          "Dato": "2025-12-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Smør laktosefritt 250g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 38.9,
+          "Dato": "2026-04-27"
+        }
+      ]
+    },
+    {
       "Navn": "Snickers 2pk 75g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 25.40,
+          "Pris": 25.4,
           "Dato": "2025-05-10"
         },
         {
-          "Pris": 26.90,
+          "Pris": 26.9,
           "Dato": "2025-12-06"
         }
       ]
@@ -3735,7 +3981,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2026-02-24"
         }
       ]
@@ -3745,11 +3991,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 27.40,
+          "Pris": 27.4,
           "Dato": "2025-07-11"
         },
         {
-          "Pris": 28.40,
+          "Pris": 28.4,
           "Dato": "2026-02-19"
         }
       ]
@@ -3759,11 +4005,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 32.40,
+          "Pris": 32.4,
           "Dato": "2026-02-14"
         },
         {
-          "Pris": 31.90,
+          "Pris": 31.9,
           "Dato": "2026-02-21"
         }
       ]
@@ -3773,11 +4019,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 18.40,
+          "Pris": 18.4,
           "Dato": "2025-04-24"
         },
         {
-          "Pris": 17.90,
+          "Pris": 17.9,
           "Dato": "2026-04-07"
         }
       ]
@@ -3787,8 +4033,62 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 56.70,
+          "Pris": 56.7,
           "Dato": "2026-03-31"
+        }
+      ]
+    },
+    {
+      "Navn": "Sommeris appelsinsorbet 90ml",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 19.9,
+          "Dato": "2026-04-29"
+        }
+      ]
+    },
+    {
+      "Navn": "Sørlandschips jul m/ribbe 150g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 37.9,
+          "Dato": "2025-11-08"
+        }
+      ]
+    },
+    {
+      "Navn": "Sørlandschips spansk paprika 200g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 24.9,
+          "Dato": "2025-07-31"
+        },
+        {
+          "Pris": 31.9,
+          "Dato": "2025-08-22"
+        }
+      ]
+    },
+    {
+      "Navn": "Sørlandskomper 2pk 700g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 71.9,
+          "Dato": "2025-08-29"
+        }
+      ]
+    },
+    {
+      "Navn": "Søtpotet kg",
+      "Enhet": "kg",
+      "Priser": [
+        {
+          "Pris": 24.9,
+          "Dato": "2026-04-29"
         }
       ]
     },
@@ -3797,7 +4097,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 22.40,
+          "Pris": 22.4,
           "Dato": "2025-10-18"
         }
       ]
@@ -3807,18 +4107,28 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 11.90,
+          "Pris": 11.9,
           "Dato": "2026-03-18"
         }
       ]
     },
     {
-      "Navn": "Spylerv\u00E6ske -15c 4l",
+      "Navn": "Spylervæske -15c 4l",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 61.40,
+          "Pris": 61.4,
           "Dato": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Stålskrubb 1stk",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 6.9,
+          "Dato": "2026-04-11"
         }
       ]
     },
@@ -3827,7 +4137,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 37.90,
+          "Pris": 37.9,
           "Dato": "2025-09-26"
         }
       ]
@@ -3837,11 +4147,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 32.90,
+          "Pris": 32.9,
           "Dato": "2025-12-06"
         },
         {
-          "Pris": 32.50,
+          "Pris": 32.5,
           "Dato": "2026-03-27"
         }
       ]
@@ -3851,28 +4161,18 @@
       "Enhet": "kg",
       "Priser": [
         {
-          "Pris": 431.00,
+          "Pris": 431,
           "Dato": "2025-11-08"
         }
       ]
     },
     {
-      "Navn": "Strandaskinke rensk\u00E5ret 120g",
+      "Navn": "Strandaskinke renskåret 120g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 81.90,
+          "Pris": 81.9,
           "Dato": "2025-08-12"
-        }
-      ]
-    },
-    {
-      "Navn": "St\u00E5lskrubb 1stk",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 6.90,
-          "Dato": "2026-04-11"
         }
       ]
     },
@@ -3881,7 +4181,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 35.40,
+          "Pris": 35.4,
           "Dato": "2026-03-27"
         }
       ]
@@ -3891,7 +4191,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 48.40,
+          "Pris": 48.4,
           "Dato": "2026-02-14"
         }
       ]
@@ -3901,42 +4201,18 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 19.90,
+          "Pris": 19.9,
           "Dato": "2025-07-31"
         }
       ]
     },
     {
-      "Navn": "S\u00F8rlandschips jul m/ribbe 150g",
+      "Navn": "Taco kryddermix 28g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 37.90,
-          "Dato": "2025-11-08"
-        }
-      ]
-    },
-    {
-      "Navn": "S\u00F8rlandschips spansk paprika 200g",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 24.90,
-          "Dato": "2025-07-31"
-        },
-        {
-          "Pris": 31.90,
-          "Dato": "2025-08-22"
-        }
-      ]
-    },
-    {
-      "Navn": "S\u00F8rlandskomper 2pk 700g",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 71.90,
-          "Dato": "2025-08-29"
+          "Pris": 2.9,
+          "Dato": "2026-04-20"
         }
       ]
     },
@@ -3945,11 +4221,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 21.40,
+          "Pris": 21.4,
           "Dato": "2026-03-09"
         },
         {
-          "Pris": 20.40,
+          "Pris": 20.4,
           "Dato": "2026-03-31"
         }
       ]
@@ -3959,7 +4235,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 9.90,
+          "Pris": 9.9,
           "Dato": "2025-07-29"
         }
       ]
@@ -3969,15 +4245,15 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 22.90,
+          "Pris": 22.9,
           "Dato": "2026-01-16"
         },
         {
-          "Pris": 23.40,
+          "Pris": 23.4,
           "Dato": "2026-03-31"
         },
         {
-          "Pris": 14.00,
+          "Pris": 14,
           "Dato": "2026-04-11"
         }
       ]
@@ -3987,7 +4263,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 43.40,
+          "Pris": 43.4,
           "Dato": "2025-07-08"
         }
       ]
@@ -3997,17 +4273,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 44.40,
+          "Pris": 44.4,
           "Dato": "2026-04-08"
         }
       ]
     },
     {
-      "Navn": "Tast mat 15% mva \u00E5pen plu",
+      "Navn": "Tast mat 15% mva åpen plu",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 119.90,
+          "Pris": 119.9,
           "Dato": "2025-12-31"
         }
       ]
@@ -4017,11 +4293,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 67.90,
+          "Pris": 67.9,
           "Dato": "2025-06-06"
         },
         {
-          "Pris": 71.40,
+          "Pris": 71.4,
           "Dato": "2026-03-27"
         }
       ]
@@ -4031,7 +4307,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 16.90,
+          "Pris": 16.9,
           "Dato": "2025-11-15"
         }
       ]
@@ -4041,11 +4317,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 36.90,
+          "Pris": 36.9,
           "Dato": "2025-08-25"
         },
         {
-          "Pris": 37.90,
+          "Pris": 37.9,
           "Dato": "2026-04-08"
         }
       ]
@@ -4055,7 +4331,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 139.00,
+          "Pris": 139,
           "Dato": "2025-05-30"
         }
       ]
@@ -4065,7 +4341,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 69.90,
+          "Pris": 69.9,
           "Dato": "2025-05-10"
         }
       ]
@@ -4075,16 +4351,26 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 42.90,
+          "Pris": 42.9,
           "Dato": "2025-04-24"
         },
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2026-02-21"
         },
         {
-          "Pris": 41.90,
+          "Pris": 41.9,
           "Dato": "2026-04-04"
+        }
+      ]
+    },
+    {
+      "Navn": "Toast kneipp skivet 660g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 34.9,
+          "Dato": "2026-04-25"
         }
       ]
     },
@@ -4093,8 +4379,16 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 22.90,
+          "Pris": 22.9,
           "Dato": "2025-09-22"
+        },
+        {
+          "Pris": 19.9,
+          "Dato": "2026-04-27"
+        },
+        {
+          "Pris": 14.9,
+          "Dato": "2026-04-30"
         }
       ]
     },
@@ -4103,11 +4397,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 47.90,
+          "Pris": 47.9,
           "Dato": "2025-06-02"
         },
         {
-          "Pris": 56.90,
+          "Pris": 56.9,
           "Dato": "2026-03-31"
         }
       ]
@@ -4117,30 +4411,34 @@
       "Enhet": "kg",
       "Priser": [
         {
-          "Pris": 69.90,
+          "Pris": 69.9,
           "Dato": "2026-03-27"
         }
       ]
     },
     {
-      "Navn": "Tomat s\u00F8t 175g",
+      "Navn": "Tomat søt 175g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2025-06-27"
         },
         {
-          "Pris": 19.90,
+          "Pris": 19.9,
           "Dato": "2025-08-19"
         },
         {
-          "Pris": 32.90,
+          "Pris": 32.9,
           "Dato": "2025-11-11"
         },
         {
-          "Pris": 26.90,
+          "Pris": 26.9,
           "Dato": "2026-01-16"
+        },
+        {
+          "Pris": 25.9,
+          "Dato": "2026-04-22"
         }
       ]
     },
@@ -4149,15 +4447,15 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 6.30,
+          "Pris": 6.3,
           "Dato": "2025-06-07"
         },
         {
-          "Pris": 6.90,
+          "Pris": 6.9,
           "Dato": "2025-09-22"
         },
         {
-          "Pris": 7.20,
+          "Pris": 7.2,
           "Dato": "2026-04-01"
         }
       ]
@@ -4167,7 +4465,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 14.90,
+          "Pris": 14.9,
           "Dato": "2026-04-11"
         }
       ]
@@ -4181,38 +4479,80 @@
           "Dato": "2025-11-08"
         },
         {
-          "Pris": 44.90,
+          "Pris": 44.9,
           "Dato": "2025-12-06"
         }
       ]
     },
     {
-      "Navn": "Tomater solt\u00F8rkede 190g",
+      "Navn": "Tomater soltørkede 190g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 24.90,
+          "Pris": 24.9,
           "Dato": "2026-01-17"
         }
       ]
     },
     {
-      "Navn": "Tortelloni kylling\u0026bacon 250g",
+      "Navn": "Tørkerull hvit lambi 1/1pl",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 38.90,
+          "Pris": 49.9,
+          "Dato": "2025-05-10"
+        }
+      ]
+    },
+    {
+      "Navn": "Tørkerull kjøkken 4rl",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 27.9,
+          "Dato": "2025-06-07"
+        },
+        {
+          "Pris": 34.9,
+          "Dato": "2026-01-24"
+        },
+        {
+          "Pris": 36.9,
+          "Dato": "2026-04-11"
+        }
+      ]
+    },
+    {
+      "Navn": "Tortelloni kylling&bacon 250g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 38.9,
           "Dato": "2026-02-05"
         }
       ]
     },
     {
-      "Navn": "Tortelloni ost\u0026skinke 250g",
+      "Navn": "Tortelloni ost&skinke 250g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 38.90,
+          "Pris": 38.9,
           "Dato": "2026-02-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Tortilla 8pk 320g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 6.5,
+          "Dato": "2026-04-25"
+        },
+        {
+          "Pris": 10.9,
+          "Dato": "2026-04-30"
         }
       ]
     },
@@ -4221,11 +4561,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 27.90,
+          "Pris": 27.9,
           "Dato": "2026-04-01"
         },
         {
-          "Pris": 34.90,
+          "Pris": 34.9,
           "Dato": "2026-04-11"
         }
       ]
@@ -4235,23 +4575,23 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 20.50,
+          "Pris": 20.5,
           "Dato": "2025-04-28"
         },
         {
-          "Pris": 29.40,
+          "Pris": 29.4,
           "Dato": "2025-06-27"
         },
         {
-          "Pris": 30.40,
+          "Pris": 30.4,
           "Dato": "2026-03-09"
         },
         {
-          "Pris": 31.90,
+          "Pris": 31.9,
           "Dato": "2026-03-31"
         },
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2026-04-11"
         }
       ]
@@ -4261,11 +4601,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 36.90,
+          "Pris": 36.9,
           "Dato": "2025-06-27"
         },
         {
-          "Pris": 37.90,
+          "Pris": 37.9,
           "Dato": "2025-08-15"
         }
       ]
@@ -4275,7 +4615,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 24.20,
+          "Pris": 24.2,
           "Dato": "2025-11-08"
         }
       ]
@@ -4285,7 +4625,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 23.60,
+          "Pris": 23.6,
           "Dato": "2025-08-12"
         }
       ]
@@ -4295,40 +4635,12 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.40,
+          "Pris": 29.4,
           "Dato": "2026-01-24"
         },
         {
-          "Pris": 30.90,
+          "Pris": 30.9,
           "Dato": "2026-04-01"
-        }
-      ]
-    },
-    {
-      "Navn": "T\u00F8rkerull hvit lambi 1/1pl",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 49.90,
-          "Dato": "2025-05-10"
-        }
-      ]
-    },
-    {
-      "Navn": "T\u00F8rkerull kj\u00F8kken 4rl",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 27.90,
-          "Dato": "2025-06-07"
-        },
-        {
-          "Pris": 34.90,
-          "Dato": "2026-01-24"
-        },
-        {
-          "Pris": 36.90,
-          "Dato": "2026-04-11"
         }
       ]
     },
@@ -4337,11 +4649,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 17.90,
+          "Pris": 17.9,
           "Dato": "2025-06-07"
         },
         {
-          "Pris": 18.40,
+          "Pris": 18.4,
           "Dato": "2025-12-31"
         }
       ]
@@ -4351,7 +4663,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 24.90,
+          "Pris": 24.9,
           "Dato": "2025-04-24"
         }
       ]
@@ -4361,7 +4673,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 119.90,
+          "Pris": 119.9,
           "Dato": "2025-12-22"
         }
       ]
@@ -4371,17 +4683,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2025-07-28"
         }
       ]
     },
     {
-      "Navn": "Vestlandslefsa m/sukker\u0026kanel 5pk 230g",
+      "Navn": "Vestlandslefsa m/sukker&kanel 5pk 230g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 34.90,
+          "Pris": 34.9,
           "Dato": "2026-04-04"
         }
       ]
@@ -4391,7 +4703,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 25.90,
+          "Pris": 25.9,
           "Dato": "2025-08-29"
         }
       ]
@@ -4401,7 +4713,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 32.90,
+          "Pris": 32.9,
           "Dato": "2026-01-24"
         }
       ]
@@ -4411,7 +4723,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 48.90,
+          "Pris": 48.9,
           "Dato": "2026-03-30"
         }
       ]
@@ -4421,11 +4733,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 25.90,
+          "Pris": 25.9,
           "Dato": "2025-08-29"
         },
         {
-          "Pris": 15.90,
+          "Pris": 15.9,
           "Dato": "2026-04-15"
         }
       ]
@@ -4435,17 +4747,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 30.40,
+          "Pris": 30.4,
           "Dato": "2025-05-10"
         }
       ]
     },
     {
-      "Navn": "Yoghurt skogsb\u00E6r 800g",
+      "Navn": "Yoghurt skogsbær 800g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.70,
+          "Pris": 39.7,
           "Dato": "2026-01-16"
         }
       ]
@@ -4455,11 +4767,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 26.90,
+          "Pris": 26.9,
           "Dato": "2026-03-31"
         },
         {
-          "Pris": 27.40,
+          "Pris": 27.4,
           "Dato": "2026-04-15"
         }
       ]
@@ -4469,21 +4781,21 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 49.90,
+          "Pris": 49.9,
           "Dato": "2025-06-27"
         },
         {
-          "Pris": 51.90,
+          "Pris": 51.9,
           "Dato": "2025-08-20"
         }
       ]
     },
     {
-      "Navn": "Zendium tannkrem fresh\u0026white 75ml",
+      "Navn": "Zendium tannkrem fresh&white 75ml",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 28.40,
+          "Pris": 28.4,
           "Dato": "2025-08-22"
         }
       ]
@@ -4495,11 +4807,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 26.90,
+          "Pris": 26.9,
           "Dato": "2025-05-03"
         },
         {
-          "Pris": 30.90,
+          "Pris": 30.9,
           "Dato": "2025-12-30"
         }
       ]
@@ -4509,7 +4821,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 19.90,
+          "Pris": 19.9,
           "Dato": "2025-12-04"
         }
       ]
@@ -4519,17 +4831,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 32.90,
+          "Pris": 32.9,
           "Dato": "2025-05-14"
         }
       ]
     },
     {
-      "Navn": "Ajax allrengj\u00F8ring original 1l",
+      "Navn": "Ajax allrengjøring original 1l",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 49.90,
+          "Pris": 49.9,
           "Dato": "2025-09-17"
         }
       ]
@@ -4539,7 +4851,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 69.90,
+          "Pris": 69.9,
           "Dato": "2026-03-28"
         }
       ]
@@ -4559,7 +4871,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 44.90,
+          "Pris": 44.9,
           "Dato": "2025-07-14"
         }
       ]
@@ -4569,7 +4881,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 23.90,
+          "Pris": 23.9,
           "Dato": "2025-07-14"
         }
       ]
@@ -4579,7 +4891,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 89.00,
+          "Pris": 89,
           "Dato": "2026-03-28"
         }
       ]
@@ -4589,27 +4901,27 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 61.80,
+          "Pris": 61.8,
           "Dato": "2025-09-24"
         }
       ]
     },
     {
-      "Navn": "Asian wok oyster\u0026garlic 150g",
+      "Navn": "Asian wok oyster&garlic 150g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 26.90,
+          "Pris": 26.9,
           "Dato": "2025-12-02"
         }
       ]
     },
     {
-      "Navn": "Asparges gr\u00F8nn bunt 250g",
+      "Navn": "Asparges grønn bunt 250g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 69.90,
+          "Pris": 69.9,
           "Dato": "2026-03-14"
         }
       ]
@@ -4619,11 +4931,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 14.90,
+          "Pris": 14.9,
           "Dato": "2025-09-13"
         },
         {
-          "Pris": 16.90,
+          "Pris": 16.9,
           "Dato": "2025-11-21"
         }
       ]
@@ -4633,21 +4945,21 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 17.90,
+          "Pris": 17.9,
           "Dato": "2025-04-29"
         },
         {
-          "Pris": 18.90,
+          "Pris": 18.9,
           "Dato": "2025-12-30"
         }
       ]
     },
     {
-      "Navn": "Avfallsposer m/sn\u00F8relukking 30l 15stk",
+      "Navn": "Avfallsposer m/snørelukking 30l 15stk",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 19.90,
+          "Pris": 19.9,
           "Dato": "2025-05-03"
         }
       ]
@@ -4657,17 +4969,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 32.50,
+          "Pris": 32.5,
           "Dato": "2025-09-23"
         }
       ]
     },
     {
-      "Navn": "Bacon ternet r\u00F8kt p\u00E5 b\u00F8keflis 2x125g",
+      "Navn": "Bacon ternet røkt på bøkeflis 2x125g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 52.50,
+          "Pris": 52.5,
           "Dato": "2025-10-06"
         }
       ]
@@ -4677,17 +4989,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 15.00,
+          "Pris": 15,
           "Dato": "2025-10-29"
         }
       ]
     },
     {
-      "Navn": "Baconp\u00F8lse 80% 240g",
+      "Navn": "Baconpølse 80% 240g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 59.90,
+          "Pris": 59.9,
           "Dato": "2025-11-27"
         }
       ]
@@ -4697,7 +5009,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 45.90,
+          "Pris": 45.9,
           "Dato": "2025-08-07"
         }
       ]
@@ -4707,7 +5019,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 12.90,
+          "Pris": 12.9,
           "Dato": "2025-09-10"
         }
       ]
@@ -4717,7 +5029,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 17.90,
+          "Pris": 17.9,
           "Dato": "2026-03-28"
         }
       ]
@@ -4727,11 +5039,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 15.50,
+          "Pris": 15.5,
           "Dato": "2025-05-14"
         },
         {
-          "Pris": 14.90,
+          "Pris": 14.9,
           "Dato": "2026-03-21"
         }
       ]
@@ -4741,27 +5053,27 @@
       "Enhet": "kg",
       "Priser": [
         {
-          "Pris": 64.90,
+          "Pris": 64.9,
           "Dato": "2026-03-28"
         }
       ]
     },
     {
-      "Navn": "Balsamico \u00F8kologisk 250ml",
+      "Navn": "Balsamico økologisk 250ml",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 74.50,
+          "Pris": 74.5,
           "Dato": "2026-03-28"
         }
       ]
     },
     {
-      "Navn": "Barmix sweet\u0026sour 450g",
+      "Navn": "Barmix sweet&sour 450g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 125.00,
+          "Pris": 125,
           "Dato": "2025-07-14"
         }
       ]
@@ -4771,51 +5083,51 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 35.90,
+          "Pris": 35.9,
           "Dato": "2025-10-11"
         },
         {
-          "Pris": 36.90,
+          "Pris": 36.9,
           "Dato": "2026-03-28"
         }
       ]
     },
     {
-      "Navn": "Biffsm\u00F8r pepper og hvitl\u00F8k 65g",
+      "Navn": "Biffsmør pepper og hvitløk 65g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 25.90,
+          "Pris": 25.9,
           "Dato": "2026-03-28"
         }
       ]
     },
     {
-      "Navn": "Biola syrnet melk jordb\u00E6r 1000g",
+      "Navn": "Biola syrnet melk jordbær 1000g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 36.90,
+          "Pris": 36.9,
           "Dato": "2025-12-20"
         }
       ]
     },
     {
-      "Navn": "Bl\u00E5b\u00E6r 125g",
+      "Navn": "Blåbær 125g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2025-05-14"
         }
       ]
     },
     {
-      "Navn": "Bl\u00E5b\u00E6r 400g",
+      "Navn": "Blåbær 400g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 69.90,
+          "Pris": 69.9,
           "Dato": "2025-05-15"
         }
       ]
@@ -4825,7 +5137,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 10.90,
+          "Pris": 10.9,
           "Dato": "2025-09-25"
         }
       ]
@@ -4835,7 +5147,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 14.40,
+          "Pris": 14.4,
           "Dato": "2025-12-30"
         }
       ]
@@ -4845,22 +5157,42 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 10.90,
+          "Pris": 10.9,
           "Dato": "2025-04-29"
         },
         {
-          "Pris": 11.90,
+          "Pris": 11.9,
           "Dato": "2025-11-19"
         }
       ]
     },
     {
-      "Navn": "Bringeb\u00E6r 125g",
+      "Navn": "Bønner sorte økologisk 380g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 54.90,
+          "Pris": 15.9,
+          "Dato": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Bringebær 125g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 54.9,
           "Dato": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "Navn": "Brødposer 6l 65stk",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 21.9,
+          "Dato": "2025-09-13"
         }
       ]
     },
@@ -4869,18 +5201,8 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 34.90,
+          "Pris": 34.9,
           "Dato": "2026-03-28"
-        }
-      ]
-    },
-    {
-      "Navn": "Br\u00F8dposer 6l 65stk",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 21.90,
-          "Dato": "2025-09-13"
         }
       ]
     },
@@ -4889,7 +5211,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2025-11-21"
         }
       ]
@@ -4899,7 +5221,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 59.90,
+          "Pris": 59.9,
           "Dato": "2025-12-30"
         }
       ]
@@ -4909,17 +5231,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 59.90,
+          "Pris": 59.9,
           "Dato": "2025-05-13"
         }
       ]
     },
     {
-      "Navn": "Burgerbr\u00F8d store m/sesam 6stk 540g",
+      "Navn": "Burgerbrød store m/sesam 6stk 540g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 35.90,
+          "Pris": 35.9,
           "Dato": "2025-05-13"
         }
       ]
@@ -4929,18 +5251,8 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 89.00,
+          "Pris": 89,
           "Dato": "2025-08-27"
-        }
-      ]
-    },
-    {
-      "Navn": "B\u00F8nner sorte \u00F8kologisk 380g",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 15.90,
-          "Dato": "2026-03-21"
         }
       ]
     },
@@ -4949,7 +5261,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 24.90,
+          "Pris": 24.9,
           "Dato": "2025-05-13"
         }
       ]
@@ -4959,7 +5271,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 89.00,
+          "Pris": 89,
           "Dato": "2025-07-07"
         }
       ]
@@ -4969,17 +5281,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 26.90,
+          "Pris": 26.9,
           "Dato": "2025-05-13"
         }
       ]
     },
     {
-      "Navn": "Chilipepper r\u00F8d pk",
+      "Navn": "Chilipepper rød pk",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 19.90,
+          "Pris": 19.9,
           "Dato": "2026-03-21"
         }
       ]
@@ -4989,7 +5301,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 48.50,
+          "Pris": 48.5,
           "Dato": "2025-10-07"
         }
       ]
@@ -4999,7 +5311,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 59.90,
+          "Pris": 59.9,
           "Dato": "2025-11-27"
         }
       ]
@@ -5009,11 +5321,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 21.50,
+          "Pris": 21.5,
           "Dato": "2025-10-21"
         },
         {
-          "Pris": 21.90,
+          "Pris": 21.9,
           "Dato": "2025-12-30"
         }
       ]
@@ -5023,7 +5335,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 25.90,
+          "Pris": 25.9,
           "Dato": "2025-05-27"
         }
       ]
@@ -5033,7 +5345,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 27.90,
+          "Pris": 27.9,
           "Dato": "2025-12-20"
         }
       ]
@@ -5043,7 +5355,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 21.90,
+          "Pris": 21.9,
           "Dato": "2025-09-24"
         }
       ]
@@ -5053,7 +5365,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 107.00,
+          "Pris": 107,
           "Dato": "2025-12-20"
         }
       ]
@@ -5063,7 +5375,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 30.90,
+          "Pris": 30.9,
           "Dato": "2025-12-04"
         }
       ]
@@ -5073,11 +5385,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 37.90,
+          "Pris": 37.9,
           "Dato": "2025-11-07"
         },
         {
-          "Pris": 34.90,
+          "Pris": 34.9,
           "Dato": "2026-03-21"
         }
       ]
@@ -5087,7 +5399,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.50,
+          "Pris": 29.5,
           "Dato": "2026-03-14"
         }
       ]
@@ -5097,7 +5409,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 16.90,
+          "Pris": 16.9,
           "Dato": "2025-10-29"
         }
       ]
@@ -5107,11 +5419,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2025-11-22"
         },
         {
-          "Pris": 41.90,
+          "Pris": 41.9,
           "Dato": "2026-03-28"
         }
       ]
@@ -5121,7 +5433,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 24.90,
+          "Pris": 24.9,
           "Dato": "2025-09-25"
         }
       ]
@@ -5131,7 +5443,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 58.90,
+          "Pris": 58.9,
           "Dato": "2025-06-14"
         }
       ]
@@ -5141,7 +5453,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 34.90,
+          "Pris": 34.9,
           "Dato": "2025-11-27"
         }
       ]
@@ -5151,7 +5463,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 67.90,
+          "Pris": 67.9,
           "Dato": "2025-10-18"
         }
       ]
@@ -5161,7 +5473,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 17.90,
+          "Pris": 17.9,
           "Dato": "2025-07-14"
         }
       ]
@@ -5171,17 +5483,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 18.90,
+          "Pris": 18.9,
           "Dato": "2025-07-14"
         }
       ]
     },
     {
-      "Navn": "Doc honning\u0026lakris 50g",
+      "Navn": "Doc honning&lakris 50g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 31.90,
+          "Pris": 31.9,
           "Dato": "2026-01-30"
         }
       ]
@@ -5191,7 +5503,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 38.50,
+          "Pris": 38.5,
           "Dato": "2025-12-20"
         }
       ]
@@ -5201,11 +5513,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 55.90,
+          "Pris": 55.9,
           "Dato": "2025-05-27"
         },
         {
-          "Pris": 57.90,
+          "Pris": 57.9,
           "Dato": "2025-11-18"
         }
       ]
@@ -5215,7 +5527,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 49.90,
+          "Pris": 49.9,
           "Dato": "2025-09-24"
         }
       ]
@@ -5225,7 +5537,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2025-10-06"
         }
       ]
@@ -5235,7 +5547,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2025-05-15"
         }
       ]
@@ -5245,21 +5557,21 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 103.00,
+          "Pris": 103,
           "Dato": "2025-12-04"
         },
         {
-          "Pris": 107.00,
+          "Pris": 107,
           "Dato": "2026-01-30"
         }
       ]
     },
     {
-      "Navn": "Farris frus eple\u0026kiwi 1,5l",
+      "Navn": "Farris frus eple&kiwi 1,5l",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 36.90,
+          "Pris": 36.9,
           "Dato": "2026-03-28"
         }
       ]
@@ -5269,37 +5581,37 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 73.40,
+          "Pris": 73.4,
           "Dato": "2025-05-16"
         }
       ]
     },
     {
-      "Navn": "Fiberbr\u00F8d funkygine 700g",
+      "Navn": "Fiberbrød funkygine 700g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 47.50,
+          "Pris": 47.5,
           "Dato": "2025-12-20"
         }
       ]
     },
     {
-      "Navn": "Fish\u0026crisp gourmet 480g",
+      "Navn": "Fish&crisp gourmet 480g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 83.00,
+          "Pris": 83,
           "Dato": "2025-12-04"
         }
       ]
     },
     {
-      "Navn": "Formloff sk\u00E5ret 600g",
+      "Navn": "Formloff skåret 600g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 46.50,
+          "Pris": 46.5,
           "Dato": "2026-04-15"
         }
       ]
@@ -5309,7 +5621,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 51.00,
+          "Pris": 51,
           "Dato": "2025-05-14"
         }
       ]
@@ -5319,7 +5631,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 89.00,
+          "Pris": 89,
           "Dato": "2025-12-20"
         }
       ]
@@ -5329,33 +5641,33 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 32.90,
+          "Pris": 32.9,
           "Dato": "2025-05-15"
         },
         {
-          "Pris": 33.50,
+          "Pris": 33.5,
           "Dato": "2025-11-27"
         },
         {
-          "Pris": 34.50,
+          "Pris": 34.5,
           "Dato": "2026-03-28"
         }
       ]
     },
     {
-      "Navn": "Frokostegg frittg\u00E5ende l 12stk",
+      "Navn": "Frokostegg frittgående l 12stk",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 56.90,
+          "Pris": 56.9,
           "Dato": "2025-05-14"
         },
         {
-          "Pris": 62.90,
+          "Pris": 62.9,
           "Dato": "2025-11-27"
         },
         {
-          "Pris": 66.50,
+          "Pris": 66.5,
           "Dato": "2026-03-28"
         }
       ]
@@ -5365,8 +5677,18 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 239.00,
+          "Pris": 239,
           "Dato": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Gårdsegg m/l 12stk",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 53.9,
+          "Dato": "2025-05-03"
         }
       ]
     },
@@ -5393,21 +5715,21 @@
       ]
     },
     {
-      "Navn": "Gigant-mais ristede\u0026saltet 400g",
+      "Navn": "Gigant-mais ristede&saltet 400g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 72.90,
+          "Pris": 72.9,
           "Dato": "2026-03-28"
         }
       ]
     },
     {
-      "Navn": "Grillp\u00F8lse 600g",
+      "Navn": "Grillpølse 600g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 49.90,
+          "Pris": 49.9,
           "Dato": "2025-04-29"
         }
       ]
@@ -5431,7 +5753,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 49.90,
+          "Pris": 49.9,
           "Dato": "2025-12-20"
         }
       ]
@@ -5441,11 +5763,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 42.90,
+          "Pris": 42.9,
           "Dato": "2025-08-27"
         },
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2026-03-21"
         }
       ]
@@ -5455,11 +5777,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 42.90,
+          "Pris": 42.9,
           "Dato": "2025-10-11"
         },
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2025-12-19"
         }
       ]
@@ -5469,7 +5791,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 40.90,
+          "Pris": 40.9,
           "Dato": "2025-12-30"
         }
       ]
@@ -5479,11 +5801,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 18.90,
+          "Pris": 18.9,
           "Dato": "2025-05-03"
         },
         {
-          "Pris": 16.90,
+          "Pris": 16.9,
           "Dato": "2025-12-02"
         }
       ]
@@ -5493,17 +5815,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 15.90,
-          "Dato": "2025-05-03"
-        }
-      ]
-    },
-    {
-      "Navn": "G\u00E5rdsegg m/l 12stk",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 53.90,
+          "Pris": 15.9,
           "Dato": "2025-05-03"
         }
       ]
@@ -5513,7 +5825,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 23.90,
+          "Pris": 23.9,
           "Dato": "2025-12-02"
         }
       ]
@@ -5523,7 +5835,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 21.90,
+          "Pris": 21.9,
           "Dato": "2025-12-02"
         }
       ]
@@ -5533,7 +5845,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 131.40,
+          "Pris": 131.4,
           "Dato": "2025-12-19"
         }
       ]
@@ -5543,11 +5855,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 283.00,
+          "Pris": 283,
           "Dato": "2025-09-13"
         },
         {
-          "Pris": 279.00,
+          "Pris": 279,
           "Dato": "2025-12-30"
         }
       ]
@@ -5557,7 +5869,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 334.80,
+          "Pris": 334.8,
           "Dato": "2025-05-14"
         }
       ]
@@ -5567,17 +5879,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 16.90,
+          "Pris": 16.9,
           "Dato": "2025-05-13"
         }
       ]
     },
     {
-      "Navn": "Head\u0026shoulder shampoo apple fresh 400ml",
+      "Navn": "Head&shoulder shampoo apple fresh 400ml",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 74.90,
+          "Pris": 74.9,
           "Dato": "2025-09-24"
         }
       ]
@@ -5587,7 +5899,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 135.00,
+          "Pris": 135,
           "Dato": "2026-01-30"
         }
       ]
@@ -5597,7 +5909,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 16.90,
+          "Pris": 16.9,
           "Dato": "2026-03-14"
         }
       ]
@@ -5607,31 +5919,31 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 49.50,
+          "Pris": 49.5,
           "Dato": "2025-12-20"
         }
       ]
     },
     {
-      "Navn": "Hvitl\u00F8k 100g",
+      "Navn": "Hvitløk 100g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 18.90,
+          "Pris": 18.9,
           "Dato": "2025-05-03"
         },
         {
-          "Pris": 19.90,
+          "Pris": 19.9,
           "Dato": "2026-03-28"
         }
       ]
     },
     {
-      "Navn": "Hvitl\u00F8kssm\u00F8r 65g",
+      "Navn": "Hvitløkssmør 65g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 25.90,
+          "Pris": 25.9,
           "Dato": "2026-03-28"
         }
       ]
@@ -5641,11 +5953,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 27.90,
+          "Pris": 27.9,
           "Dato": "2025-05-09"
         },
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2025-07-01"
         }
       ]
@@ -5655,11 +5967,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 35.50,
+          "Pris": 35.5,
           "Dato": "2025-05-16"
         },
         {
-          "Pris": 35.90,
+          "Pris": 35.9,
           "Dato": "2025-12-30"
         }
       ]
@@ -5669,7 +5981,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 20.50,
+          "Pris": 20.5,
           "Dato": "2026-03-21"
         }
       ]
@@ -5679,7 +5991,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 44.50,
+          "Pris": 44.5,
           "Dato": "2025-07-01"
         }
       ]
@@ -5689,37 +6001,37 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 51.50,
+          "Pris": 51.5,
           "Dato": "2025-12-30"
         }
       ]
     },
     {
-      "Navn": "Jordan tannb\u00F8rste individual precision",
+      "Navn": "Jordan tannbørste individual precision",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 33.90,
+          "Pris": 33.9,
           "Dato": "2025-05-14"
         }
       ]
     },
     {
-      "Navn": "Jordb\u00E6r 500g",
+      "Navn": "Jordbær 500g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 59.90,
+          "Pris": 59.9,
           "Dato": "2025-05-16"
         }
       ]
     },
     {
-      "Navn": "Jordb\u00E6r norsk 500g",
+      "Navn": "Jordbær norsk 500g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 49.90,
+          "Pris": 49.9,
           "Dato": "2025-05-15"
         }
       ]
@@ -5729,7 +6041,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2025-12-20"
         }
       ]
@@ -5739,7 +6051,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 49.90,
+          "Pris": 49.9,
           "Dato": "2026-03-14"
         }
       ]
@@ -5749,7 +6061,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 72.90,
+          "Pris": 72.9,
           "Dato": "2025-05-27"
         }
       ]
@@ -5759,11 +6071,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 93.00,
+          "Pris": 93,
           "Dato": "2025-10-11"
         },
         {
-          "Pris": 97.00,
+          "Pris": 97,
           "Dato": "2026-03-21"
         }
       ]
@@ -5773,17 +6085,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 93.00,
+          "Pris": 93,
           "Dato": "2025-09-30"
         }
       ]
     },
     {
-      "Navn": "Kidneyb\u00F8nner 380g",
+      "Navn": "Kidneybønner 380g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 9.90,
+          "Pris": 9.9,
           "Dato": "2025-09-30"
         }
       ]
@@ -5793,41 +6105,41 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 11.90,
+          "Pris": 11.9,
           "Dato": "2025-12-22"
         }
       ]
     },
     {
-      "Navn": "Kj\u00F8ttboller spicy 120g",
+      "Navn": "Kjøttboller spicy 120g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 44.90,
+          "Pris": 44.9,
           "Dato": "2025-11-18"
         }
       ]
     },
     {
-      "Navn": "Kj\u00F8ttdeig svin 9% u/salt og vann 300g",
+      "Navn": "Kjøttdeig svin 9% u/salt og vann 300g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 61.90,
+          "Pris": 61.9,
           "Dato": "2026-03-28"
         }
       ]
     },
     {
-      "Navn": "Kj\u00F8ttdeig svin 9% u/salt og vann 400g",
+      "Navn": "Kjøttdeig svin 9% u/salt og vann 400g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 65.90,
+          "Pris": 65.9,
           "Dato": "2025-05-09"
         },
         {
-          "Pris": 69.90,
+          "Pris": 69.9,
           "Dato": "2025-12-19"
         }
       ]
@@ -5837,7 +6149,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 32.90,
+          "Pris": 32.9,
           "Dato": "2025-05-14"
         }
       ]
@@ -5847,7 +6159,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 18.90,
+          "Pris": 18.9,
           "Dato": "2025-12-30"
         }
       ]
@@ -5857,17 +6169,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 47.90,
+          "Pris": 47.9,
           "Dato": "2026-03-14"
         }
       ]
     },
     {
-      "Navn": "Kokosolje ex virgin \u00F8kol 220ml",
+      "Navn": "Kokosolje ex virgin økol 220ml",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 81.00,
+          "Pris": 81,
           "Dato": "2025-12-20"
         }
       ]
@@ -5877,15 +6189,15 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 32.50,
+          "Pris": 32.5,
           "Dato": "2025-05-03"
         },
         {
-          "Pris": 33.50,
+          "Pris": 33.5,
           "Dato": "2025-06-14"
         },
         {
-          "Pris": 35.90,
+          "Pris": 35.9,
           "Dato": "2025-12-30"
         }
       ]
@@ -5895,7 +6207,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 21.90,
+          "Pris": 21.9,
           "Dato": "2026-03-28"
         }
       ]
@@ -5905,7 +6217,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 46.90,
+          "Pris": 46.9,
           "Dato": "2026-03-28"
         }
       ]
@@ -5915,11 +6227,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 115.00,
+          "Pris": 115,
           "Dato": "2025-08-07"
         },
         {
-          "Pris": 112.00,
+          "Pris": 112,
           "Dato": "2025-09-17"
         }
       ]
@@ -5929,29 +6241,29 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 35.90,
+          "Pris": 35.9,
           "Dato": "2025-11-19"
         }
       ]
     },
     {
-      "Navn": "Kremfl\u00F8te 37% 3dl",
+      "Navn": "Kremfløte 37% 3dl",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 25.50,
+          "Pris": 25.5,
           "Dato": "2025-05-15"
         },
         {
-          "Pris": 25.90,
+          "Pris": 25.9,
           "Dato": "2025-10-11"
         },
         {
-          "Pris": 22.90,
+          "Pris": 22.9,
           "Dato": "2025-12-20"
         },
         {
-          "Pris": 21.50,
+          "Pris": 21.5,
           "Dato": "2026-03-28"
         }
       ]
@@ -5961,7 +6273,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 21.90,
+          "Pris": 21.9,
           "Dato": "2025-12-30"
         }
       ]
@@ -5971,7 +6283,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 22.90,
+          "Pris": 22.9,
           "Dato": "2025-10-11"
         }
       ]
@@ -5981,7 +6293,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 109.00,
+          "Pris": 109,
           "Dato": "2025-10-11"
         }
       ]
@@ -5991,15 +6303,15 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 92.00,
+          "Pris": 92,
           "Dato": "2025-05-03"
         },
         {
-          "Pris": 99.00,
+          "Pris": 99,
           "Dato": "2025-11-19"
         },
         {
-          "Pris": 89.00,
+          "Pris": 89,
           "Dato": "2025-12-02"
         }
       ]
@@ -6015,21 +6327,21 @@
       ]
     },
     {
-      "Navn": "Kyllingl\u00E5r grillet 1120g",
+      "Navn": "Kyllinglår grillet 1120g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 149.00,
+          "Pris": 149,
           "Dato": "2025-07-01"
         }
       ]
     },
     {
-      "Navn": "Kyllingl\u00E5r grillet pr stk",
+      "Navn": "Kyllinglår grillet pr stk",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 36.90,
+          "Pris": 36.9,
           "Dato": "2025-09-10"
         }
       ]
@@ -6039,23 +6351,23 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 37.30,
+          "Pris": 37.3,
           "Dato": "2025-05-09"
         },
         {
-          "Pris": 38.90,
+          "Pris": 38.9,
           "Dato": "2025-06-28"
         },
         {
-          "Pris": 38.40,
+          "Pris": 38.4,
           "Dato": "2025-07-14"
         },
         {
-          "Pris": 38.60,
+          "Pris": 38.6,
           "Dato": "2025-12-30"
         },
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2026-03-14"
         }
       ]
@@ -6065,21 +6377,21 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 22.50,
+          "Pris": 22.5,
           "Dato": "2025-10-21"
         }
       ]
     },
     {
-      "Navn": "Lettr\u00F8mme 17% 300g",
+      "Navn": "Lettrømme 17% 300g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 23.70,
+          "Pris": 23.7,
           "Dato": "2025-12-19"
         },
         {
-          "Pris": 24.90,
+          "Pris": 24.9,
           "Dato": "2026-03-28"
         }
       ]
@@ -6089,7 +6401,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 99.00,
+          "Pris": 99,
           "Dato": "2025-10-11"
         }
       ]
@@ -6113,7 +6425,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 25.20,
+          "Pris": 25.2,
           "Dato": "2025-07-14"
         }
       ]
@@ -6123,21 +6435,21 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 51.90,
+          "Pris": 51.9,
           "Dato": "2026-03-14"
         }
       ]
     },
     {
-      "Navn": "L\u00F8k spr\u00F8stekt 100g",
+      "Navn": "Løk sprøstekt 100g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 8.90,
+          "Pris": 8.9,
           "Dato": "2025-04-29"
         },
         {
-          "Pris": 21.50,
+          "Pris": 21.5,
           "Dato": "2025-11-27"
         }
       ]
@@ -6147,7 +6459,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 46.90,
+          "Pris": 46.9,
           "Dato": "2025-05-27"
         }
       ]
@@ -6157,7 +6469,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 23.90,
+          "Pris": 23.9,
           "Dato": "2025-11-19"
         }
       ]
@@ -6167,7 +6479,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 44.90,
+          "Pris": 44.9,
           "Dato": "2026-03-28"
         }
       ]
@@ -6177,31 +6489,31 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 46.90,
+          "Pris": 46.9,
           "Dato": "2025-05-03"
         }
       ]
     },
     {
-      "Navn": "Mango\u0026strawberry 20pos twinings",
+      "Navn": "Mango&strawberry 20pos twinings",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 72.90,
+          "Pris": 72.9,
           "Dato": "2025-12-02"
         }
       ]
     },
     {
-      "Navn": "Meierism\u00F8r 250g",
+      "Navn": "Meierismør 250g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 47.00,
+          "Pris": 47,
           "Dato": "2025-09-02"
         },
         {
-          "Pris": 43.90,
+          "Pris": 43.9,
           "Dato": "2025-09-10"
         }
       ]
@@ -6211,7 +6523,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 41.90,
+          "Pris": 41.9,
           "Dato": "2026-03-14"
         }
       ]
@@ -6221,7 +6533,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 25.90,
+          "Pris": 25.9,
           "Dato": "2025-05-15"
         }
       ]
@@ -6231,7 +6543,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 76.90,
+          "Pris": 76.9,
           "Dato": "2025-12-22"
         }
       ]
@@ -6241,7 +6553,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 70.50,
+          "Pris": 70.5,
           "Dato": "2025-09-13"
         }
       ]
@@ -6251,7 +6563,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 60.90,
+          "Pris": 60.9,
           "Dato": "2025-05-03"
         }
       ]
@@ -6261,7 +6573,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 22.90,
+          "Pris": 22.9,
           "Dato": "2025-12-22"
         }
       ]
@@ -6271,7 +6583,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 22.90,
+          "Pris": 22.9,
           "Dato": "2025-12-22"
         }
       ]
@@ -6281,7 +6593,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 18.90,
+          "Pris": 18.9,
           "Dato": "2025-12-30"
         }
       ]
@@ -6291,8 +6603,18 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2025-09-17"
+        }
+      ]
+    },
+    {
+      "Navn": "Møllehjul fullkorn 420g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 36.2,
+          "Dato": "2025-06-13"
         }
       ]
     },
@@ -6301,7 +6623,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2025-08-07"
         }
       ]
@@ -6311,7 +6633,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 28.90,
+          "Pris": 28.9,
           "Dato": "2025-05-03"
         }
       ]
@@ -6321,32 +6643,22 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 41.90,
+          "Pris": 41.9,
           "Dato": "2026-01-30"
         },
         {
-          "Pris": 43.90,
+          "Pris": 43.9,
           "Dato": "2026-03-28"
         }
       ]
     },
     {
-      "Navn": "Munns\u00E5rplaster 15stk",
+      "Navn": "Munnsårplaster 15stk",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 199.00,
+          "Pris": 199,
           "Dato": "2025-12-20"
-        }
-      ]
-    },
-    {
-      "Navn": "M\u00F8llehjul fullkorn 420g",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 36.20,
-          "Dato": "2025-06-13"
         }
       ]
     },
@@ -6355,7 +6667,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 35.90,
+          "Pris": 35.9,
           "Dato": "2025-12-02"
         }
       ]
@@ -6365,11 +6677,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 133.00,
+          "Pris": 133,
           "Dato": "2025-12-20"
         },
         {
-          "Pris": 139.00,
+          "Pris": 139,
           "Dato": "2026-01-30"
         }
       ]
@@ -6379,7 +6691,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 41.90,
+          "Pris": 41.9,
           "Dato": "2025-10-07"
         }
       ]
@@ -6389,7 +6701,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 49.90,
+          "Pris": 49.9,
           "Dato": "2026-03-28"
         }
       ]
@@ -6399,19 +6711,19 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 79.90,
+          "Pris": 79.9,
           "Dato": "2025-05-09"
         },
         {
-          "Pris": 81.00,
+          "Pris": 81,
           "Dato": "2025-06-14"
         },
         {
-          "Pris": 85.00,
+          "Pris": 85,
           "Dato": "2025-11-22"
         },
         {
-          "Pris": 89.00,
+          "Pris": 89,
           "Dato": "2026-03-28"
         }
       ]
@@ -6421,7 +6733,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 76.90,
+          "Pris": 76.9,
           "Dato": "2026-03-21"
         }
       ]
@@ -6431,17 +6743,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 139.00,
+          "Pris": 139,
           "Dato": "2026-03-28"
         }
       ]
     },
     {
-      "Navn": "Opph\u00F8gde potteter m/krydder 450g",
+      "Navn": "Opphøgde potteter m/krydder 450g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 54.50,
+          "Pris": 54.5,
           "Dato": "2025-07-14"
         }
       ]
@@ -6451,7 +6763,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 41.90,
+          "Pris": 41.9,
           "Dato": "2025-12-22"
         }
       ]
@@ -6461,7 +6773,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 22.90,
+          "Pris": 22.9,
           "Dato": "2025-12-20"
         }
       ]
@@ -6471,17 +6783,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 19.90,
+          "Pris": 19.9,
           "Dato": "2025-10-18"
         }
       ]
     },
     {
-      "Navn": "Paprika r\u00F8d s\u00F8t spiss 300g",
+      "Navn": "Paprika rød søt spiss 300g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 49.90,
+          "Pris": 49.9,
           "Dato": "2026-03-28"
         }
       ]
@@ -6491,7 +6803,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 52.90,
+          "Pris": 52.9,
           "Dato": "2025-06-13"
         }
       ]
@@ -6501,7 +6813,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 99.00,
+          "Pris": 99,
           "Dato": "2026-01-30"
         }
       ]
@@ -6511,7 +6823,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 34.90,
+          "Pris": 34.9,
           "Dato": "2025-12-30"
         }
       ]
@@ -6521,7 +6833,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 89.00,
+          "Pris": 89,
           "Dato": "2025-09-23"
         }
       ]
@@ -6531,7 +6843,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 79.90,
+          "Pris": 79.9,
           "Dato": "2025-12-08"
         }
       ]
@@ -6541,7 +6853,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 99.00,
+          "Pris": 99,
           "Dato": "2026-01-30"
         }
       ]
@@ -6551,7 +6863,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 149.00,
+          "Pris": 149,
           "Dato": "2025-09-02"
         }
       ]
@@ -6561,17 +6873,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 109.00,
+          "Pris": 109,
           "Dato": "2025-10-07"
         }
       ]
     },
     {
-      "Navn": "Pasta m/ost\u0026skinkesaus 350g",
+      "Navn": "Pasta m/ost&skinkesaus 350g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 60.90,
+          "Pris": 60.9,
           "Dato": "2025-08-27"
         }
       ]
@@ -6581,7 +6893,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 49.90,
+          "Pris": 49.9,
           "Dato": "2025-08-07"
         }
       ]
@@ -6591,13 +6903,13 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 49.90,
+          "Pris": 49.9,
           "Dato": "2025-08-07"
         }
       ]
     },
     {
-      "Navn": "Pastinakk \u00F8kologisk",
+      "Navn": "Pastinakk økologisk",
       "Enhet": "kg",
       "Priser": [
         {
@@ -6607,31 +6919,31 @@
       ]
     },
     {
-      "Navn": "Peacemerke jordb\u00E6r\u0026lakris 80g",
+      "Navn": "Peacemerke jordbær&lakris 80g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 27.90,
+          "Pris": 27.9,
           "Dato": "2025-10-11"
         }
       ]
     },
     {
-      "Navn": "Pean\u00F8tter 275g",
+      "Navn": "Peanøtter 275g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 19.90,
+          "Pris": 19.9,
           "Dato": "2025-11-19"
         }
       ]
     },
     {
-      "Navn": "Pean\u00F8tter ristet u/salt 250g",
+      "Navn": "Peanøtter ristet u/salt 250g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 25.90,
+          "Pris": 25.9,
           "Dato": "2025-04-29"
         }
       ]
@@ -6641,15 +6953,15 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2025-06-14"
         },
         {
-          "Pris": 31.90,
+          "Pris": 31.9,
           "Dato": "2025-11-19"
         },
         {
-          "Pris": 32.90,
+          "Pris": 32.9,
           "Dato": "2026-03-14"
         }
       ]
@@ -6659,7 +6971,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 37.90,
+          "Pris": 37.9,
           "Dato": "2025-11-21"
         }
       ]
@@ -6669,7 +6981,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 33.50,
+          "Pris": 33.5,
           "Dato": "2025-09-17"
         }
       ]
@@ -6679,11 +6991,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 36.50,
+          "Pris": 36.5,
           "Dato": "2025-05-15"
         },
         {
-          "Pris": 32.90,
+          "Pris": 32.9,
           "Dato": "2025-12-30"
         }
       ]
@@ -6693,13 +7005,13 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 15.90,
+          "Pris": 15.9,
           "Dato": "2025-07-14"
         }
       ]
     },
     {
-      "Navn": "Pinnekj\u00F8tt kokt pr kg",
+      "Navn": "Pinnekjøtt kokt pr kg",
       "Enhet": "kg",
       "Priser": [
         {
@@ -6713,21 +7025,21 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 71.90,
+          "Pris": 71.9,
           "Dato": "2025-11-21"
         },
         {
-          "Pris": 73.90,
+          "Pris": 73.9,
           "Dato": "2025-12-20"
         }
       ]
     },
     {
-      "Navn": "Pitabr\u00F8d fine 6stk",
+      "Navn": "Pitabrød fine 6stk",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 41.50,
+          "Pris": 41.5,
           "Dato": "2025-07-14"
         }
       ]
@@ -6737,11 +7049,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 105.00,
+          "Pris": 105,
           "Dato": "2025-06-13"
         },
         {
-          "Pris": 115.00,
+          "Pris": 115,
           "Dato": "2025-11-07"
         }
       ]
@@ -6751,7 +7063,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 78.90,
+          "Pris": 78.9,
           "Dato": "2025-05-15"
         }
       ]
@@ -6761,7 +7073,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 96.00,
+          "Pris": 96,
           "Dato": "2025-06-28"
         }
       ]
@@ -6771,7 +7083,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 47.90,
+          "Pris": 47.9,
           "Dato": "2025-11-18"
         }
       ]
@@ -6781,7 +7093,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 36.90,
+          "Pris": 36.9,
           "Dato": "2026-01-30"
         }
       ]
@@ -6791,7 +7103,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 35.90,
+          "Pris": 35.9,
           "Dato": "2025-11-21"
         }
       ]
@@ -6801,28 +7113,42 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 23.50,
+          "Pris": 23.5,
           "Dato": "2025-05-27"
         }
       ]
     },
     {
-      "Navn": "Pizzasaus type r\u00F8d 120g",
+      "Navn": "Pizzasaus type rød 120g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 27.90,
+          "Pris": 27.9,
           "Dato": "2025-11-18"
         }
       ]
     },
     {
-      "Navn": "Plumbo r\u00F8rvask 1l",
+      "Navn": "Plumbo rørvask 1l",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 119.00,
+          "Pris": 119,
           "Dato": "2025-05-03"
+        }
+      ]
+    },
+    {
+      "Navn": "Pølsebrød sesam 8stk 400g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 31.5,
+          "Dato": "2025-04-29"
+        },
+        {
+          "Pris": 35.9,
+          "Dato": "2025-11-27"
         }
       ]
     },
@@ -6831,7 +7157,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 74.90,
+          "Pris": 74.9,
           "Dato": "2025-07-14"
         }
       ]
@@ -6847,16 +7173,22 @@
       ]
     },
     {
-      "Navn": "P\u00F8lsebr\u00F8d sesam 8stk 400g",
+      "Navn": "Råny pepperoni 60g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 31.50,
-          "Dato": "2025-04-29"
-        },
+          "Pris": 45.9,
+          "Dato": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "Navn": "Råny pizzatopping pepperoni 60g",
+      "Enhet": "stk",
+      "Priser": [
         {
-          "Pris": 35.90,
-          "Dato": "2025-11-27"
+          "Pris": 48.5,
+          "Dato": "2025-11-06"
         }
       ]
     },
@@ -6865,7 +7197,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 24.90,
+          "Pris": 24.9,
           "Dato": "2025-09-24"
         }
       ]
@@ -6875,7 +7207,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 24.90,
+          "Pris": 24.9,
           "Dato": "2026-03-14"
         }
       ]
@@ -6885,7 +7217,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2025-11-07"
         }
       ]
@@ -6895,7 +7227,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 22.90,
+          "Pris": 22.9,
           "Dato": "2025-12-20"
         }
       ]
@@ -6905,7 +7237,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 24.90,
+          "Pris": 24.9,
           "Dato": "2026-03-28"
         }
       ]
@@ -6915,7 +7247,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 32.90,
+          "Pris": 32.9,
           "Dato": "2025-05-03"
         }
       ]
@@ -6925,7 +7257,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 64.90,
+          "Pris": 64.9,
           "Dato": "2025-12-20"
         }
       ]
@@ -6935,7 +7267,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2025-12-20"
         }
       ]
@@ -6945,8 +7277,18 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 57.90,
+          "Pris": 57.9,
           "Dato": "2025-05-16"
+        }
+      ]
+    },
+    {
+      "Navn": "Rødløk 2stk",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 21.9,
+          "Dato": "2025-12-20"
         }
       ]
     },
@@ -6955,8 +7297,26 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 34.90,
+          "Pris": 34.9,
           "Dato": "2025-05-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Rømmedressing original 125g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 29.1,
+          "Dato": "2025-06-13"
+        },
+        {
+          "Pris": 29.5,
+          "Dato": "2025-09-13"
+        },
+        {
+          "Pris": 28.9,
+          "Dato": "2025-11-18"
         }
       ]
     },
@@ -6965,60 +7325,12 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 23.90,
+          "Pris": 23.9,
           "Dato": "2025-11-21"
         },
         {
-          "Pris": 24.90,
+          "Pris": 24.9,
           "Dato": "2026-01-30"
-        }
-      ]
-    },
-    {
-      "Navn": "R\u00F8dl\u00F8k 2stk",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 21.90,
-          "Dato": "2025-12-20"
-        }
-      ]
-    },
-    {
-      "Navn": "R\u00F8mmedressing original 125g",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 29.10,
-          "Dato": "2025-06-13"
-        },
-        {
-          "Pris": 29.50,
-          "Dato": "2025-09-13"
-        },
-        {
-          "Pris": 28.90,
-          "Dato": "2025-11-18"
-        }
-      ]
-    },
-    {
-      "Navn": "R\u00E5ny pepperoni 60g",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 45.90,
-          "Dato": "2025-11-18"
-        }
-      ]
-    },
-    {
-      "Navn": "R\u00E5ny pizzatopping pepperoni 60g",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 48.50,
-          "Dato": "2025-11-06"
         }
       ]
     },
@@ -7027,17 +7339,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 33.90,
+          "Pris": 33.9,
           "Dato": "2025-05-15"
         }
       ]
     },
     {
-      "Navn": "Salatbar plukk\u0026miks",
+      "Navn": "Salatbar plukk&miks",
       "Enhet": "kg",
       "Priser": [
         {
-          "Pris": 199.00,
+          "Pris": 199,
           "Dato": "2025-09-01"
         }
       ]
@@ -7047,7 +7359,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 25.40,
+          "Pris": 25.4,
           "Dato": "2025-11-21"
         }
       ]
@@ -7057,27 +7369,13 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 34.90,
+          "Pris": 34.9,
           "Dato": "2025-12-30"
         }
       ]
     },
     {
-      "Navn": "Sitron pr kg",
-      "Enhet": "kg",
-      "Priser": [
-        {
-          "Pris": 49.90,
-          "Dato": "2025-06-13"
-        },
-        {
-          "Pris": 62.88,
-          "Dato": "2025-10-11"
-        }
-      ]
-    },
-    {
-      "Navn": "Sitron \u00F8kologisk pr kg",
+      "Navn": "Sitron økologisk pr kg",
       "Enhet": "kg",
       "Priser": [
         {
@@ -7087,35 +7385,49 @@
       ]
     },
     {
+      "Navn": "Sitron pr kg",
+      "Enhet": "kg",
+      "Priser": [
+        {
+          "Pris": 49.9,
+          "Dato": "2025-06-13"
+        },
+        {
+          "Pris": 62.88,
+          "Dato": "2025-10-11"
+        }
+      ]
+    },
+    {
       "Navn": "Sitronsaft 115ml",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 25.00,
+          "Pris": 25,
           "Dato": "2025-07-14"
         }
       ]
     },
     {
-      "Navn": "Sjalottl\u00F8k 350g",
+      "Navn": "Sjalottløk 350g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2025-10-11"
         },
         {
-          "Pris": 34.90,
+          "Pris": 34.9,
           "Dato": "2026-03-14"
         }
       ]
     },
     {
-      "Navn": "Sjokohassel n\u00F8tter 210g",
+      "Navn": "Sjokohassel nøtter 210g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 92.00,
+          "Pris": 92,
           "Dato": "2025-10-11"
         }
       ]
@@ -7125,7 +7437,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 74.90,
+          "Pris": 74.9,
           "Dato": "2025-09-13"
         }
       ]
@@ -7135,7 +7447,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 9.90,
+          "Pris": 9.9,
           "Dato": "2026-04-08"
         }
       ]
@@ -7145,7 +7457,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 84.90,
+          "Pris": 84.9,
           "Dato": "2025-11-22"
         }
       ]
@@ -7155,7 +7467,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 20.90,
+          "Pris": 20.9,
           "Dato": "2025-10-21"
         }
       ]
@@ -7165,7 +7477,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 27.90,
+          "Pris": 27.9,
           "Dato": "2025-09-17"
         }
       ]
@@ -7175,7 +7487,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 26.90,
+          "Pris": 26.9,
           "Dato": "2025-12-22"
         }
       ]
@@ -7185,7 +7497,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2026-03-28"
         }
       ]
@@ -7195,47 +7507,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 46.90,
+          "Pris": 46.9,
           "Dato": "2025-12-20"
         }
       ]
     },
     {
-      "Navn": "Smil rull 78g",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 37.90,
-          "Dato": "2025-12-22"
-        }
-      ]
-    },
-    {
-      "Navn": "Smoothie bringeb\u00E6r\u0026jordb\u00E6r 750ml",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 56.90,
-          "Dato": "2026-03-14"
-        }
-      ]
-    },
-    {
-      "Navn": "Sm\u00F8r croissant premium",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 19.90,
-          "Dato": "2025-12-20"
-        }
-      ]
-    },
-    {
-      "Navn": "Sm\u00E5godt pr kg",
+      "Navn": "Smågodt pr kg",
       "Enhet": "kg",
       "Priser": [
         {
-          "Pris": 160.00,
+          "Pris": 160,
           "Dato": "2025-09-13"
         },
         {
@@ -7245,22 +7527,52 @@
       ]
     },
     {
-      "Navn": "Sm\u00E5rett m/bacon 2x90g",
+      "Navn": "Smårett m/bacon 2x90g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2025-11-18"
         }
       ]
     },
     {
-      "Navn": "Sm\u00E5rettskinke duopk 2x90g",
+      "Navn": "Smårettskinke duopk 2x90g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 46.90,
+          "Pris": 46.9,
           "Dato": "2025-11-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Smil rull 78g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 37.9,
+          "Dato": "2025-12-22"
+        }
+      ]
+    },
+    {
+      "Navn": "Smoothie bringebær&jordbær 750ml",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 56.9,
+          "Dato": "2026-03-14"
+        }
+      ]
+    },
+    {
+      "Navn": "Smør croissant premium",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 19.9,
+          "Dato": "2025-12-20"
         }
       ]
     },
@@ -7269,7 +7581,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2025-10-11"
         }
       ]
@@ -7279,7 +7591,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 37.00,
+          "Pris": 37,
           "Dato": "2025-06-13"
         }
       ]
@@ -7289,7 +7601,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 21.50,
+          "Pris": 21.5,
           "Dato": "2025-04-29"
         }
       ]
@@ -7299,8 +7611,40 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 28.90,
+          "Pris": 28.9,
           "Dato": "2025-05-09"
+        }
+      ]
+    },
+    {
+      "Navn": "Sørlandschips spansk paprika 200g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 33.9,
+          "Dato": "2025-05-03"
+        },
+        {
+          "Pris": 37.5,
+          "Dato": "2025-08-27"
+        },
+        {
+          "Pris": 36.9,
+          "Dato": "2025-11-21"
+        },
+        {
+          "Pris": 38.9,
+          "Dato": "2026-03-21"
+        }
+      ]
+    },
+    {
+      "Navn": "Søtpotet opphøgde 450g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 41.9,
+          "Dato": "2025-05-13"
         }
       ]
     },
@@ -7309,7 +7653,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 53.50,
+          "Pris": 53.5,
           "Dato": "2025-07-01"
         }
       ]
@@ -7319,17 +7663,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 32.90,
+          "Pris": 32.9,
           "Dato": "2025-09-02"
         }
       ]
     },
     {
-      "Navn": "Spesialloff m/valmuefr\u00F8",
+      "Navn": "Spesialloff m/valmuefrø",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 44.90,
+          "Pris": 44.9,
           "Dato": "2025-10-11"
         }
       ]
@@ -7339,7 +7683,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 45.90,
+          "Pris": 45.9,
           "Dato": "2025-05-03"
         }
       ]
@@ -7349,7 +7693,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 43.90,
+          "Pris": 43.9,
           "Dato": "2025-12-02"
         }
       ]
@@ -7359,15 +7703,15 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2025-05-13"
         },
         {
-          "Pris": 32.90,
+          "Pris": 32.9,
           "Dato": "2025-06-28"
         },
         {
-          "Pris": 36.50,
+          "Pris": 36.5,
           "Dato": "2025-11-27"
         }
       ]
@@ -7377,11 +7721,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 46.90,
+          "Pris": 46.9,
           "Dato": "2025-09-02"
         },
         {
-          "Pris": 49.90,
+          "Pris": 49.9,
           "Dato": "2026-03-28"
         }
       ]
@@ -7395,7 +7739,7 @@
           "Dato": "2025-10-04"
         },
         {
-          "Pris": 469.00,
+          "Pris": 469,
           "Dato": "2026-03-28"
         }
       ]
@@ -7405,7 +7749,7 @@
       "Enhet": "kg",
       "Priser": [
         {
-          "Pris": 649.00,
+          "Pris": 649,
           "Dato": "2025-10-04"
         }
       ]
@@ -7415,11 +7759,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 36.90,
+          "Pris": 36.9,
           "Dato": "2025-07-14"
         },
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2025-12-20"
         }
       ]
@@ -7429,7 +7773,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 72.90,
+          "Pris": 72.9,
           "Dato": "2025-12-02"
         }
       ]
@@ -7439,7 +7783,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 139.00,
+          "Pris": 139,
           "Dato": "2025-05-14"
         }
       ]
@@ -7449,40 +7793,8 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 109.00,
+          "Pris": 109,
           "Dato": "2025-05-14"
-        }
-      ]
-    },
-    {
-      "Navn": "S\u00F8rlandschips spansk paprika 200g",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 33.90,
-          "Dato": "2025-05-03"
-        },
-        {
-          "Pris": 37.50,
-          "Dato": "2025-08-27"
-        },
-        {
-          "Pris": 36.90,
-          "Dato": "2025-11-21"
-        },
-        {
-          "Pris": 38.90,
-          "Dato": "2026-03-21"
-        }
-      ]
-    },
-    {
-      "Navn": "S\u00F8tpotet opph\u00F8gde 450g",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 41.90,
-          "Dato": "2025-05-13"
         }
       ]
     },
@@ -7491,7 +7803,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 26.90,
+          "Pris": 26.9,
           "Dato": "2026-03-21"
         }
       ]
@@ -7501,7 +7813,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 50.90,
+          "Pris": 50.9,
           "Dato": "2025-10-11"
         }
       ]
@@ -7511,17 +7823,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 44.90,
+          "Pris": 44.9,
           "Dato": "2026-03-14"
         }
       ]
     },
     {
-      "Navn": "Tast mat 15% mva \u00E5pen plu",
+      "Navn": "Tast mat 15% mva åpen plu",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 44.00,
+          "Pris": 44,
           "Dato": "2025-10-11"
         }
       ]
@@ -7531,7 +7843,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 14.90,
+          "Pris": 14.9,
           "Dato": "2025-05-03"
         }
       ]
@@ -7541,7 +7853,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 43.90,
+          "Pris": 43.9,
           "Dato": "2025-11-19"
         }
       ]
@@ -7551,7 +7863,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 47.90,
+          "Pris": 47.9,
           "Dato": "2025-12-30"
         }
       ]
@@ -7561,7 +7873,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 46.90,
+          "Pris": 46.9,
           "Dato": "2025-07-07"
         }
       ]
@@ -7571,25 +7883,25 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 54.90,
+          "Pris": 54.9,
           "Dato": "2025-05-09"
         },
         {
-          "Pris": 59.90,
+          "Pris": 59.9,
           "Dato": "2026-03-28"
         }
       ]
     },
     {
-      "Navn": "Tomat s\u00F8t 175g",
+      "Navn": "Tomat søt 175g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 31.90,
+          "Pris": 31.9,
           "Dato": "2025-05-14"
         },
         {
-          "Pris": 34.90,
+          "Pris": 34.9,
           "Dato": "2025-12-19"
         }
       ]
@@ -7599,7 +7911,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 15.40,
+          "Pris": 15.4,
           "Dato": "2026-03-21"
         }
       ]
@@ -7609,7 +7921,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 41.90,
+          "Pris": 41.9,
           "Dato": "2026-01-30"
         }
       ]
@@ -7619,7 +7931,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2025-11-27"
         }
       ]
@@ -7629,7 +7941,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 36.90,
+          "Pris": 36.9,
           "Dato": "2026-04-15"
         }
       ]
@@ -7639,17 +7951,27 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 52.90,
+          "Pris": 52.9,
           "Dato": "2025-11-19"
         }
       ]
     },
     {
-      "Navn": "Tortelloni ost\u0026skinke 250g",
+      "Navn": "Tørkerull kjøkken 4rl",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 41.9,
+          "Dato": "2025-12-30"
+        }
+      ]
+    },
+    {
+      "Navn": "Tortelloni ost&skinke 250g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 39.9,
           "Dato": "2025-09-17"
         }
       ]
@@ -7659,7 +7981,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 41.90,
+          "Pris": 41.9,
           "Dato": "2026-03-28"
         }
       ]
@@ -7669,15 +7991,15 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 34.50,
+          "Pris": 34.5,
           "Dato": "2025-05-09"
         },
         {
-          "Pris": 35.90,
+          "Pris": 35.9,
           "Dato": "2025-12-19"
         },
         {
-          "Pris": 36.50,
+          "Pris": 36.5,
           "Dato": "2026-03-28"
         }
       ]
@@ -7687,11 +8009,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2025-05-27"
         },
         {
-          "Pris": 43.90,
+          "Pris": 43.9,
           "Dato": "2025-12-30"
         }
       ]
@@ -7701,17 +8023,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2025-12-30"
         }
       ]
     },
     {
-      "Navn": "Trend oppvaskb\u00F8rste 1250 1pcs",
+      "Navn": "Trend oppvaskbørste 1250 1pcs",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 43.90,
+          "Pris": 43.9,
           "Dato": "2026-03-28"
         }
       ]
@@ -7721,18 +8043,8 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 31.90,
+          "Pris": 31.9,
           "Dato": "2025-12-22"
-        }
-      ]
-    },
-    {
-      "Navn": "T\u00F8rkerull kj\u00F8kken 4rl",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 41.90,
-          "Dato": "2025-12-30"
         }
       ]
     },
@@ -7741,11 +8053,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 15.90,
+          "Pris": 15.9,
           "Dato": "2025-05-03"
         },
         {
-          "Pris": 18.40,
+          "Pris": 18.4,
           "Dato": "2025-09-17"
         }
       ]
@@ -7755,7 +8067,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 41.90,
+          "Pris": 41.9,
           "Dato": "2026-03-14"
         }
       ]
@@ -7765,7 +8077,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 56.50,
+          "Pris": 56.5,
           "Dato": "2025-05-03"
         }
       ]
@@ -7775,27 +8087,27 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 15.90,
+          "Pris": 15.9,
           "Dato": "2025-12-22"
         }
       ]
     },
     {
-      "Navn": "Vepsebol jordb\u00E6r 42g",
+      "Navn": "Vepsebol jordbær 42g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 12.90,
+          "Pris": 12.9,
           "Dato": "2025-12-22"
         }
       ]
     },
     {
-      "Navn": "Vestlandslefsa m/sukker\u0026kanel 5pk 230g",
+      "Navn": "Vestlandslefsa m/sukker&kanel 5pk 230g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 37.50,
+          "Pris": 37.5,
           "Dato": "2025-05-14"
         }
       ]
@@ -7805,7 +8117,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 99.00,
+          "Pris": 99,
           "Dato": "2026-03-14"
         }
       ]
@@ -7815,7 +8127,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 58.50,
+          "Pris": 58.5,
           "Dato": "2025-07-14"
         }
       ]
@@ -7825,7 +8137,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 27.90,
+          "Pris": 27.9,
           "Dato": "2025-09-24"
         }
       ]
@@ -7835,7 +8147,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 31.90,
+          "Pris": 31.9,
           "Dato": "2026-04-10"
         }
       ]
@@ -7845,7 +8157,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 28.90,
+          "Pris": 28.9,
           "Dato": "2026-04-15"
         }
       ]
@@ -7855,17 +8167,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 43.90,
+          "Pris": 43.9,
           "Dato": "2026-03-28"
         }
       ]
     },
     {
-      "Navn": "Zendium tannkrem fresh\u0026white 75ml",
+      "Navn": "Zendium tannkrem fresh&white 75ml",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 33.90,
+          "Pris": 33.9,
           "Dato": "2025-11-19"
         }
       ]
@@ -7877,7 +8189,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2025-11-14"
         }
       ]
@@ -7887,7 +8199,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 32.90,
+          "Pris": 32.9,
           "Dato": "2026-03-17"
         }
       ]
@@ -7897,7 +8209,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2025-12-27"
         }
       ]
@@ -7907,7 +8219,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 69.90,
+          "Pris": 69.9,
           "Dato": "2026-01-03"
         }
       ]
@@ -7923,11 +8235,11 @@
       ]
     },
     {
-      "Navn": "Asparges gr\u00F8nn bunt 250g",
+      "Navn": "Asparges grønn bunt 250g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 46.90,
+          "Pris": 46.9,
           "Dato": "2026-03-17"
         }
       ]
@@ -7937,7 +8249,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 45.90,
+          "Pris": 45.9,
           "Dato": "2026-01-03"
         }
       ]
@@ -7957,7 +8269,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 26.90,
+          "Pris": 26.9,
           "Dato": "2026-02-28"
         }
       ]
@@ -7967,27 +8279,37 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 16.90,
+          "Pris": 16.9,
           "Dato": "2026-03-06"
         }
       ]
     },
     {
-      "Navn": "Bliw h\u00E5nds\u00E5pe peach 300ml",
+      "Navn": "Bliw håndsåpe peach 300ml",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 25.90,
+          "Pris": 25.9,
           "Dato": "2026-01-08"
         }
       ]
     },
     {
-      "Navn": "Bringeb\u00E6r 125g",
+      "Navn": "Bønner sorte økologisk 380g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 54.90,
+          "Pris": 15.5,
+          "Dato": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "Navn": "Bringebær 125g",
+      "Enhet": "stk",
+      "Priser": [
+        {
+          "Pris": 54.9,
           "Dato": "2026-03-06"
         }
       ]
@@ -7997,7 +8319,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 19.90,
+          "Pris": 19.9,
           "Dato": "2026-03-06"
         }
       ]
@@ -8007,18 +8329,8 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 69.90,
+          "Pris": 69.9,
           "Dato": "2026-02-28"
-        }
-      ]
-    },
-    {
-      "Navn": "B\u00F8nner sorte \u00F8kologisk 380g",
-      "Enhet": "stk",
-      "Priser": [
-        {
-          "Pris": 15.50,
-          "Dato": "2026-03-06"
         }
       ]
     },
@@ -8027,27 +8339,27 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 69.90,
+          "Pris": 69.9,
           "Dato": "2026-03-06"
         }
       ]
     },
     {
-      "Navn": "Cheddar\u0026mozzarella 200g",
+      "Navn": "Cheddar&mozzarella 200g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 48.90,
+          "Pris": 48.9,
           "Dato": "2026-01-03"
         }
       ]
     },
     {
-      "Navn": "Chilipepper r\u00F8d pk",
+      "Navn": "Chilipepper rød pk",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 18.90,
+          "Pris": 18.9,
           "Dato": "2026-03-06"
         }
       ]
@@ -8057,7 +8369,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 41.90,
+          "Pris": 41.9,
           "Dato": "2026-03-06"
         }
       ]
@@ -8067,37 +8379,37 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2025-12-12"
         }
       ]
     },
     {
-      "Navn": "Dave\u0026jon\u0027s mango chili twist t\u00F8rket 100g",
+      "Navn": "Dave&jon's mango chili twist tørket 100g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 47.90,
+          "Pris": 47.9,
           "Dato": "2025-11-12"
         }
       ]
     },
     {
-      "Navn": "Druer r\u00F8de 500g",
+      "Navn": "Druer røde 500g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 44.90,
+          "Pris": 44.9,
           "Dato": "2025-12-12"
         }
       ]
     },
     {
-      "Navn": "Egg \u00F8kologisk m/l/xl 6stk",
+      "Navn": "Egg økologisk m/l/xl 6stk",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 35.90,
+          "Pris": 35.9,
           "Dato": "2026-03-21"
         }
       ]
@@ -8107,7 +8419,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 59.90,
+          "Pris": 59.9,
           "Dato": "2025-12-12"
         }
       ]
@@ -8117,7 +8429,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 54.90,
+          "Pris": 54.9,
           "Dato": "2026-01-03"
         }
       ]
@@ -8127,7 +8439,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 119.00,
+          "Pris": 119,
           "Dato": "2026-03-21"
         }
       ]
@@ -8137,7 +8449,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 27.90,
+          "Pris": 27.9,
           "Dato": "2025-12-27"
         }
       ]
@@ -8147,7 +8459,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 99.90,
+          "Pris": 99.9,
           "Dato": "2025-11-14"
         }
       ]
@@ -8157,23 +8469,23 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 28.50,
+          "Pris": 28.5,
           "Dato": "2026-03-06"
         }
       ]
     },
     {
-      "Navn": "Farris frus eple\u0026kiwi 1,5l",
+      "Navn": "Farris frus eple&kiwi 1,5l",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 35.90,
+          "Pris": 35.9,
           "Dato": "2026-03-17"
         }
       ]
     },
     {
-      "Navn": "Fl\u00F8tepoteter varm pr kg",
+      "Navn": "Fløtepoteter varm pr kg",
       "Enhet": "kg",
       "Priser": [
         {
@@ -8181,17 +8493,17 @@
           "Dato": "2026-01-03"
         },
         {
-          "Pris": 188.90,
+          "Pris": 188.9,
           "Dato": "2026-02-28"
         }
       ]
     },
     {
-      "Navn": "Frokostegg frittg\u00E5ende l 12stk",
+      "Navn": "Frokostegg frittgående l 12stk",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 59.90,
+          "Pris": 59.9,
           "Dato": "2025-12-12"
         }
       ]
@@ -8201,7 +8513,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 48.90,
+          "Pris": 48.9,
           "Dato": "2026-02-28"
         }
       ]
@@ -8211,17 +8523,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2026-03-06"
         }
       ]
     },
     {
-      "Navn": "Ha-p\u00E5 310g",
+      "Navn": "Ha-på 310g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 38.90,
+          "Pris": 38.9,
           "Dato": "2025-11-12"
         }
       ]
@@ -8231,7 +8543,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2025-11-14"
         }
       ]
@@ -8241,7 +8553,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 44.90,
+          "Pris": 44.9,
           "Dato": "2026-03-06"
         }
       ]
@@ -8251,37 +8563,37 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 54.90,
+          "Pris": 54.9,
           "Dato": "2025-11-12"
         }
       ]
     },
     {
-      "Navn": "Jif engangsv\u00E5tmopp krystal original",
+      "Navn": "Jif engangsvåtmopp krystal original",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 92.90,
+          "Pris": 92.9,
           "Dato": "2026-01-08"
         }
       ]
     },
     {
-      "Navn": "Jordb\u00E6r 400g",
+      "Navn": "Jordbær 400g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 25.90,
+          "Pris": 25.9,
           "Dato": "2025-12-27"
         }
       ]
     },
     {
-      "Navn": "Jordb\u00E6rsyltet\u00F8y hjemmelaget 400g",
+      "Navn": "Jordbærsyltetøy hjemmelaget 400g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 27.90,
+          "Pris": 27.9,
           "Dato": "2025-12-12"
         }
       ]
@@ -8291,7 +8603,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 97.90,
+          "Pris": 97.9,
           "Dato": "2026-03-06"
         }
       ]
@@ -8301,37 +8613,37 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 11.90,
+          "Pris": 11.9,
           "Dato": "2025-12-12"
         }
       ]
     },
     {
-      "Navn": "Kj\u00F8ttbuljong 10stk",
+      "Navn": "Kjøttbuljong 10stk",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2026-03-06"
         }
       ]
     },
     {
-      "Navn": "Kj\u00F8ttdeig svin 9% u/salt og vann 400g",
+      "Navn": "Kjøttdeig svin 9% u/salt og vann 400g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 61.90,
+          "Pris": 61.9,
           "Dato": "2025-12-12"
         }
       ]
     },
     {
-      "Navn": "Kneippbr\u00F8d 750g",
+      "Navn": "Kneippbrød 750g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 14.90,
+          "Pris": 14.9,
           "Dato": "2025-12-12"
         }
       ]
@@ -8341,11 +8653,11 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 35.90,
+          "Pris": 35.9,
           "Dato": "2025-12-12"
         },
         {
-          "Pris": 34.90,
+          "Pris": 34.9,
           "Dato": "2026-03-21"
         }
       ]
@@ -8355,17 +8667,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 42.90,
+          "Pris": 42.9,
           "Dato": "2026-01-03"
         }
       ]
     },
     {
-      "Navn": "Kremfl\u00F8te 37% 3dl",
+      "Navn": "Kremfløte 37% 3dl",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 27.50,
+          "Pris": 27.5,
           "Dato": "2026-02-28"
         }
       ]
@@ -8375,7 +8687,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 109.00,
+          "Pris": 109,
           "Dato": "2026-03-17"
         }
       ]
@@ -8385,7 +8697,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 195.00,
+          "Pris": 195,
           "Dato": "2026-03-21"
         }
       ]
@@ -8395,21 +8707,21 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 23.90,
+          "Pris": 23.9,
           "Dato": "2026-03-21"
         }
       ]
     },
     {
-      "Navn": "Lettr\u00F8mme 17% 300g",
+      "Navn": "Lettrømme 17% 300g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 23.50,
+          "Pris": 23.5,
           "Dato": "2025-11-14"
         },
         {
-          "Pris": 23.90,
+          "Pris": 23.9,
           "Dato": "2026-03-06"
         }
       ]
@@ -8419,7 +8731,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 32.50,
+          "Pris": 32.5,
           "Dato": "2026-01-08"
         }
       ]
@@ -8435,7 +8747,7 @@
       ]
     },
     {
-      "Navn": "L\u00F8k gul pr kg first price",
+      "Navn": "Løk gul pr kg first price",
       "Enhet": "kg",
       "Priser": [
         {
@@ -8449,7 +8761,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 49.90,
+          "Pris": 49.9,
           "Dato": "2025-11-14"
         }
       ]
@@ -8459,17 +8771,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 27.90,
+          "Pris": 27.9,
           "Dato": "2025-12-27"
         }
       ]
     },
     {
-      "Navn": "Meierism\u00F8r 500g",
+      "Navn": "Meierismør 500g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 67.90,
+          "Pris": 67.9,
           "Dato": "2026-03-06"
         }
       ]
@@ -8479,7 +8791,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 109.00,
+          "Pris": 109,
           "Dato": "2026-03-17"
         }
       ]
@@ -8489,7 +8801,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2026-02-28"
         }
       ]
@@ -8499,7 +8811,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 34.90,
+          "Pris": 34.9,
           "Dato": "2026-01-08"
         }
       ]
@@ -8509,7 +8821,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 42.90,
+          "Pris": 42.9,
           "Dato": "2026-02-28"
         }
       ]
@@ -8519,7 +8831,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 54.90,
+          "Pris": 54.9,
           "Dato": "2026-02-28"
         }
       ]
@@ -8529,7 +8841,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 38.90,
+          "Pris": 38.9,
           "Dato": "2025-12-12"
         }
       ]
@@ -8539,7 +8851,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 59.90,
+          "Pris": 59.9,
           "Dato": "2026-02-28"
         }
       ]
@@ -8549,7 +8861,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 79.90,
+          "Pris": 79.9,
           "Dato": "2026-01-03"
         }
       ]
@@ -8559,7 +8871,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 21.90,
+          "Pris": 21.9,
           "Dato": "2026-01-03"
         }
       ]
@@ -8569,7 +8881,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 28.90,
+          "Pris": 28.9,
           "Dato": "2026-02-28"
         }
       ]
@@ -8579,7 +8891,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2026-01-08"
         }
       ]
@@ -8589,7 +8901,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 79.90,
+          "Pris": 79.9,
           "Dato": "2026-02-28"
         }
       ]
@@ -8599,17 +8911,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 65.90,
+          "Pris": 65.9,
           "Dato": "2026-03-06"
         }
       ]
     },
     {
-      "Navn": "Pizzasaus type r\u00F8d 120g",
+      "Navn": "Pizzasaus type rød 120g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 28.90,
+          "Pris": 28.9,
           "Dato": "2026-02-28"
         }
       ]
@@ -8619,7 +8931,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2026-02-28"
         }
       ]
@@ -8629,7 +8941,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 29.90,
+          "Pris": 29.9,
           "Dato": "2026-01-08"
         }
       ]
@@ -8639,17 +8951,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 24.90,
+          "Pris": 24.9,
           "Dato": "2026-03-21"
         }
       ]
     },
     {
-      "Navn": "R\u00F8mmedressing original 125g",
+      "Navn": "Rømmedressing original 125g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 27.90,
+          "Pris": 27.9,
           "Dato": "2026-03-06"
         }
       ]
@@ -8659,7 +8971,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 33.90,
+          "Pris": 33.9,
           "Dato": "2026-03-06"
         }
       ]
@@ -8669,7 +8981,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 59.90,
+          "Pris": 59.9,
           "Dato": "2025-11-14"
         }
       ]
@@ -8679,7 +8991,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 39.90,
+          "Pris": 39.9,
           "Dato": "2025-12-12"
         }
       ]
@@ -8689,7 +9001,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 28.90,
+          "Pris": 28.9,
           "Dato": "2026-03-06"
         }
       ]
@@ -8699,7 +9011,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 9.90,
+          "Pris": 9.9,
           "Dato": "2026-03-21"
         }
       ]
@@ -8713,11 +9025,11 @@
           "Dato": "2025-11-12"
         },
         {
-          "Pris": 54.90,
+          "Pris": 54.9,
           "Dato": "2025-12-27"
         },
         {
-          "Pris": 59.90,
+          "Pris": 59.9,
           "Dato": "2026-03-06"
         }
       ]
@@ -8737,7 +9049,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 23.90,
+          "Pris": 23.9,
           "Dato": "2025-12-12"
         }
       ]
@@ -8747,7 +9059,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 26.90,
+          "Pris": 26.9,
           "Dato": "2026-03-06"
         }
       ]
@@ -8757,7 +9069,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 49.90,
+          "Pris": 49.9,
           "Dato": "2026-02-28"
         }
       ]
@@ -8767,17 +9079,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 59.90,
+          "Pris": 59.9,
           "Dato": "2026-03-17"
         }
       ]
     },
     {
-      "Navn": "Tomater hakkede m/hvitl\u00F8k 390g",
+      "Navn": "Tomater hakkede m/hvitløk 390g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 16.90,
+          "Pris": 16.9,
           "Dato": "2026-03-06"
         }
       ]
@@ -8787,17 +9099,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 25.90,
+          "Pris": 25.9,
           "Dato": "2026-02-28"
         }
       ]
     },
     {
-      "Navn": "Tortelloni ost\u0026skinke 250g",
+      "Navn": "Tortelloni ost&skinke 250g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 40.90,
+          "Pris": 40.9,
           "Dato": "2026-03-06"
         }
       ]
@@ -8807,7 +9119,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 41.90,
+          "Pris": 41.9,
           "Dato": "2026-03-06"
         }
       ]
@@ -8817,7 +9129,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 34.50,
+          "Pris": 34.5,
           "Dato": "2025-12-12"
         }
       ]
@@ -8827,17 +9139,17 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 41.90,
+          "Pris": 41.9,
           "Dato": "2026-01-08"
         }
       ]
     },
     {
-      "Navn": "Vestlandslefsa m/sukker\u0026kanel 5pk 230g",
+      "Navn": "Vestlandslefsa m/sukker&kanel 5pk 230g",
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 37.90,
+          "Pris": 37.9,
           "Dato": "2025-11-14"
         }
       ]
@@ -8847,7 +9159,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 26.90,
+          "Pris": 26.9,
           "Dato": "2025-12-27"
         }
       ]
@@ -8857,7 +9169,7 @@
       "Enhet": "stk",
       "Priser": [
         {
-          "Pris": 30.90,
+          "Pris": 30.9,
           "Dato": "2026-02-28"
         }
       ]
